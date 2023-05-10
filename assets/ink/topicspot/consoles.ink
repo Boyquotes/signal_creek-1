@@ -1,5 +1,7 @@
 == consoles ==
 
+It's a game console that seems to be rather outdated.
+
 {
     - consoles_afternickroute:
         -> explored_everything
@@ -1388,6 +1390,8 @@
         &PORTRAIT_nick_nickshocked
     
     NICK: "You can do it!"
+    
+    &EMOTE_NOUR_RightIdle
     
     &PORTRAIT_nour_noursad
     

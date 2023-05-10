@@ -279,7 +279,7 @@
     
     NOUR: "I don't know but... BRACE YOURSELVES!"
     
-    &HIDEPANEL
+    // &HIDEPANEL
     
     &BLACK
     
@@ -287,11 +287,11 @@
     
     &PAUSE_10.0
     
-    &FOLLOW_NOUR_stop
+    // &FOLLOW_NOUR_stop
     
-    &FOLLOW_NICK_NOUR
+    // &FOLLOW_NICK_NOUR
     
-    &FOLLOW_SUWAN_NICK
+    // &FOLLOW_SUWAN_NICK
     
     &FDEIN
     
