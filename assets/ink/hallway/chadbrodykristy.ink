@@ -168,7 +168,7 @@ Three people stand idly. They look almost <i>too</i> still.
     
     &PORTRAIT_???_brodyneutral
     
-    ???: "Looks like Chad, Kristy, and I got demoted to strangers..."
+    ???: "Looks like Chad, Kristy, and I got demoted to <i>strangers...</i>"
     
     &PORTRAIT_???_brodyannoyed
     
@@ -456,11 +456,11 @@ Three people stand idly. They look almost <i>too</i> still.
     
     &PORTRAIT_nour_nourneutral
     
-    NICK: "...Hold on. You guys studied at a <i>Cafe</i>?"
+    NICK: "...Hold on. You guys studied at the <i>cafe</i>?"
     
     &PORTRAIT_nick_nickshocked
     
-    NICK: "Isn't there one right <i>here</i>? At this mall?"
+    NICK: "Do you mean the one right <i>here</i>? At this mall?"
     
     &PORTRAIT_nick_nicknervous
     
@@ -498,7 +498,7 @@ Three people stand idly. They look almost <i>too</i> still.
 
     &PORTRAIT_nour_noursad
 
-    NOUR: <i>Seems like I'm not the only one with bittersweet memories from the Cafe.</i>
+    NOUR: <i>Seems like I'm not the only one with bittersweet memories from the cafe.</i>
     
     &PORTRAIT_nour_nourpondering
     

@@ -127,7 +127,7 @@
     
     &PORTRAIT_nick_nickbigsmile
     
-    NICK: "FUUUUCK!"
+    NICK: "F@&%?$!"
     
     'F@&%?$! is now displayed on the poster!'
     

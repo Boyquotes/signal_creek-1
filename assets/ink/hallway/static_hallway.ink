@@ -1,6 +1,6 @@
 == bathrooms ==
 
-    It's the entrance to a bathroom. To the right, the women's side. To the left, the men's side.
+    It's the entrance to the mall's bathrooms. To the right, the women's side. To the left, the men's side.
     
     { -!bathroom_suwan:
         -> bathroom_suwan
@@ -22,7 +22,7 @@
         
             &PORTRAIT_nour_nourannoyed
         
-        NOUR: "I never liked how the bathroom choice in this mall is binary..."
+        NOUR: "I never liked how the bathrooms in this mall are binary..."
         
             &PORTRAIT_ms. suwan_mssuwanannoyed
         
@@ -119,7 +119,10 @@
     
 == elevator ==
 
-    It's a weird elevator. How do we get those lights to turn on?
+    It's a weird elevator.
+    
+    &PORTRAIT_nour_nourpondering
+    NOUR: <i>How do we get those lights to turn on?</i>
 
     -> END
     
@@ -127,7 +130,9 @@
 
     It's a broken escalator. The path is blocked.
     
-    ... Does <i>anything</i> work in this mall? 
+    &PORTRAIT_nour_nourannoyed
+    
+    NOUR: <i>...Does ANYTHING work in this mall?</i>
     
     -> END
     
@@ -139,12 +144,13 @@
     
 == frogstatue ==
 
-    It's a statue of a frog. Looks very peaceful.
+    It's a statue of a frog. It looks peaceful.
+    
     -> END 
     
 == burgertables ==
 
-    Although the food looks fresh, there is strangely no odor...
+    The tables are covered with fast food. Although the food looks freshly made, there is strangely no odor.
     
     -> END
     
@@ -161,9 +167,13 @@ It's a neatly handwritten sign for the Louis George Cafe. But all of the drink's
     
     EARL EARLIGOLD: "As an apple, you are... Okay."
     
+    &PORTRAIT_nour_nourshocked
+    
     NOUR: "...??!"
     
     EARL EARLIGOLD: "I rate you 6/10."
+    
+    &PORTRAIT_nick_nickbigsmile
     
     NICK: "Haha! You're not a good apple."
     

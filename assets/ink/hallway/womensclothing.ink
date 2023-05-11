@@ -19,15 +19,11 @@
     
     &PORTRAIT_nick_nickshocked
     
-    NICK: "Oh, what the FUCK? The mannequins just looked over at me, I think..!?"
+    NICK: "Oh, what the frick? The mannequins just looked over at me, I think..!?"
     
     &PORTRAIT_ms. suwan_mssuwanannoyed
     
     MS. SUWAN: "Stop being ridiculous."
-    
-    &PORTRAIT_ms. suwan_mssuwansad
-    
-    MS. SUWAN: "... and don't curse." // FROWNING
     
     &PORTRAIT_nick_nickangry
     
@@ -43,13 +39,13 @@
     
     &PORTRAIT_nick_nicksad
     
-    NICK: "... Anyways, there's like, <i>two</i> clothes in there."
+    NICK: "... Anyway, there's like, <i>two</i> clothes left in there."
     
     NICK: "Kinda disappointing for a clothing store."
     
     &PORTRAIT_ms. suwan_mssuwansmile
     
-    MS. SUWAN: "At one point, there were more clothes." // SMILE
+    MS. SUWAN: "It sold much more clothing once." // SMILE
     
     &PORTRAIT_nour_nourpondering
     
