@@ -15,7 +15,7 @@
     
     &PORTRAIT_ms. suwan_mssuwanpondering
     
-    MS. SUWAN: "Oh? How come?"
+    MS. SUWAN: "Oh? And why is that?"
     
     &PORTRAIT_nour_nournervous
     
@@ -69,7 +69,7 @@
     
     &PORTRAIT_ms. suwan_mssuwansmile
     
-    MS. SUWAN: "I think that's the normal experience for everyone regardless of you are."
+    MS. SUWAN: "I think that's the standard experience for everyone regardless of you are."
     
     &PORTRAIT_nour_noursmile
     

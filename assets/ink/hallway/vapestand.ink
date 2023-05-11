@@ -60,7 +60,9 @@
         
         &PORTRAIT_nour_nourannoyed
         
-        NOUR: "You aren't going to taste anything, Nick."
+        NOUR: "They barely taste like anything, Nick."
+        
+        NOUR: "You'd be way better off chewing a real piece of bubblegum."
         
         &PORTRAIT_nick_nickshocked
         
@@ -68,9 +70,7 @@
         
         &PORTRAIT_nick_nicknervous
         
-        NICK: "I mean, uh, yeah!"
-        
-        NICK: "Duh, it doesn't actually taste like anything."
+        NICK: "I mean, uh, I knew that! Duh..."
         
         &PORTRAIT_nour_nourneutral
         

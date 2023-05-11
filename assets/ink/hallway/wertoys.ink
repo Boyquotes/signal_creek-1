@@ -29,7 +29,7 @@
     
     &PORTRAIT_nour_noursad
 
-    NOUR: "I remember fighting with my parents here...
+    NOUR: "I remember fighting with my parents here..."
     
     &PORTRAIT_nick_nicksad
     
@@ -45,7 +45,7 @@
     
     &PORTRAIT_nick_nickpondering
     
-    NICK: "Like, what did the toy store do to you two?"
+    NICK: "Like, what did the toy store <i>do</i> to you two?"
     
     -> END
     
@@ -159,7 +159,7 @@
     
     * "They said your people need you."
     
-        PRINCE PENDRAGON: "They need... <i>me</i>?
+        PRINCE PENDRAGON: "They need... <i>me</i>?"
     
     * "They said you have a noble heart."
     
@@ -227,7 +227,7 @@
     
     &PORTRAIT_prince pendragon_princependragontears
     
-    PRINCE PENDRAGON: I am simply unfit to be a prince."
+    PRINCE PENDRAGON: "I am simply unfit to be a prince."
     
     &PORTRAIT_nick_nicknervous
     

@@ -104,7 +104,7 @@
     
     &PORTRAIT_ms. suwan_mssuwanannoyed
     
-    MS. SUWAN: "Are we here because there's literally an apple on the booth—"
+    MS. SUWAN: "Are we here because there is literally an apple poster on the booth—"
     
     &PORTRAIT_nour_noursad
     
@@ -112,7 +112,7 @@
     
     &PORTRAIT_ms. suwan_mssuwanangry
 
-    MS. SUWAN: "There's no apple here."
+    MS. SUWAN: "I see no apple here."
     
     &PORTRAIT_nour_nourneutral
     
@@ -414,7 +414,7 @@
     
     &PORTRAIT_ms. suwan_mssuwanangry
             
-    MS. SUWAN: "What? This is a poster for crying out loud."
+    MS. SUWAN: "What? This is a <i>poster</i> for crying out loud."
     
     &PORTRAIT_nour_nourneutral
             
@@ -534,7 +534,7 @@
 
     &MUSIC_ApleQuestMusic
     
-    ???: "I wasn't planning on showing myself, but I couldn't help myself!"
+    ???: "I wasn't planning on showing myself, but I couldn't help it!"
     
     &PORTRAIT_???_pinkladyneutral
     

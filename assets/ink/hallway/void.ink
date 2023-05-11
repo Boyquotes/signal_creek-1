@@ -1,6 +1,6 @@
 === thevoid ===
     
-    What's supposed to be the mall floor below is a vast, glitchy abyss. 
+    What is supposed to be the mall floor below had instead been replaced by a vast, glitchy abyss. 
     
     &PAUSE_0.2
     
@@ -28,15 +28,17 @@
     
     &PORTRAIT_ms. suwan_mssuwanannoyed
     
-    MS. SUWAN: "I refuse to believe that."
+    MS. SUWAN: "I refuse to believe something so absurd."
     
     &PORTRAIT_ms. suwan_mssuwanpondering
     
-    MS. SUWAN: "But this is starting to make very little sense. Not that this place made any..."
+    MS. SUWAN: "But this is starting to make very little sense."
+    
+    MS. SUWAN: "Not that this place has been making any in the first place..."
     
     &PORTRAIT_nour_nournervous
     
-    NOUR: "What are we even looking at? It's unlike anything I've seen."
+    NOUR: "What are we even looking at? I've never seen anything like it."
     
     &PORTRAIT_nick_nickshocked
     
@@ -44,11 +46,11 @@
     
     &PORTRAIT_ms. suwan_mssuwanneutral
     
-    MS. SUWAN: "Perhaps not a cosmic horror—it doesn't appear to be too dangerous."
+    MS. SUWAN: "Perhaps not a cosmic horror—it doesn't appear to be actively dangerous."
     
     &PORTRAIT_nick_nicksmallsmile
     
-    NICK: "What if I fell in?"
+    NICK: "What if I jumped in?"
     
     &PORTRAIT_nour_nourannoyed
     
@@ -56,7 +58,7 @@
     
     &PORTRAIT_ms. suwan_mssuwannervous 
     
-    MS. SUWAN: "Please do not do that. <i>Please.</i>"
+    MS. SUWAN: "That would be an <i>incredibly bad idea.</i>"
     
     &PORTRAIT_nick_nickbigsmile
     
@@ -80,6 +82,6 @@
     
     &PORTRAIT_nour_nournervous
     
-    NOUR: <i>... Creepy. Better stop looking. </i>
+    NOUR: <i> ...Creepy. I'd better stop looking.</i>
     
     -> END
