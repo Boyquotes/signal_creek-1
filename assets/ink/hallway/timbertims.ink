@@ -44,7 +44,7 @@
     
     &PORTRAIT_nick_nickshocked
     
-    NICK: "SAME! I had mine for a month before I had to give it to my younger brother."
+    NICK: "SAME! I had mine for a month before I had to give them to my younger brother."
     
     &PORTRAIT_ms. suwan_mssuwanneutral
     
@@ -233,7 +233,7 @@
     
     &PORTRAIT_nick_nicknervous
     
-    NICK: "I mean - my mom's been planning on buying us new ones soon. 
+    NICK: "I mean - my mom's been planning on buying us new ones soon."
     
     NICK: "She hasn't had the time yet to take us shopping."
     

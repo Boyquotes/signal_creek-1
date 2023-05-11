@@ -110,11 +110,11 @@
     
     &PORTRAIT_nick_nickshocked
     
-    NICK: "You know what? Nevermind..."
+    NICK: "You know what? Never mind..."
     
     &PORTRAIT_nick_nicknervous
     
-    NICK: "I'll, uh... I'll stop there."
+    NICK: "I'll, uh... I'll stop asking."
     
     &PORTRAIT_nour_nourneutral
     
@@ -239,7 +239,7 @@
     
     &PORTRAIT_nick_nicknervous
     
-    NICK: "Ms. Suwan... Are you really ok?"
+    NICK: "Ms. Suwan... Are you really okay?"
     
     &PORTRAIT_ms. suwan_mssuwanangry
     

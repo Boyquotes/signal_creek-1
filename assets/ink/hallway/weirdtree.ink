@@ -128,7 +128,7 @@
     
     &PORTRAIT_nour_nourpondering
     
-    NOUR: "Should we try something else?"
+    NOUR: "Okay, maybe we should try something else first."
     
     &PORTRAIT_nick_nickpondering
     
@@ -360,7 +360,7 @@
     
     &PORTRAIT_nick_nickshocked
     
-    NICK: "I-I, I mean, uh, YES?"
+    NICK: "I-I- I mean, uh, YES?"
     
     &PORTRAIT_grand duchess granny_grannysmile
     

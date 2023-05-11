@@ -62,7 +62,7 @@
     
     &PORTRAIT_nick_nicksad
     
-    NICK: "The canned stuff is cheaper so..."
+    NICK: "The canned stuff is cheaper, so..."
     
     &PORTRAIT_nour_nourrealization
     
@@ -74,7 +74,7 @@
         
             &PORTRAIT_nick_nickneutral
         
-            NICK: "No thanks. I'm ok."
+            NICK: "No thanks. I'm okay."
             
             &PORTRAIT_nour_nourneutral
             
@@ -126,15 +126,15 @@
     
     &PORTRAIT_nour_nourrealization
 
-    NOUR: "It looks kinda round... like an apple?!"
+    NOUR: "It looks kinda round... like an <i>apple?!</i>"
     
     &PORTRAIT_nour_nourpondering
     
-    NOUR: "We should buy the boba to free it. Do you want the boba, Nick?"
+    NOUR: "I think we have to buy the boba to free it. Do you want it, Nick?"
     
     &PORTRAIT_nour_nournervous
     
-    NOUR: "I'm sure it'll taste real, um, apple-y. That's not too bad, right?"
+    NOUR: "I'm sure it'll taste real, um, <i>apple</i>-y. That's not too bad, right?"
     
     &PORTRAIT_nick_nickneutral
 
@@ -374,7 +374,7 @@
     
     &PORTRAIT_duke delicious_dukedelicioussmile
     
-    DUKE DELICIOUS: "It is time for me to rejoin my liege, but humans!"
+    DUKE DELICIOUS: "It is time for me to rejoin my liege! But, humans!"
     
     &PORTRAIT_duke delicious_dukedeliciouspreach
     

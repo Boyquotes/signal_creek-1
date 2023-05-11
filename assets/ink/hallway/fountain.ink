@@ -198,7 +198,7 @@
     
     &PORTRAIT_nour_nourpondering
     
-    NOUR: "...Daddy?"
+    NOUR: "...<i>Daddy?</i>"
     
     &PORTRAIT_father fuji_fatherfujipreach
     
@@ -352,7 +352,7 @@
     
     &PORTRAIT_father fuji_fatherfujineutral
 
-    FATHER FUJI: "Hoping this majesty's unripnes would abate."
+    FATHER FUJI: "Hoping this majesty's unripness would abate."
     
     &PORTRAIT_father fuji_fatherfujipreach
     
