@@ -10,8 +10,10 @@
     -> END
 
 === pinbuttons_convo ===
+
+    &PORTRAIT_nour_nourneutral
     
-    NOUR: "Looks like a lesbian flag pin."
+    NOUR: <i>Looks like a lesbian flag pin.</i>
     
     &PORTRAIT_ms. suwan_mssuwanrealization
     

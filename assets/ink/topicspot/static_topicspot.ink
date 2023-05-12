@@ -12,7 +12,9 @@
 
     It's a rack full of skirts, jeans, and leggings.
     
-    ...What kind of person would need five-legged pants?
+    &PORTRAIT_nour_nournervous
+    
+    NOUR: <i>...What kind of person would need five-legged pants?</i>
     
     -> END
 
@@ -24,7 +26,9 @@
     
     "IT'S A FISH... AND A GUN!"
     
-    ...Maybe it's best not question the artistry.
+    &PORTRAIT_nour_nourpondering
+    
+    NOUR: <i>...Maybe it's best not question the artistry.</i>
     
     -> END
     
@@ -38,7 +42,9 @@
 
     It's a wall of punk and goth t-shirts, sprinkled with anime references. 
     
-    Classic TopicSpot.  
+    &PORTRAIT_nour_noursmile
+    
+    NOUR: <i>Classic TopicSpot.</i>
     
     -> END
     

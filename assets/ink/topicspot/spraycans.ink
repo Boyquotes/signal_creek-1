@@ -102,7 +102,7 @@
     
     NOUR: "I'm going to have to agree with Ms. Suwan here."
     
-    NOUR: "There's a reason why you have to be over 18 to purchase these."
+    NOUR: "There's a reason why you have to be over eighteen to purchase these."
     
         &PORTRAIT_ms. suwan_mssuwanannoyed
 
@@ -130,11 +130,11 @@
 
     NICK: "It's not like I have a bright future, anyways. Might as well have some fun."
     
-        &PORTRAIT_nour_noursad
+        &PORTRAIT_nour_nourpondering
     
     NOUR: "Nick, there's plenty of other things you can do for fun."
     
-        &PORTRAIT_nour_nourpondering
+        &PORTRAIT_nour_nournervous
     
     NOUR: "Things that <i>aren't</i> dangerous that you'll actually enjoy."
     
@@ -142,19 +142,27 @@
     
     NICK: "Oh yeah? Like <i>what?</i>"
     
+    &PORTRAIT_nour_nourpondering
+    
+    NOUR: "Hmm... Give me a bit of time."
+    
     &PORTRAIT_nour_noursmile
     
-    NOUR: "Alright, give me a bit, and we can definitely find something fun to do in this mall."
+    NOUR: "We can definitely find something fun to do in this mall."
     
     &PORTRAIT_nour_nourpondering
     
     NOUR: <i>Maybe I can introduce him to photography?</i>
+    
+    &PORTRAIT_nour_nourneutral
     
     NOUR: <i>That, or reading. I enjoy both, so maybe he will, too...</i>
     
     &PORTRAIT_nick_nicksad
     
     NICK: "I hope that whatever you're planning to show me is <i>SO</i> much fun!"
+    
+    &PORTRAIT_nour_noursmile
     
     NOUR: <i>I should lead Nick somewhere that would inspire new interests.</i>
     

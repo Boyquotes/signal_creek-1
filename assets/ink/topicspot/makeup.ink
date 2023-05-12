@@ -18,15 +18,19 @@
 
 == makeup_convo ==
 
-    &PORTRAIT_nour_noursmile
+    &PORTRAIT_nour_nourpondering
     
     NOUR: "These eyeshadow palettes were both a blessing and a curse."
+    
+    &PORTRAIT_nour_nourneutral
     
     NOUR: "The quality isn't great, but they were my first brands of alternative makeup."
     
     &PORTRAIT_nour_noursad
     
     NOUR: "Funny, there's one here that's the exact same one I used to use."
+    
+    &PORTRAIT_nour_nourpondering
     
     NOUR: "It was discontinued ages ago." // (FROWNING)
     
@@ -42,7 +46,11 @@
     
     NOUR: "I carried it in my backpack so my parents wouldn't find it."
     
+    &PORTRAIT_nour_nourneutral
+    
     NOUR: "I'd put it on in the school bathroom and would take it off before I went home."
+    
+    &PORTRAIT_nour_nourpondering
     
     NOUR: "Kept it hidden in my car, too, once I got one."
     
@@ -58,19 +66,31 @@
     
     NOUR: "She shouldn't have."
     
+    &PORTRAIT_nour_noursad
+    
     NOUR: "Makeup's cool for everyone, alt and goth makeup especially."
+    
+    &PORTRAIT_nour_nourpondering
     
     NOUR: "Those styles have been worn by all kinds of people since, like, the seventies."
     
     &PORTRAIT_nick_nickpondering
     
-    NICK: "Huh... Could I... try some?"
+    NICK: "Huh..."
+    
+    &PORTRAIT_nick_nicknervous
+    
+    NICK: "Could I... try some?"
     
     &PORTRAIT_nour_noursmile
     
     NOUR: "Oh, sure! I'm not very good at it, but black eyeshadow can be a little messy."
     
+    &PORTRAIT_nour_nourpondering
+    
     NOUR: "That's kind of how it's meant to look, sometimes."
+    
+    &PORTRAIT_nour_nourneutral
     
     NOUR: "You can just rub it on with your finger if you can't find a brush."
     
@@ -78,7 +98,11 @@
     
     MS. SUWAN: "Maybe not right now. We have more important things to worry about."
     
+    &PORTRAIT_ms. suwan_mssuwanangry
+    
     MS. SUWAN: "Besides, who knows how old these are, if they were discontinued ages ago."
+    
+    &PORTRAIT_ms. suwan_mssuwanneutral
     
     MS. SUWAN: "Let's go."
     

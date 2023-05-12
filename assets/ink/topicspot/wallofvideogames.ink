@@ -50,7 +50,11 @@
     
     &PORTRAIT_nour_nourneutral
     
-    NOUR: "Looking at these things are the most we can do, and that's not gonna get us out of here."
+    NOUR: "Looking at these things are the most we can do."
+    
+    &PORTRAIT_nour_nournervous
+    
+    NOUR: "These aren't gonna get us out of here."
             
     &PORTRAIT_ms. suwan_mssuwanpondering
             

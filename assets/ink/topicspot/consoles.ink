@@ -401,7 +401,11 @@ It's a game console that seems to be rather outdated.
     
     &PORTRAIT_emperor evercrisp_emperorevercrispneutral
     
-    EMPEROR EVERCRISP: "Our <i>Prince</i> went to Earth in search of the <b>four</b> missing members of the Council to restore order..."
+    EMPEROR EVERCRISP: "Our <i>Prince</i> went to Earth in search of..."
+    
+    &PORTRAIT_emperor evercrisp_emperorevercrisppreach
+    
+    EMPEROR EVERCRISP: "The <b>four</b> missing members of the Council to restore order!"
     
     &PORTRAIT_emperor evercrisp_emperorevercrispsad
     
@@ -1083,7 +1087,7 @@ It's a game console that seems to be rather outdated.
     
     &PAUSE_1.0
 
-    &MUSIC_ApleQuestEmoMusic
+    &MUSIC_HallwayEmo
     
     &PORTRAIT_nour_noursad
     
