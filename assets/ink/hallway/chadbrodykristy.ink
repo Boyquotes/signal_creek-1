@@ -256,6 +256,18 @@ Three people stand idly. They look almost <i>too</i> still.
     
     MS. SUWAN: "They must have a way to contact the outside."
     
+    &PORTRAIT_nour_nourrealization
+    
+    NOUR: <i>Oh, right, the B&N is here.</i>
+    
+    &PORTRAIT_nour_nournervous
+    
+    NOUR: <i>I wonder if there's any photography stuff there...</i>
+    
+    &PORTRAIT_nour_nourneutral
+    
+    NOUR: <i>...But I shouldn't be thinking about that right now.</i>
+    
     &PORTRAIT_nour_nourannoyed
 
     NOUR: "Are you sure you can't ask them anything?"
