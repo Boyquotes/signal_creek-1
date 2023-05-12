@@ -263,11 +263,11 @@
         
             &PORTRAIT_ms. suwan_mssuwanangry
         
-            MS. SUWAN: "Listen, if this kid's parents failed to give him the truth, someone has to."
+            MS. SUWAN: "Most truths are."
             
             &PORTRAIT_ms. suwan_mssuwansad
             
-            MS. SUWAN: "I had to learn the hard way."
+            MS. SUWAN: "I know because I had to learn the hard way."
         
         * "Nick, people will think you're more capable if you know how to do something."
         
