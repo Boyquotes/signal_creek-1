@@ -181,9 +181,11 @@
 
     It's a bunch of trinkets. Shiny, fun-shaped baubles line the shelf.
     
-    &PORTRAIT_nour_nourannoyed
+    &PORTRAIT_nour_nourpondering
     
     NOUR: <i>Can't tell what any of these are supposed to be...</i>
+    
+    &PORTRAIT_nour_nourannoyed
     
     NOUR: <i>Kind of wish B&N would focus more on selling books again.</i>
     

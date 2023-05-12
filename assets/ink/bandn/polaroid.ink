@@ -43,7 +43,7 @@
     
     &EMOTE_SUWAN_RightIdle
     
-    &PORTRAIT_nour_nourrealization
+    &PORTRAIT_nour_nournervous
     
     NOUR: "...No way." // (SHOCKED)
     

@@ -48,7 +48,7 @@
     
     &EMOTE_NOUR_RightIdle
     
-    NOUR: "Hey, Ms. Suwan. You mentioned going to rock shows in the past, right?"
+    NOUR: "Hey, Ms. Suwan. You mentioned going to concerts in the past, right?"
     
     &PORTRAIT_ms. suwan_mssuwanpondering
     
@@ -162,7 +162,7 @@
 
     &PORTRAIT_ms. suwan_mssuwanpondering
     
-    MS. SUWAN: "Right. During school, me and my friends used to..."
+    MS. SUWAN: "Right. During school, my friends and I used to..."
     
     &PORTRAIT_ms. suwan_mssuwannervous
     
@@ -456,7 +456,7 @@
     
     MS. SUWAN: "I struggled to catch up to my friends because I was still learning English at the time."
     
-    &PORTRAIT_ms. suwan_mssuwanfurious
+    &PORTRAIT_ms. suwan_mssuwanneutral
 
     MS. SUWAN: "Once, my friends bought tickets for a concert right around finals."
     
@@ -872,7 +872,11 @@
     
     &PORTRAIT_nour_nournervous
     
-    NOUR: "Plus, you have the opportunity to do that anyway, thanks to this weird mall."
+    NOUR: "Plus, you have the opportunity to do that anyway...
+    
+    &PORTRAIT_nour_noursmile
+    
+    NOUR: "Thanks to this weird mall."
     
     &PORTRAIT_nour_nourpondering
     
@@ -912,7 +916,7 @@
     
     &PORTRAIT_nick_nickshocked
     
-    NICK: "This place doesn't even have a chashier to buy it from!"
+    NICK: "This place doesn't even have a cashier to buy it from!"
     
     &PORTRAIT_ms. suwan_mssuwansad
     
