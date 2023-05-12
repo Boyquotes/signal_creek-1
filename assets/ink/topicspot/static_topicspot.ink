@@ -10,15 +10,11 @@
     
 == clothesrack2 ==
 
-    It's a rack full of strange skirts, jeans, and leggings.
+    It's a rack full of skirts, jeans, and leggings.
     
-    ... What kind of person would need five-legged pants?
+    ...What kind of person would need five-legged pants?
     
     -> END
-    
-// == jewelrystand ==
-
-//     It's a jewelry stand. Max has to write stuff here, so if you're reading this, tell him to write it.
 
 == fishgun ==
     
@@ -51,7 +47,7 @@
 
     It's a collection of trinkets. 
     
-    They're familiar shapes, yet it's hard to tell what they're supposed to actually be.
+    They're familiar shapes, yet it's hard to tell what they're actually supposed to be.
     
     Nothing in particular catches the eye.
     
@@ -60,11 +56,3 @@
 == trinketside ==
 
     -> trinkets
-    
-// === cashier ===
-
-//     It's a kiosk.
-    
-//     Seems out of order like most things in this mall.
-    
-//     -> END

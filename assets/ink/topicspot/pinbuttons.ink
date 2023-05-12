@@ -35,7 +35,7 @@
     
         * "You seem to have something on your mind."
         
-            NOUR: "I'm guessing you relate to that in a similar way that I do?"
+            NOUR: "I'm guessing you... relate to that in a similar way that I do?"
         
             &PORTRAIT_ms. suwan_mssuwanneutral
         
@@ -78,7 +78,7 @@
             
             &PORTRAIT_ms. suwan_mssuwanneutral
             
-            MS. SUWAN: "... No."
+            MS. SUWAN: "...No."
             
             &PORTRAIT_nour_nourpondering
             
@@ -106,7 +106,7 @@
             
             Ms. Suwan looks at the pins again, and her expression softens.
     
-    - MS. SUWAN: "... Hm."
+    - MS. SUWAN: "...Hm."
     
     &PORTRAIT_ms. suwan_mssuwanneutral
     
@@ -120,7 +120,7 @@
     
     &PORTRAIT_nour_noursmile
     
-    NOUR: "Cool. I, uh, mean... Sounds good."
+    NOUR: "Cool. I, uh, I mean... Sounds good."
     
     &PORTRAIT_nick_nicksmallsmile
     
@@ -128,7 +128,7 @@
 
     &PORTRAIT_nour_nourpondering
     
-    NOUR: "Didn't my brother get you one of those for your birthday?"
+    NOUR: "Didn't my brother get you some of those for your birthday?"
     
     &PORTRAIT_nick_nickbigsmile
     

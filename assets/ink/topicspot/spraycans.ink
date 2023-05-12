@@ -54,13 +54,13 @@
     
     &PORTRAIT_nour_nourannoyed
 
-    NOUR: "Then... what are you going to do with these?"
+    NOUR: "Then... What are you going to do with these?"
     
         &PORTRAIT_nick_nicknervous
         
     &EMOTE_NICK_RightIdle
     
-    NICK: "It's... it's <i>none</i> of your business. Just lay off."
+    NICK: "It's... It's <i>none</i> of your business. Just lay off."
     
         &PORTRAIT_ms. suwan_mssuwanannoyed
     
@@ -150,7 +150,7 @@
     
     NOUR: <i>Maybe I can introduce him to photography?</i>
     
-    NOUR: <i>That, or reading. I enjoy both, so maybe he will too...</i>
+    NOUR: <i>That, or reading. I enjoy both, so maybe he will, too...</i>
     
     &PORTRAIT_nick_nicksad
     
@@ -203,7 +203,7 @@
     
         &PORTRAIT_nour_noursmile
     
-    NOUR: <i>Maybe we could go somewhere with books and read up about new things.</i>
+    NOUR: <i>Maybe we could go somewhere with books and read about new things.</i>
     
     &FOLLOW_NOUR_stop
     
@@ -235,7 +235,7 @@
     
         &PORTRAIT_nour_noursmile
     
-    NOUR: "We just hope they're decisions that benefit you, not harm you."
+    NOUR: "We just hope you make decisions that benefit you, not harm you."
     
         &PORTRAIT_ms. suwan_mssuwansmile
 
@@ -265,7 +265,7 @@
     
         &PORTRAIT_nick_nickbigsmile
     
-    NICK: "It's only right that I convert you both into <i>Aple Quest</i> fans too!"
+    NICK: "It's only right that I convert you both into <i>Aple Quest</i> fans, too!"
     
         &PORTRAIT_ms. suwan_mssuwanrealization
     
