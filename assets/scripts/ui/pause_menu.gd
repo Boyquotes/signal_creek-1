@@ -12,6 +12,7 @@ onready var previous_walk_mode = Globals.GameModes.WALK
 
 func _ready():
 	Globals.PauseMenu = self
+	self.set_visible(false)
 
 
 func _process(_delta):
@@ -80,10 +81,13 @@ func _on_MenuButton_toggled(_toggleMode):
 
 func expand_background_panel() -> void:
 	$AnimationPlayer.play("Expand")
+	self.set_visible(true)
 
 
 func shrink_background_panel() -> void:
 	$AnimationPlayer.play("Shrink")
+	yield(get_tree().create_timer(0.6), "timeout")
+	self.set_visible(false)
 
 
 func toggle_visible() -> void:

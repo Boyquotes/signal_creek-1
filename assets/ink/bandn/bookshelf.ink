@@ -263,11 +263,11 @@
         
             &PORTRAIT_ms. suwan_mssuwanangry
         
-            MS. SUWAN: "Listen, if this kid's parents failed to give him the truth, someone has to."
+            MS. SUWAN: "Most truths are."
             
             &PORTRAIT_ms. suwan_mssuwansad
             
-            MS. SUWAN: "I had to learn the hard way."
+            MS. SUWAN: "I know because I had to learn the hard way."
         
         * "Nick, people will think you're more capable if you know how to do something."
         
@@ -435,7 +435,7 @@
     
     &PORTRAIT_nour_nourneutral
     
-    NOUR: <i>I'm sure if I look around this bookstore, I'm bound to find something related to it.</i>
+    NOUR: <i>If I look around this bookstore, I'm bound to find something related to it.</i>
     
     &FOLLOW_NOUR_stop
         -> END
@@ -519,9 +519,11 @@
     MS. SUWAN: "I would be happy to learn more about it."
     
     &EMOTE_NICK_Jump
-    &PORTRAIT_nick_nickbigsmile
+    &PORTRAIT_nick_nicksmallsmile
     
     NICK: "I'd <i>love</i> to tell you about it!" 
+    
+    &PORTRAIT_nick_nickbigsmile
     
     NICK: "I have so many favorite series..."
 

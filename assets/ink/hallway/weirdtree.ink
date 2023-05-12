@@ -54,6 +54,8 @@
     
     &PORTRAIT_ms. suwan_mssuwanangry
     
+    &AUDIO_FADEIN
+    
     MS. SUWAN: "No. We have better things to do."
     
     &PORTRAIT_nick_nickangry
@@ -92,7 +94,7 @@
 
     &PORTRAIT_nour_noursmile
     
-    NOUR: "... You know what I'm thinking?"
+    NOUR: "...You know what I'm thinking?"
     
     &PAUSE_0.05
     
@@ -164,6 +166,8 @@
     
     <i>Rustle rustle...</i> //ALSO SFX
     
+    &PAUSE_1.0
+    
     &PORTRAIT_ms. suwan_mssuwanangry
     
     {shake: 
@@ -186,11 +190,11 @@
     
     &PORTRAIT_nour_noursad
     
-    NOUR: "I tried my best... but I couldn't do it."
+    NOUR: "I tried my best... But I think I'm out of my element here."
     
     &PORTRAIT_nour_nournervous
     
-    NOUR: "What now? I think I'm out of my element here."
+    NOUR: "What now? I probably shouldn't try again since I'm bad at it."
     
     &PORTRAIT_ms. suwan_mssuwanneutral
     
@@ -328,11 +332,21 @@
     
     &PORTRAIT_ms. suwan_mssuwanrealization
     
-    MS. SUWAN: "... Indeed. She isn't wrong."
+    MS. SUWAN: "...Indeed. She isn't wrong."
     
     &PORTRAIT_nick_nicksmallsmile
     
     NICK: "..."
+    
+    &PORTRAIT_ms. suwan_mssuwanannoyed
+    
+    MS. SUWAN: "Taking pleasure in seeing the adults get scolded for once, Nick?"
+    
+    &PORTRAIT_nick_nickbigsmile
+    
+    NICK: "..."
+    
+    Nick shrugs, but clearly he's enjoying himself.
     
     &PORTRAIT_grand duchess granny_grannyneutral
     
@@ -390,7 +404,7 @@
     
     GRAND DUCHESS GRANNY: "I pray that your time spent Between the Planes..."
     
-    GRAND DUCHESS GRANNY: "... will unravel your haunted past."
+    GRAND DUCHESS GRANNY: "...will unravel your haunted past."
     
     &PORTRAIT_grand duchess granny_grannysmile
     
@@ -412,7 +426,7 @@
     
     &PORTRAIT_nour_nourneutral
     
-    NOUR: "... We've been sent by the Emperor to retrieve the Prince's search council."
+    NOUR: "...We've been sent by the Emperor to retrieve the Prince's search council."
     
     &PORTRAIT_grand duchess granny_grannyneutral
     
@@ -446,7 +460,7 @@
     
     &PORTRAIT_grand duchess granny_grannykiss
     
-    GRAND DUCHESS GRANNY: "... And don't forget a kiss from Granny, too! KEKEKE!"
+    GRAND DUCHESS GRANNY: "...And don't forget a kiss from Granny, too! KEKEKE!"
     
     &PORTRAIT_grand duchess granny_grannykiss
     

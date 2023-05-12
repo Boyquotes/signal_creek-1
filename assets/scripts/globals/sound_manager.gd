@@ -5,6 +5,7 @@ extends Node
 
 export var music_bandn : AudioStream
 export var music_hallway : AudioStream
+export var music_hallwayemo : AudioStream
 export var music_topicspot : AudioStream
 export var music_elevator : AudioStream
 export var music_starter : AudioStream
@@ -94,7 +95,8 @@ onready var music_tracks : Dictionary = {
 	"MusicStandMusic": music_musicstand,
 	"ApleQuestMusic": music_aplequest,
 	"ApleQuestEmoMusic": music_aplequestemo,
-	"ApleQuestWaterMusic": music_aplequestwater
+	"ApleQuestWaterMusic": music_aplequestwater,
+	"HallwayEmo": music_hallwayemo
 }
 
 func _ready():

@@ -12,6 +12,8 @@
     
     NOUR: "I remember this book. Never had the guts to purchase one or be seen with it."
     
+    &PORTRAIT_nour_nourpondering
+    
     NOUR: "I used to hide one with a bookmark on one of the shelves."
     
     &PORTRAIT_nour_noursmile
@@ -30,12 +32,13 @@
     
     NICK: "Is that what you'd do when you'd leave me and Sami in the food court?!"
     
-    &PORTRAIT_nour_nourrealization
-    NOUR: "Uhhh..."
-    
     &PORTRAIT_nour_nournervous
     
-    NOUR: "... Maybe."
+    NOUR: "Uhhh..."
+    
+    &PORTRAIT_nour_noursmile
+    
+    NOUR: "...Maybe."
     
     &PORTRAIT_nick_nickbigsmile
     
@@ -51,7 +54,11 @@
     
     &PORTRAIT_nick_nickneutral
     
-    NICK: "I'm still gonna tell him. We always wondered where you went, and he deserves the truth, too!" 
+    NICK: "I'm still gonna tell him." 
+    
+    &PORTRAIT_nick_nickshocked
+    
+    NICK: "We always wondered where you went, and he deserves the truth, too!" 
     
     &PORTRAIT_nick_nickpondering 
     
@@ -61,17 +68,23 @@
     
     NOUR: "It's, uh... It's a queer book. So I didn't want anyone to see me reading it."
     
-    &PORTRAIT_nour_nourannoyed
+    &PORTRAIT_nour_noursmile
 
-    NOUR: "I don't care anymore, though. Obviously, or I wouldn't be telling you all this."
+    NOUR: "I don't care anymore, though.
+    
+    &PORTRAIT_nour_nourpondering
+    
+    NOUR: "Obviously, or I wouldn't be telling you all this."
     
     &PORTRAIT_nick_nickneutral
     
     NICK: "Huh... You're pretty good at sneaking off, aren't ya?" 
     
-    &PORTRAIT_nick_nickbigsmile
+    &PORTRAIT_nick_nicksmallsmile
     
     NICK: "If I were you, I would've gone to TopicSpot and played games..." 
+    
+    &PORTRAIT_nick_nickbigsmile
     
     NICK: "Yet you used your powers for GAY NERD stuff!"
     

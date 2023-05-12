@@ -73,7 +73,7 @@ It's a game console that seems to be rather outdated.
             
             &PAUSE_1.0
             
-            NICK: "Um... no. This stuff's for little kids, so..."
+            NICK: "Um... No. This stuff's for little kids, so..."
             
             &PORTRAIT_nick_nicksad
             
@@ -93,7 +93,7 @@ It's a game console that seems to be rather outdated.
             
             &PAUSE_1.0
             
-            NICK: "Um... yeah. This stuff's for little kids, so..."
+            NICK: "Um... Yeah. This stuff's for little kids, so..."
             
             &PORTRAIT_nick_nicksad
             
@@ -105,7 +105,7 @@ It's a game console that seems to be rather outdated.
     
     - &PORTRAIT_nour_nournervous
     
-    NOUR: "... Hey, are you alright?"
+    NOUR: "...Hey, are you alright?"
     
     &PORTRAIT_nick_nickshadow
     
@@ -121,11 +121,11 @@ It's a game console that seems to be rather outdated.
     
     NOUR: "Whatever you say..."
     
-    NOUR: <i>Weird. He seemed like he wanted to talk about this game.</i>
+    NOUR: <i>Weird. He kinda seemed like he wanted to talk about this game.</i>
     
     NOUR: <i>I guess something about it is bothering him.</i>
     
-    NOUR: <i>Maybe he'll want to talk about it later...</i>
+    NOUR: <i>Maybe he'll be more open about it later...</i>
     
     &FOLLOW_NOUR_stop
     
@@ -359,13 +359,13 @@ It's a game console that seems to be rather outdated.
     
     &PORTRAIT_???_emperorevercrispsmile
     
-    ???: "Do not panic, for I am a friend—"
+    ???: "Do not panic, for I am a friend!"
     
     &EMOTE_NICK_UpIdle
     
     &PORTRAIT_???_emperorevercrisppreach
     
-    EMPEROR EVERCRISP: "I am <b>EMINENT EMPEROR EVERCRISP APLE</b>, leader of the Aples!"
+    EMPEROR EVERCRISP: "I am <b>EMINENT EMPEROR EVERCRISP APPLE</b>, leader of the Apples!"
     
     &PORTRAIT_nour_nournervous
     
@@ -377,7 +377,7 @@ It's a game console that seems to be rather outdated.
     
     &PORTRAIT_ms. suwan_mssuwanrealization
     
-    MS. SUWAN: "This can't be real. This has to be some trick or prank."
+    MS. SUWAN: "This can't be real. This <i>must</i> be some trick or prank."
     
     &PORTRAIT_emperor evercrisp_emperorevercrispsmile
     
@@ -401,15 +401,51 @@ It's a game console that seems to be rather outdated.
     
     &PORTRAIT_emperor evercrisp_emperorevercrispneutral
     
-    EMPEROR EVERCRISP: "Our <i>Prince</i> went to Earth in search of the <b>four</b> missing members to restore order..."
+    EMPEROR EVERCRISP: "I sent our <i>Prince</i> to Earth for his safety..."
     
     &PORTRAIT_emperor evercrisp_emperorevercrispsad
     
-    EMPEROR EVERCRISP: "... But we've lost all communication with him."
+    EMPEROR EVERCRISP: "...But we've lost all communication with him."
+    
+    &PORTRAIT_emperor evercrisp_emperorevercrispneutral
+    
+    EMPEROR EVERCRISP: "Thus, I sent a search party to Earth, looking for him. Specifically..."
     
     &PORTRAIT_emperor evercrisp_emperorevercrisppreach
     
-    EMPEROR EVERCRISP: "Please, Dream Walkers! Bring me the Prince and all the Apple Council members!"
+    EMPEROR EVERCRISP: "The <b>four</b> members of the Apple Council!"
+    
+    &PORTRAIT_emperor evercrisp_emperorevercrispsad
+    
+    EMPEROR EVERCRISP: "But then..."
+    
+    &PORTRAIT_emperor evercrisp_emperorevercrisppreach
+    
+    EMPEROR EVERCRISP: "THEY WENT MISSING,TOO!"
+    
+    &PORTRAIT_nour_nourpondering
+    
+    NOUR: "You guys need to work on your navigation skills..."
+    
+    &PORTRAIT_emperor evercrisp_emperorevercrispsad
+    
+    EMPEROR EVERCRISP: "We're trying our best."
+    
+    &PORTRAIT_emperor evercrisp_emperorevercrisppreach
+    
+    EMPEROR EVERCRISP: "ANYWHO!"
+    
+    &PORTRAIT_emperor evercrisp_emperorevercrispneutral
+    
+    EMPEROR EVERCRISP: "Now I must prepare a search party..."
+    
+    &PORTRAIT_emperor evercrisp_emperorevercrisppreach
+    
+    EMPEROR EVERCRISP: "FOR MY SEARCH PARTY...!"
+    
+    &PORTRAIT_emperor evercrisp_emperorevercrispsad
+    
+    EMPEROR EVERCRISP: "Please, Plane Walkers! Find the Prince and all the Apple Council members!"
     
     &PORTRAIT_emperor evercrisp_emperorevercrispsmile
     
@@ -417,7 +453,7 @@ It's a game console that seems to be rather outdated.
     
     &PORTRAIT_ms. suwan_mssuwanpondering
     
-    MS. SUWAN: "Dream Walkers?"
+    MS. SUWAN: "Plane Walkers?"
     
         &PORTRAIT_nour_nourpondering
     
@@ -429,7 +465,7 @@ It's a game console that seems to be rather outdated.
     
     &PORTRAIT_nick_nickshocked
     
-    NICK: "... !"
+    NICK: "...!"
     
     &PORTRAIT_emperor evercrisp_emperorevercrispsmile
     
@@ -445,7 +481,7 @@ It's a game console that seems to be rather outdated.
             
             &EMOTE_NOUR_DownIdle
             
-            NOUR: "I think he'd love to get a Secret Ending, right?"
+            NOUR: "I think he'd love to get a Secret Ending. Right, Nick?"
             
                 &PORTRAIT_nick_nicknervous
             
@@ -465,13 +501,13 @@ It's a game console that seems to be rather outdated.
         
             &PORTRAIT_emperor evercrisp_emperorevercrispsmile
             
-            EMPEROR EVERCRISP: "HO HO! EXCELLENT—"
+            EMPEROR EVERCRISP: "HO HO! EXCELLE—"
             
             &MUSIC_STOP
             
             &PORTRAIT_emperor evercrisp_emperorevercrispneutral
             
-            EMPEROR EVERCRISP: "... Oh."
+            EMPEROR EVERCRISP: "...Oh."
             
             &PORTRAIT_emperor evercrisp_emperorevercrispsad
             
@@ -481,7 +517,7 @@ It's a game console that seems to be rather outdated.
                 
             &EMOTE_NOUR_UpIdle
             
-            NOUR: "Mmm... nope. I don't really know anything about <i>Aple Quest</i>."
+            NOUR: "Mmm... Nope. I don't really know anything about <i>Aple Quest</i>."
             
             &PORTRAIT_nick_nickshocked
             
@@ -493,7 +529,7 @@ It's a game console that seems to be rather outdated.
             
             &PORTRAIT_emperor evercrisp_emperorevercrispneutral
             
-            EMPEROR EVERCRISP: "OH... um..."
+            EMPEROR EVERCRISP: "OH... Um..."
             
             &PORTRAIT_emperor evercrisp_emperorevercrisppreach
             
@@ -501,7 +537,7 @@ It's a game console that seems to be rather outdated.
             
             &PORTRAIT_nour_nournervous
             
-            NOUR: "... Um. I don't know."
+            NOUR: "...Um. I don't know."
             
             &PORTRAIT_emperor evercrisp_emperorevercrispsad
             
@@ -525,7 +561,7 @@ It's a game console that seems to be rather outdated.
             
                 &PORTRAIT_nour_nourrealization
             
-            NOUR: "... You know what? Why not."
+            NOUR: "...You know what? Why not."
             
             &PORTRAIT_nour_noursmile
             
@@ -537,7 +573,7 @@ It's a game console that seems to be rather outdated.
             
                 &PORTRAIT_nour_nourneutral
             
-            NOUR: "Oh, and I think we'll pass on the cereal. The ending's enough."
+            NOUR: "Though I think we'll pass on the cereal. The ending's enough."
             
             &PORTRAIT_emperor evercrisp_emperorevercrisppreach
             
@@ -551,7 +587,7 @@ It's a game console that seems to be rather outdated.
             
     - &PORTRAIT_nour_nourpondering
     
-    NOUR: "So all we have to do is find four apple... People... And then the Prince?"
+    NOUR: "So all we have to do is find four apple... people... and then the Prince?"
     
     &PORTRAIT_emperor evercrisp_emperorevercrisppreach
     
@@ -571,7 +607,7 @@ It's a game console that seems to be rather outdated.
     
     &PORTRAIT_emperor evercrisp_emperorevercrisppreach
     
-    EMPEROR EVERCRISP: "I will give you the sacred APLE BLESSING."
+    EMPEROR EVERCRISP: "I will give you the sacred APPLE BLESSING."
     
     &PORTRAIT_emperor evercrisp_emperorevercrispsmile
     
@@ -607,21 +643,17 @@ It's a game console that seems to be rather outdated.
     
     NICK: "..."
     
-    Nick shrugs, but he's already itching to leave.
+    Nick shrugs, but he's bouncing on his heels.
     
         &PORTRAIT_nour_nourneutral
+        
+    NOUR: <i>Looks like he's ready to leave.</i>
     
     NOUR: <i>Still silent, but at least he's communicating again.</i>
-        
-    //check - every apple found, emperor tells how many are left
-    
-    //EMPEROR EVERCRISP: "If you require a count of how many of my Aple council brethren you have located, come back to consult me!"
-    
-    //EMPEROR EVERCRISP: "I shall tell you your APLE PROGRESS!"
     
         &PORTRAIT_nour_noursmile
     
-    NOUR: "Sounds good. Guess we should head out to the hallway and start looking."
+    NOUR: "Guess we should head out to the hallway and start looking."
     
     &EMOTE_SUWAN_DownIdle
     
@@ -681,11 +713,11 @@ It's a game console that seems to be rather outdated.
 
     &PORTRAIT_nick_nickneutral
     
-    NICK: "... Dunno."
+    NICK: "...Dunno."
     
     &PORTRAIT_nour_nourpondering
     
-    NOUR: "Hmm. Not a lot of enthusiasm right there."
+    NOUR: "Hmm. Not a lot of enthusiasm there."
     
     &PORTRAIT_nick_nicksad
     
@@ -733,7 +765,7 @@ It's a game console that seems to be rather outdated.
             
             &PORTRAIT_nick_nicknervous
     
-            NICK: "... It's alright. It's a single player game, after all."
+            NICK: "...It's okay. It's a single player game, after all."
             
             &PORTRAIT_nour_nourpondering
             
@@ -745,7 +777,7 @@ It's a game console that seems to be rather outdated.
             
             &PORTRAIT_nick_nicknervous
             
-            NICK: "But uh..."
+            NICK: "...But..."
     
     - &PORTRAIT_nick_nicksad
     
@@ -755,7 +787,7 @@ It's a game console that seems to be rather outdated.
     
     &PORTRAIT_nick_nicknervous
     
-    NICK: "Can I... can I watch?"
+    NICK: "Can I... Can I watch?"
     
         &PORTRAIT_nour_noursmile
     
@@ -779,7 +811,7 @@ It's a game console that seems to be rather outdated.
     
     &EMOTE_NOUR_Gaming
     
-    NOUR: "Okay, making your character... Shouldn't be too hard."
+    NOUR: "Okay, making my character... shouldn't be too hard."
     
     &PORTRAIT_nour_nourpondering
     
@@ -787,7 +819,7 @@ It's a game console that seems to be rather outdated.
     
         &PORTRAIT_nick_nicknervous
     
-    NICK: "Are you sure you want to use a bow with a strength character?"
+    NICK: "...Are you sure you want to use a bow with a strength character?"
     
     &PORTRAIT_nick_nickshocked
     
@@ -799,11 +831,11 @@ It's a game console that seems to be rather outdated.
     
     &PORTRAIT_nick_nickneutral
     
-    NICK: "Unless you use, like, a sword or something."
+    NICK: "...unless you use, like, a sword or something."
     
         &PORTRAIT_nour_nournervous
     
-    NOUR: "I didn't know... I guess I'll switch over to another weapon."
+    NOUR: "Huh. I didn't know... I guess I'll switch over to another weapon."
     
     &PORTRAIT_nour_noursmile
     
@@ -815,7 +847,7 @@ It's a game console that seems to be rather outdated.
     
         &PORTRAIT_nour_nourrealization
         
-    NOUR: "Oh... but I like the bow. It looks nice."
+    NOUR: "Oh... But I like the bow. It looks nice."
 
     &PORTRAIT_nick_nicknervous
             
@@ -831,17 +863,21 @@ It's a game console that seems to be rather outdated.
     
     &PORTRAIT_nick_nicksad
     
-    NICK: "... Or else, this run might really suck."
+    NICK: "...Or else, this run might really suck."
     
         &PORTRAIT_nour_noursmile
             
-    NOUR: "... I think I'll do that, then."
+    NOUR: "...I think I'll do that, then."
     
     Nick focuses on the game, his leg bouncing up and down.
     
     &PORTRAIT_nour_nourrealization
     
-    NOUR: "Let's go! First level should be a piece of cake."
+    NOUR: "Let's go! First levels in games are like tutorials, right?"
+    
+    &PORTRAIT_nour_noursmile
+    
+    NOUR: "Should be a piece of cake!"
     
     &PORTRAIT_nick_nickneutral
     
@@ -849,7 +885,7 @@ It's a game console that seems to be rather outdated.
     
     &PORTRAIT_nour_noursmile
     
-    NOUR: <i>He's really getting into this.</i>
+    NOUR: <i>He's starting to get into this.</i>
     
     &PORTRAIT_nour_noursad
     
@@ -867,7 +903,7 @@ It's a game console that seems to be rather outdated.
     
     &PORTRAIT_nour_nournervous
     
-    NOUR: "... <i>NICK</i>, you SCARED me."
+    NOUR: "...<i>NICK</i>, you SCARED me."
     
     &PORTRAIT_nick_nicknervous
     
@@ -909,11 +945,11 @@ It's a game console that seems to be rather outdated.
     
     &PORTRAIT_ms. suwan_mssuwanannoyed
     
-    MS. SUWAN: "<i>Yes!</i>"
+    MS. SUWAN: "<i>Yes..?!</i>"
     
     &PORTRAIT_ms. suwan_mssuwansad
     
-    MS. SUWAN: "... I'm not <i>that</i> heartless."
+    MS. SUWAN: "...I'm not <i>that</i> heartless."
     
     &PORTRAIT_ms. suwan_mssuwansmile
     
@@ -997,7 +1033,7 @@ It's a game console that seems to be rather outdated.
     
     &PORTRAIT_nour_nourrealization
     
-    NOUR: "... Hey! You know what I've been thinking?
+    NOUR: "...Hey! You know what I've been thinking?
     
     &PORTRAIT_nour_noursmile
     
@@ -1033,7 +1069,7 @@ It's a game console that seems to be rather outdated.
     
     &PORTRAIT_nick_nickshadow
     
-    NICK: "... What a joke."
+    NICK: "...What a joke."
     
     &PORTRAIT_nour_noursad
     
@@ -1041,7 +1077,7 @@ It's a game console that seems to be rather outdated.
     
     &PORTRAIT_nick_nickangry
     
-    NICK: "Plus, it's such a useless hobby. That's what my Mom says."
+    NICK: "Plus, it's such a useless hobby. That's what my mom says."
     
     &PORTRAIT_nick_nicksad
     
@@ -1063,7 +1099,7 @@ It's a game console that seems to be rather outdated.
     
         * "..."
         
-        * "It's alright, you can talk to me about it..."
+        * "It's okay, you can talk to me about it. I won't judge..."
     
     - &PORTRAIT_nick_nicknervous
     
@@ -1083,7 +1119,7 @@ It's a game console that seems to be rather outdated.
     
     &PAUSE_1.0
 
-    &MUSIC_ApleQuestEmoMusic
+    &MUSIC_HallwayEmo
     
     &PORTRAIT_nour_noursad
     
@@ -1107,7 +1143,9 @@ It's a game console that seems to be rather outdated.
     
     &PORTRAIT_nick_nicktears
     
-    NICK: "I don't have the time to focus on school.
+    NICK: "I have to take care of my siblings..."
+    
+    NICK: "I barely have time to focus on school."
     
     &PORTRAIT_nick_nickshadow
     
@@ -1163,7 +1201,7 @@ It's a game console that seems to be rather outdated.
         
             &PORTRAIT_nick_nicksad
         
-            NICK: "So what should I do?"
+            NICK: "So... what should I do?"
     
     - &PORTRAIT_nick_nickshadow
             
@@ -1181,7 +1219,7 @@ It's a game console that seems to be rather outdated.
     
     &PORTRAIT_nick_nicktears
     
-    NICK: "... because I know <i>I'm</i> the reason why my life's a mess."
+    NICK: "...because I know <i>I'm</i> the reason why my life's a mess."
     
     &PORTRAIT_nour_nourneutral
     
@@ -1189,7 +1227,7 @@ It's a game console that seems to be rather outdated.
     
     &PORTRAIT_nick_nickshocked
     
-    NICK: "... !"
+    NICK: "...!"
     
     &PORTRAIT_nour_nourpondering
     
@@ -1197,11 +1235,11 @@ It's a game console that seems to be rather outdated.
     
     &PORTRAIT_nour_nourannoyed
     
-    NOUR: "Those won't help you regain control over your life."
+    NOUR: "That won't help you regain control over your life."
     
     &PORTRAIT_nour_noursad
     
-    NOUR: "You'll be chasing a temporary feeling for a long time with those ways..."
+    NOUR: "You'll be chasing a temporary feeling for a long time with those ways."
     
     &PORTRAIT_nour_nourneutral
     
@@ -1225,7 +1263,7 @@ It's a game console that seems to be rather outdated.
     
     &PORTRAIT_nour_nourrealization
     
-    NOUR: "Then, you can dedicate the rest of your life to games..."
+    NOUR: "Then, you can dedicate the rest of your life to games."
     
     &PORTRAIT_nour_noursmile
     
@@ -1255,7 +1293,7 @@ It's a game console that seems to be rather outdated.
     
     &PORTRAIT_ms. suwan_mssuwansad
     
-    MS. SUWAN: "... but it does not make the others less valuable."
+    MS. SUWAN: "...but it does not make the others less valuable."
     
     &PORTRAIT_ms. suwan_mssuwannervous
     
@@ -1263,7 +1301,7 @@ It's a game console that seems to be rather outdated.
     
     &PORTRAIT_ms. suwan_mssuwansad
     
-    MS. SUWAN: "I looked down on your passions—what made you the happiest."
+    MS. SUWAN: "I looked down on your passions; what made you the happiest."
     
     &PORTRAIT_ms. suwan_mssuwannervous
     
@@ -1275,7 +1313,7 @@ It's a game console that seems to be rather outdated.
     
     &PORTRAIT_ms. suwan_mssuwansad
     
-    MS. SUWAN: "... Far more than any ounce of knowledge I have, degree be damned."
+    MS. SUWAN: "...Far more than any ounce of knowledge I have, degree be damned."
     
     &PORTRAIT_ms. suwan_mssuwansmile
     
@@ -1317,7 +1355,7 @@ It's a game console that seems to be rather outdated.
     
     &PORTRAIT_nick_nicknervous
     
-    NICK: "... Here. Can you put it back for me?"
+    NICK: "...Here. Can you put it back for me?"
     
     &PORTRAIT_nick_nicksmallsmile
     
@@ -1395,7 +1433,7 @@ It's a game console that seems to be rather outdated.
     
     &PORTRAIT_nour_noursad
     
-    NOUR: <i>... I guess I should talk to her.</i>
+    NOUR: <i>...I guess I should talk to her.</i>
     
     &PAUSE_1.0
     
@@ -1409,7 +1447,7 @@ It's a game console that seems to be rather outdated.
     
     &LIGHT_Nick2
 
-    -> light_on
+    -> rina_topicspot
 
 === consoles_afternickroute ===
 

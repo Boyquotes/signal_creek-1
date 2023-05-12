@@ -64,7 +64,7 @@ A tutorial guide to an old fantasy videogame called <i>"Aple Quest/: The Space P
         
             &PORTRAIT_nour_nourpondering
         
-            NOUR: "<i>Written by Anthony Appleton, lover of apples and ex-NASA astronaut.</i>"
+            NOUR: "<i>Written by Anthony Appleton: lover of apples and ex-NASA astronaut.</i>"
             
             &PORTRAIT_ms. suwan_mssuwanangry
             
@@ -161,7 +161,7 @@ A tutorial guide to an old fantasy videogame called <i>"Aple Quest/: The Space P
             
             &PORTRAIT_nick_nickpondering
             
-            NICK: "The characters aren't just regular old <i>apples</i>—they're sentient fruit aliens."
+            NICK: "The characters aren't just regular old <i>apples</i>... They're sentient fruit aliens!"
             
             &PORTRAIT_ms. suwan_mssuwanangry
             
@@ -193,7 +193,7 @@ A tutorial guide to an old fantasy videogame called <i>"Aple Quest/: The Space P
     
     - &PORTRAIT_nour_nourrealization
     
-    NOUR: "Huh... looks like you know a lot about this game after all."
+    NOUR: "Huh... Looks like you know a lot about this game after all."
     
     &PORTRAIT_nick_nicknervous
     
@@ -237,7 +237,7 @@ A tutorial guide to an old fantasy videogame called <i>"Aple Quest/: The Space P
     
     &PORTRAIT_ms. suwan_mssuwanannoyed
     
-    MS. SUWAN: "Nonsense. A guide is for beginners— let me read it."
+    MS. SUWAN: "Nonsense—a guide is for beginners. Let me read it."
     
     &PORTRAIT_ms. suwan_mssuwanpondering
     
@@ -253,17 +253,17 @@ A tutorial guide to an old fantasy videogame called <i>"Aple Quest/: The Space P
     
     &PORTRAIT_nick_nicknervous
     
-    NICK: "... Huh?!"
+    NICK: "...Huh?!"
     
     &EMOTE_NICK_Jump
     
     &PORTRAIT_nick_nickangry
     
-    NICK: "What the— this advice is BOGUS!"
+    NICK: "What the—this advice is BOGUS!"
     
     &EMOTE_NICK_DownIdle
     
-    &PORTRAIT_nour_nourrealization
+    &PORTRAIT_nour_nournervous
     
     NOUR: "You... you understand what's written here?"
     
@@ -281,7 +281,7 @@ A tutorial guide to an old fantasy videogame called <i>"Aple Quest/: The Space P
     
     &PORTRAIT_nick_nicknervous
     
-    NICK: "You have to be a member of the royal family Aple tree!"
+    NICK: "You have to be a member of the Royal Family Aple Tree!"
     
     &PORTRAIT_nick_nickangry
     
@@ -329,7 +329,7 @@ A tutorial guide to an old fantasy videogame called <i>"Aple Quest/: The Space P
     
     &PORTRAIT_ms. suwan_mssuwanangry
     
-    MS. SUWAN: "... And aren't contributing enough to things that will matter later on."
+    MS. SUWAN: "...And aren't contributing enough to things that will matter later on."
     
     &PORTRAIT_ms. suwan_mssuwansad //not ideal emotion but portrait matches
     
@@ -413,7 +413,7 @@ A tutorial guide to an old fantasy videogame called <i>"Aple Quest/: The Space P
     
     &PORTRAIT_ms. suwan_mssuwanneutral
     
-    MS. SUWAN: "... Well, isn't this just nice."
+    MS. SUWAN: "...Well, isn't this just nice."
     
         * "Ms. Suwan, do you recognize that bracelet?"
             
@@ -451,7 +451,7 @@ A tutorial guide to an old fantasy videogame called <i>"Aple Quest/: The Space P
     
     - &PORTRAIT_nick_nicknervous
     
-    NICK: I'm not talking to you two anymore. About all this stuff."
+    NICK: "I'm not talking to you two anymore. About all this stuff."
     
     &PORTRAIT_nick_nicksad
     
@@ -463,9 +463,11 @@ A tutorial guide to an old fantasy videogame called <i>"Aple Quest/: The Space P
         
         * "All you need to do is return the bracelet..."
     
-    -  &PORTRAIT_nick_nickshadow
+    -  &PORTRAIT_nick_nicknervous
     
-    NICK: Nick shakes his head.
+    NICK: "..."
+    
+    Nick shakes his head.
 
     &PORTRAIT_nour_nourneutral
 
@@ -497,7 +499,7 @@ A tutorial guide to an old fantasy videogame called <i>"Aple Quest/: The Space P
     
     &PORTRAIT_nour_noursad
     
-    NOUR: <i>... But this feels a bit too personal.</i>
+    NOUR: <i>...But this feels a bit too personal.</i>
     
     NOUR: <i>I feel bad. Trying to make things better only made things worse.</i>
     
@@ -507,7 +509,7 @@ A tutorial guide to an old fantasy videogame called <i>"Aple Quest/: The Space P
     
     &PORTRAIT_nour_nourneutral
     
-    NOUR: <i>... Maybe I have to speak his language.</i>
+    NOUR: <i>...Maybe I have to speak his language.</i>
     
     &PORTRAIT_nour_nourannoyed
     
@@ -546,9 +548,9 @@ A tutorial guide to an old fantasy videogame called <i>"Aple Quest/: The Space P
     
     &PORTRAIT_nour_nourpondering
     
-    NOUR: <i>... He did know an awful lot about that video game.</i>
+    NOUR: <i>...He did know an awful lot about that video game.</i>
     
-    &PORTRAIT_nour_nourrealization
+    &PORTRAIT_nour_nournervous
     
     NOUR: <i> Maybe I could convince him to play the game with me... and Ms. Suwan, too.</i>
     

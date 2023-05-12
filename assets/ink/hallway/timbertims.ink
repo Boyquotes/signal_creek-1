@@ -56,7 +56,7 @@
     
     &PORTRAIT_nour_nourpondering
     
-    NOUR: "Right... what was that slogan, again? That thing was a real earworm."
+    NOUR: "Right... What was that slogan, again? That thing was a real earworm."
 
     &PORTRAIT_nick_nicksmallsmile
     
@@ -100,7 +100,7 @@
     
     MS. SUWAN: "Can we help you?"
     
-    TIM: "The question you should be asking is... can <i>I</i> help <i>you</i>?"
+    TIM: "The question you should be asking is... Can <i>I</i> help <i>you</i>?"
     
     &PORTRAIT_tim_timannoyed
     
@@ -145,7 +145,9 @@
     
     &PORTRAIT_nour_nourannoyed
     
-    NOUR: "... I don't exactly have time for new shoes right now."
+    NOUR: "...I don't exactly have time for new shoes right now."
+    
+    &PORTRAIT_nour_nournervous
     
     NOUR: "I just need to know how to leave."
     
@@ -165,7 +167,7 @@
     
     &PORTRAIT_nour_nourpondering
     
-    NOUR: "Um - okay, I'm happy for you, but that doesn't help us at all."
+    NOUR: "Um... okay? I'm happy for you, but that doesn't help us at all."
     
     &PORTRAIT_tim_timneutral
     

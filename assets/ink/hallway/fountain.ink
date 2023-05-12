@@ -27,6 +27,8 @@
         - else:
             -> fountain_before_aplequest
     }
+    
+    -> END
 
 == fountain_before_aplequest ==
 
@@ -158,7 +160,7 @@
     
     &PORTRAIT_father fuji_fatherfujineutral
     
-    FATHER FUJI: "...Head priest of the Aple Council."
+    FATHER FUJI: "...Head priest of the Apple Council."
     
     &PORTRAIT_father fuji_fatherfujipreach
     
@@ -238,7 +240,7 @@
     
     &PORTRAIT_nour_noursad
     
-    NOUR: <i>How do I get him to care?...</i>
+    NOUR: <i>How do I get him to care...?</i>
     
     &PORTRAIT_father fuji_fatherfujineutral
     
@@ -246,7 +248,7 @@
     
     &PORTRAIT_father fuji_fatherfujipreach
     
-    FATHER FUJI: "I will impart aple wisdom before you go."
+    FATHER FUJI: "I will impart Apple wisdom before you go."
     
     &PORTRAIT_nour_nourneutral
     
@@ -258,7 +260,7 @@
     
     &PORTRAIT_nick_nickshocked
     
-    NICK: "...Information? 
+    NICK: "...Information?"
     
     &PORTRAIT_nick_nicknervous
     
@@ -272,7 +274,7 @@
     
     &PORTRAIT_nour_nourpondering
     
-    NOUR: <i>I should encourage him to talk more... but how?</i>
+    NOUR: <i>I should encourage him to talk more... But how?</i>
     
     &PORTRAIT_nour_nourneutral
     
@@ -352,7 +354,7 @@
     
     &PORTRAIT_father fuji_fatherfujineutral
 
-    FATHER FUJI: "Hoping this majesty's unripness would abate."
+    FATHER FUJI: "Hoping this majesty's unripeness would abate."
     
     &PORTRAIT_father fuji_fatherfujipreach
     

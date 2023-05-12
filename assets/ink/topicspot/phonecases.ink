@@ -63,13 +63,13 @@
     
     &PORTRAIT_nick_nickshocked
     
-    NICK: "IS THAT... A FROG?"
+    NICK: "IS THAT... A FROG???"
     
     He picks the frog phone case up and smiles, admiring the cute design.
     
     Nick quickly takes out his phone.
     
-    He removes the current case, and tries to slip his phone into the new one.
+    He removes the current case, and effortlessly slips his phone into the new one.
     
     &PORTRAIT_nick_nickshocked
     
@@ -99,7 +99,7 @@
     
     &PORTRAIT_nick_nicksad
     
-    NICK: "... Fine."
+    NICK: "...Fine."
     
     &PORTRAIT_nick_nickneutral
     
@@ -113,7 +113,7 @@
     
     &PORTRAIT_nick_nickpondering
     
-    NICK: "Does it REALLY matter if I take it? For all we know, this place might not even be real."
+    NICK: "Does it REALLY matter if I take it? For all we know, this place isn't even be real."
     
     &PORTRAIT_nick_nickangry
     
@@ -121,7 +121,7 @@
     
     &PORTRAIT_nick_nickangry
     
-    NICK: "This mall is so empty that nobody will realize it's gone..."
+    NICK: "The mall is so empty, nobody will realize it's gone..."
     
     &PORTRAIT_ms. suwan_mssuwanangry
     
@@ -135,11 +135,13 @@
     
     &PORTRAIT_nick_nicknervous
     
-    NICK: "I can't! It's too ex..."
+    NICK: "I can't! It's too exp..."
     
-    NOUR: <i>... Expensive?</i>
+    NOUR: <i>...Expensive?</i>
     
     &PORTRAIT_nick_nickshadow
+    
+    NICK: "..." 
     
     NICK: "Nevermind. You guys wouldn't get it."
     

@@ -27,9 +27,11 @@
     
     NICK: "Hey, you never know... Bone marrow's supposed to be a delicacy in some countries."
     
+    &PORTRAIT_nick_nickpondering
+    
     NICK: "Like... in France, probably."
     
-        &PORTRAIT_mssuwan_mssuwansmile
+        &PORTRAIT_mssuwan_mssuwanpondering
     
     MS. SUWAN: "I believe it's used for slow-cooked soups and pho broth in Asian countries."
     
@@ -37,7 +39,11 @@
     
     NICK: "Whoa, for real? Have you had it before? Is it good?"
     
+    &PORTRAIT_ms. suwan_mssuwansmile
+    
     MS. SUWAN: "It is quite good..."
+    
+    &PORTRAIT_ms. suwan_mssuwannervous
     
     MS. SUWAN: "Though I'd rather not have this conversation looking at a human skeleton."
     
@@ -49,15 +55,19 @@
 
 == skeletondisplayvisited ==
 
-        &PORTRAIT_nick_nickbigsmile
-
+        &PORTRAIT_nick_nickshocked
+        
     NICK: "Wait! I got it!"
+    
+    &PORTRAIT_nick_nickbigsmile
     
     NICK: "BONE-jour!!!"
     
         &PORTRAIT_nour_nourannoyed
         
     NOUR: "..."
+    
+    &PORTRAIT_nour_nourpondering
     
     NOUR: "Let's move on."
     

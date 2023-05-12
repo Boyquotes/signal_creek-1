@@ -35,7 +35,7 @@
     
     &FOLLOW_SUWAN_SuwanOutElevatorPos
     
-    &PORTRAIT_nour_nournervous
+    &PORTRAIT_nour_noursad
     
     NOUR: "Ugh... I feel sick."
     
@@ -47,13 +47,13 @@
     
     NICK: "Woah, this is crazy! Are you seeing what I'm seeing?"
     
-    &PORTRAIT_nour_nourrealization
+    &PORTRAIT_nour_nournervous
     
     NOUR: "This... this is one of the floors of the mall, isn't it? The top floor?"
     
     &PORTRAIT_nour_noursad
     
-    NOUR: "But it feels... something feels off."
+    NOUR: "But it feels... Something feels off."
     
     &EMOTE_NICK_UpIdle
     
@@ -105,7 +105,7 @@
     
     &PORTRAIT_ms. suwan_mssuwannervous
     
-    MS. SUWAN: "Hmm. No signal and no WiFi."
+    MS. SUWAN: "...No signal and no WiFi."
     
     Nick pulls out his phone, then frantically taps on the screen.
     
@@ -145,7 +145,7 @@
     
     MS. SUWAN: "Enough with your fooling around."
     
-    &PORTRAIT_nour_nourrealization
+    &PORTRAIT_nour_nournervous
     
     NOUR: <i>...Rina?!</i>
     
@@ -347,9 +347,13 @@
     
     &PORTRAIT_nour_nourpondering
     
-    NOUR: "Honestly it's a start. Who knows, maybe we'll be able to ask someone for help there."
+    NOUR: "Honestly? It's a start. Maybe we'll be able to ask someone for help there..."
     
-    Nour hesitates. Nick and Ms. Suwan look at her, expectedly.
+    &PORTRAIT_nour_nournervous
+    
+    NOUR: "..."
+    
+    Nick and Ms. Suwan look at her, expectedly.
     
     &PORTRAIT_nick_nickpondering
     
@@ -424,6 +428,13 @@
 
 == rina_branches ==
 
+    {
+       - rina_hallway && rina_topicspot && rina_bandn && !rina_final:
+        -> rina_final
+    }
+    
+    The loop continues. 
+
     &PORTRAIT_rina_rinadeadeye
     
     RINA: "..."
@@ -442,10 +453,11 @@
             {
                 - rina_final:
                     -> rina_elevator
+                    
             }
     
         //this choice always works, and Rina tells Nour to help the people they're with now (Nick and Suwan)
-        + ["Friends are supposed to be there for each other!"]
+        + ["I have to tell her what she was supposed to do."]
             
             //IF THE LAST KNOTS IN BOTH ROUTES ARE VISITED:
             {
@@ -467,7 +479,7 @@
             
             &PORTRAIT_rina_rinaneutral
             
-            RINA: "You're still thinking about what happened?"
+            RINA: "<i>You're</i> telling me what <i>I'm</i> supposed to do?"
             
             &PORTRAIT_rina_rinadeadeye
             
@@ -475,24 +487,54 @@
             
             &PORTRAIT_nour_nourangry
             
-            NOUR: "Interesting?! Of <i>course</i> I'm still thinking about it."
+            NOUR: "Interesting?! What's <i>that</i> supposed to mean?"
             
             &PORTRAIT_rina_rinaneutral
             
-            RINA: "You aren't ready for this — not yet." 
+            RINA: "Well, you see..."
             
-            RINA: "<i>They</i> need you right now."
+            &PORTRAIT_rina_rinadeadeye
+            
+            RINA: "Telling you what you're supposed to do is <i>my</i> job."
+            
+            &PORTRAIT_nick_nicknervous
+            
+            NICK: "Uh... What?"
+            
+            &PORTRAIT_ms. suwan_mssuwannervous
+            
+            MS. SUWAN: "..."
+            
+            &PORTRAIT_rina_rinaneutral
+            
+            RINA: "Because you aren't ready for this, Nour. Not yet." 
+            
+            &PORTRAIT_nour_nourannoyed
+            
+            NOUR: "What?"
+            
+            RINA: "I'll give you a piece of advice now."
+            
+            RINA: "<i>Those two</i> need you right now."
+            
+            &PORTRAIT_nick_nicknervous
+            
+            NICK: "..."
+            
+            &PORTRAIT_ms. suwan_mssuwanangry
+            
+            MS. SUWAN: "...?"
             
             &PORTRAIT_rina_rinaannoyed
             
-            RINA: "Come back when you've helped the others first."
+            RINA: "Come back and talk to me when you've helped the others first."
             
             &PORTRAIT_rina_rinasad
             
-            RINA: "Maybe then you'll know how to help yourself."
+            RINA: "Maybe then you'll know how to help yourself, too."
         
 
-        + ["I can't do this right now."]
+        + ["I have to confront her about what she did."]
         
             //IF THE LAST KNOT IN NICK'S ROUTE IS VISITED:
             {
@@ -589,9 +631,15 @@
             
             NOUR: "..."
             
+            &PORTRAIT_nour_nourpondering
+            
+            NOUR: <i>Ms. Suwan seems to be avoiding her past...</i>
+            
             &PORTRAIT_nour_nournervous
             
-            NOUR: <i>Ms. Suwan seems to be avoiding her past, and is trying to get me to do the same...</i>
+            NOUR: <i>And she's trying to get me to do the same.</i>
+            
+            &PORTRAIT_nour_noursad
             
             NOUR: <i>But that doesn't seem healthy.</i>
             
@@ -604,7 +652,7 @@
             NOUR: <i>But maybe... I can help her come to terms with her past more?<i>
             
             
-        + ["We're done talking for now."]
+        + ["I have nothing to say for now."]
            
            {
             - rina_bandn && rina_topicspot && rina_hallway:
@@ -616,6 +664,38 @@
             &PORTRAIT_rina_rinadeadeye
             
             RINA: "..."
+            
+            &PORTRAIT_ms. suwan_mssuwannervous
+            
+            MS. SUWAN: "..."
+            
+            &PORTRAIT_nick_nicksad
+            
+            NICK: "Uh, Nour? Are you alright?"
+            
+            &PORTRAIT_nour_noursad
+            
+            NOUR: "Forget it. I'm done here."
+            
+            &PORTRAIT_nick_nickshocked
+            
+            NICK: "But..."
+            
+            &PORTRAIT_ms. suwan_mssuwansad
+            
+            MS. SUWAN: "Nour, are you sure you don't—"
+            
+            &PORTRAIT_nour_nourshadow
+            
+            NOUR: "<i>Not now.</i>"
+            
+            &PORTRAIT_nick_nicknervous
+            
+            NICK: "Oh, uh... Sorry."
+            
+            &PORTRAIT_ms. suwan_mssuwannervous
+            
+            MS. SUWAN: "Very well..."
             
             &PORTRAIT_nour_noursad
             
@@ -730,77 +810,79 @@
             
             RINA: "You know, I'm allowed to exist here just as much as you, Yousra."
             
-    -   * "Yousra?"
+    - &PORTRAIT_nour_nourpondering
     
-            &PORTRAIT_nour_nournervous
+    NOUR: "Yousra?"
     
-            NOUR: "Nobody calls me that anymore. I go by Nour now."
+    &PORTRAIT_nour_nournervous
+    
+    NOUR: "Nobody calls me that anymore. I go by Nour now."
             
-            &PORTRAIT_rina_rinaneutral
+    &PORTRAIT_rina_rinaneutral
             
-            RINA: "Oh... I see."
+    RINA: "Oh... I see."
             
+    &PORTRAIT_rina_rinaannoyed
+            
+    RINA: "...At least you're talking to me again."
+            
+    &PORTRAIT_rina_rinaneutral
+            
+    RINA: "That's a good start."
+            
+    &PORTRAIT_nour_nourannoyed
+            
+    NOUR: "...I can't see what it's a good start <i>to</i>."
+            
+    &PORTRAIT_rina_rinasad
+            
+    RINA: "It's because I know you want to keep talking about what happened."
+            
+    &PORTRAIT_nour_nournervous
+            
+    NOUR: "..."
+            
+    &PORTRAIT_rina_rinaneutral
+            
+    RINA: "About <i>why</i> we don't talk anymore."
+            
+    &PORTRAIT_rina_rinasad
+            
+    RINA: "About what happened back then? That lunch with our friends..."
+            
+    &PORTRAIT_nour_nourannoyed
+            
+    NOUR: "I would prefer not to, but I have a feeling you're going to keep going anyway."
+            
+    &PORTRAIT_rina_rinaannoyed
+            
+    RINA: "We started talking about, well, you know..."
+            
+    &PORTRAIT_rina_rinasad
+            
+    RINA: "Gay marriage being legalized..."
+            
+    &PORTRAIT_rina_rinaneutral
+            
+    RINA: "What am I forgetting?"
+            
+    &PORTRAIT_nour_nournervous
+            
+        * "You were quiet[."], while others went on about how being gay is gross and <i>haram.</i>"
+                
             &PORTRAIT_rina_rinaannoyed
-            
-            RINA: "...At least you're talking to me again."
-            
-            &PORTRAIT_rina_rinaneutral
-            
-            RINA: "That's a good start."
-            
-            &PORTRAIT_nour_nourannoyed
-            
-            NOUR: "...I can't see what it's a good start <i>to</i>."
-            
-            &PORTRAIT_rina_rinasad
-            
-            RINA: "It's because I know you want to keep talking about what happened."
-            
-            &PORTRAIT_nour_nournervous
-            
-            NOUR: "..."
-            
-            &PORTRAIT_rina_rinaneutral
-            
-            RINA: "About <i>why</i> we don't talk anymore."
-            
-            &PORTRAIT_rina_rinasad
-            
-            RINA: "About what happened back then? That lunch with our friends..."
-            
-            &PORTRAIT_nour_nourannoyed
-            
-            NOUR: "I would prefer not to, but I have a feeling you're going to keep going anyway."
-            
-            &PORTRAIT_rina_rinaannoyed
-            
-            RINA: "We started talking about, well, you know..."
-            
-            &PORTRAIT_rina_rinasad
-            
-            RINA: "Gay marriage being legalized..."
-            
-            &PORTRAIT_rina_rinaneutral
-            
-            RINA: "What am I forgetting?"
-            
-            &PORTRAIT_nour_nournervous
-            
-                ** "You were quiet[."], while others went on about how being gay is gross and <i>haram.</i>"
                 
-                    &PORTRAIT_rina_rinaannoyed
-                
-                    RINA: "That doesn't mean I agreed with them."
+            RINA: "That doesn't mean I agreed with them."
                     
-                    &PORTRAIT_rina_rinaangry
+            &PORTRAIT_rina_rinaangry
                     
-                    RINA: "I didn't even tell them that <i>you're</i> gay!"
+            RINA: "I didn't even tell them that <i>you're</i> gay!"
                     
-                ** "I had <i>just</i> come out to you."
+        * "I had <i>just</i> come out to you."
                 
-                    &PORTRAIT_rina_rinaangry
+            &PORTRAIT_rina_rinaangry
                 
-                    RINA: "True, but I didn't tell anyone!"
+            RINA: "True, but I didn't tell anyone!"
                 
     -   &PORTRAIT_rina_rinaannoyed
     
@@ -856,11 +938,15 @@
             
             &PORTRAIT_rina_rinaangry
             
-            RINA: "Make everyone suddenly unlearn what our parents taught us?"
+            RINA: "Make everyone suddenly unlearn what we were taught?"
             
             &PORTRAIT_rina_rinaannoyed
             
-            RINA: "What our <I>Middle-Eastern, Muslim</i> friends and families believe?"
+            RINA: "How we were raised our <i>entire</i> lives?"
+            
+            &PORTRAIT_rina_rinaangry
+            
+            RINA: "What our <i>Middle-Eastern, Muslim</i> friends and families believe?"
             
             &PORTRAIT_rina_rinaangry
             
@@ -1134,11 +1220,11 @@
         
         &PORTRAIT_rina_rinaneutral
         
-        RINA: "You want our homophobic friends to know their place."
+        RINA: "You want our homophobic friends to know their places."
         
         &PORTRAIT_rina_rinaannoyed
         
-        RINA: "You closed yourself to any possiblity for me to support you."
+        RINA: "But you closed yourself to any possiblity for me to support you."
         
         &PORTRAIT_rina_rinaneutral
         
@@ -1160,7 +1246,7 @@
         
         &PORTRAIT_nour_nournervous
         
-        NOUR: "N-no! I..."
+        NOUR: "N-No! I..."
         
         &PORTRAIT_nour_noursad
         
@@ -1245,7 +1331,7 @@
     
         &LIGHT_Nour0
     
-        -> light_on
+        -> light_on_nofirst
 
 //---------------- HALLWAY ----------------
 //At the end of Ms. Suwan's route, Ms. Suwan is able to apologize for her past behavior and let go.
@@ -1399,7 +1485,7 @@
         
         &PORTRAIT_rina_rinasad
         
-        RINA: "You couldn't <i>possibly</i> think forgetting everything would be a realistic solution, right..?"
+        RINA: "You couldn't <i>possibly</i> think forgetting everything would be a realistic solution?"
         
         &PORTRAIT_rina_rinaneutral
         
@@ -1419,7 +1505,7 @@
         
         &PORTRAIT_nour_nournervous
         
-        NOUR: "I-I..!"
+        NOUR: "I-I...!"
         
         &PORTRAIT_nour_nourshadow
         
@@ -1456,18 +1542,18 @@
         
         NOUR: <i>...Looks like this wasn't the right way to handle what happened.</i>
         
-        { - !neverknowlight:
-                -> neverknowlight
+        { - !neverknowlight2:
+                -> neverknowlight2
             
             - else: 
                 -> END
         }
         
-    = neverknowlight
+    = neverknowlight2
         
         &LIGHT_Nour1
 
-        -> light_on
+        -> light_on_nofirst
 
 
 //---------------- ELEVATOR ----------------
@@ -1483,6 +1569,10 @@
     
     The elevator engine is whirring back to life.
     
+    There's a new energy in Rina's eyes.
+    
+    More familiar. More <i>real</i>.
+    
     &FOLLOW_NICK_NickEndingStartPos
     &FOLLOW_SUWAN_SuwanEndingStartPos
     &FOLLOW_NOUR_NourEndingStartPos
@@ -1495,9 +1585,7 @@
     &EMOTE_NICK_UpIdle
     &EMOTE_SUWAN_UpIdle
     
-    There's... a new energy in Rina's eyes.
     
-    More familiar. More <i>real</i>.
     
     &PORTRAIT_ms. suwan_mssuwannervous
     
@@ -1506,6 +1594,10 @@
     &PORTRAIT_ms. suwan_mssuwanneutral
     
     MS. SUWAN: "Who was she to you?"
+    
+    &PAUSE_1.0
+    
+    &AUDIO_FADEOUT
     
     &FOLLOW_NOUR_NourEndingRinaPos
     
@@ -1549,7 +1641,7 @@
         
         &PORTRAIT_ms. suwan_mssuwanneutral
         
-        MS. SUWAN: "You need to face the past... with Rina, with <i>everything.</i>"
+        MS. SUWAN: "You need to face the past... with Rina. With <i>everything.</i>"
         
         &PORTRAIT_ms. suwan_mssuwanpondering
         
@@ -1559,13 +1651,11 @@
         
         &EMOTE_NICK_RightIdle
         
-        NICK: "You've helped us. Now it's our turn to help <i>you</i>."
-        
         &PORTRAIT_nick_nickshocked
         
-        NICK: "Ms. Suwan's right, Nour!"
+        NICK: "You've helped us. Now it's our turn to help <i>you</i>."
         
-        &PORTRAIT_nick_nicknervous
+        &PORTRAIT_nick_nicksmallsmile
         
         NICK: "We'll be behind you every step of the way, too."
         
@@ -1590,6 +1680,10 @@
         &PORTRAIT_nour_noursad
         
         NOUR: "Rina..."
+        
+        &PAUSE_1.0
+
+        &MUSIC_HallwayEmo
         
         &PORTRAIT_nour_nournervous
         
@@ -1676,7 +1770,7 @@
             
                 &PORTRAIT_nour_nournervous
             
-                NOUR: "I guess I... already knew what it was to be bullied and picked on."
+                NOUR: "I guess I... already knew what it was like to be picked on."
                 
                 &PORTRAIT_nour_nourshadow
                 
@@ -1726,7 +1820,7 @@
                 
                 &PORTRAIT_nour_nourshadow
                 
-                NOUR: "Maybe even more than I was mad at you, Rina."
+                NOUR: "Maybe even more than I was mad at you."
             
         - &PORTRAIT_nour_noursad
         
@@ -1750,7 +1844,7 @@
         
         &PORTRAIT_nick_nicksad
         
-        NICK: "And we're here now, whether you like it or not."
+        NICK: "And we're here with you, now..."
         
         &PORTRAIT_nick_nickbigsmile
         
@@ -1776,7 +1870,7 @@
         
         *   "With or without you..."
         
-        &PORTRAIT_nour_noursmile
+        -&PORTRAIT_nour_noursmile
         
         NOUR: "I'm ready to move on."
         
@@ -1819,6 +1913,10 @@
         &PORTRAIT_nour_noursad
         
         NOUR: "Rina..."
+        
+        &PAUSE_1.0
+
+        &AUDIO_FADEOUT
         
         &PORTRAIT_nour_nourtears
         
@@ -1864,6 +1962,10 @@
         
         NICK: "Now, shall we move on? Because <i>I</i> believe it iiiiiis..."
         
+        &PAUSE_1.0
+
+        &MUSIC_HallwayMusic
+        
         &PORTRAIT_nick_nickbigsmile
         
         &EMOTE_NICK_Jump
@@ -1900,15 +2002,9 @@
         
         &FOLLOW_NOUR_EndingElevatorPos
         
-        &SPEED_NOUR_40.0
-        
-        &PAUSE_0.2
-        // &SLOWFADE
-        // &PAUSE_0.5
+        This is the end of the Demo. Thank you for playing!
         
         &ENDGAME
-        
-        Bye!
         
         -> END
 
@@ -1995,9 +2091,11 @@
         
         &PORTRAIT_nour_nourneutral
         
-        NOUR: <i>With the polaroid camera that my dad got...</i>
+        NOUR: <i>With the polaroid camera that my dad got... from this mall.</i>
         
-        NOUR: <i>...from this mall.</i>
+        &PORTRAIT_nour_nournervous
+        
+        NOUR: <i>I wonder if I could find it around here.</i>
         
         -> END
     

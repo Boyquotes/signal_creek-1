@@ -66,7 +66,7 @@
     
     &PORTRAIT_nick_nicknervous
     
-    NICK: "... Even <i>I</i> don't wanna find out."
+    NICK: "...Even <i>I</i> don't wanna find out."
 
     -> END
     
@@ -82,6 +82,6 @@
     
     &PORTRAIT_nour_nournervous
     
-    NOUR: <i> ...Creepy. I'd better stop looking.</i>
+    NOUR: <i>...Creepy. I'd better stop looking.</i>
     
     -> END

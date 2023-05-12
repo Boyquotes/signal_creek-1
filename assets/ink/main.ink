@@ -60,18 +60,20 @@ INCLUDE bandn/computerdesk.ink
     Hello. This is an Abstract Object. Thank you for coming.
 
     -> END
-    
+
+
 == missing_path ==
 
     This object's name does not match any path in the master ink. Please disable the object's ActiveArea or create a knot with the object's name.
     
     -> END
-    
+
+
 == first_light ==
 
     &PORTRAIT_nour_nourpondering
 
-    NOUR: "... What was that noise?"
+    NOUR: "...What was that noise?"
     
     &PORTRAIT_ms. suwan_mssuwanpondering
     
@@ -93,7 +95,7 @@ INCLUDE bandn/computerdesk.ink
     
     NICK: "Woah, look at that! One of the weird lights turned back on!"
     
-    &PORTRAIT_ms. suwan_mssuwanrealization
+    &PORTRAIT_ms. suwan_mssuwannervous
     
     MS. SUWAN: "This is becoming stranger and stranger..."
     
@@ -105,7 +107,7 @@ INCLUDE bandn/computerdesk.ink
     
     NICK: "I dunno, but we must've done <i>something</i> to make the elevator work again."
     
-    &PORTRAIT_nick_nickworried
+    &PORTRAIT_nick_nicknervous
     
     NICK: "Er, maybe not work <i>completely</i> though."
     
@@ -145,9 +147,9 @@ INCLUDE bandn/computerdesk.ink
     
     &PORTRAIT_nour_noursad
     
-    NOUR: <i>... and it's up to us to move on.</i>
+    NOUR: <i>...and it's up to us to move on.</i>
     
-    &PORTRAIT_nour_nourrealization
+    &PORTRAIT_nour_nourpondering
     
     NOUR: <i>When we were talking earlier, did {firstLightCharacter} reveal something {firstLightPronoun} hung up on?</i>
     
@@ -156,7 +158,8 @@ INCLUDE bandn/computerdesk.ink
     NOUR: "We should keep an eye on this elevator and the lights as we keep exploring."
     
     -> END
-    
+
+
 == light_on ==
 
     An elevator ding is heard from the hallway.
@@ -172,8 +175,22 @@ INCLUDE bandn/computerdesk.ink
     
     -> END
     
+== light_on_nofirst ==
+
+    An elevator ding is heard from the hallway.
     
-== explored_everything
+    &SOUND_spookychime
+    
+    Sounds like another elevator light turned on.
+    
+    {
+        - rina_hallway && rina_topicspot && rina_bandn:
+            -> rina_final
+    }
+    
+    -> END
+    
+== explored_everything ==
 
     &PORTRAIT_nour_nourneutral
 

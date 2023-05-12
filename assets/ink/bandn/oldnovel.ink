@@ -4,7 +4,7 @@
 
 == oldnovel ==
 
-    It's the old novel, <i>Jane Eyre</i>.
+    It's the old novel, 'Jane Eyre'.
 
     {
         - !oldnovel_first:
@@ -14,19 +14,21 @@
             -> oldnovel_end
     }
     
-    A controversial novel, for its opposition to filial piety.
+    A controversial novel for its opposition to filial piety.
     
     -> END
     
 == oldnovel_first ==
 
-    Ms. Suwan flips open the first page, and begins to read.
+    Ms. Suwan flips open the first page and begins to read.
+    
+    &PORTRAIT_nour_nourpondering
     
     NOUR: <i>She seems to be thinking about something else...</i>
     
     &PORTRAIT_nour_noursmile
     
-    NOUR: "That's uh... Jane Eyre. A classic."
+    NOUR: "That's uh... 'Jane Eyre'. A classic."
 
     &PORTRAIT_ms. suwan_mssuwanpondering
     
@@ -52,35 +54,47 @@
     
     NOUR: "Looks like you're familiar with it."
     
-    &PORTRAIT_ms. suwan_mssuwannervous 
-    
-    MS. SUWAN: "Hm. Maybe."
-    
-    NOUR: "You've had your eye on it for a while."
+    &PORTRAIT_ms. suwan_mssuwanneutral
 
     MS. SUWAN: "Well, the name sounds familiar, but I know nothing of it."
-
+    
+    &PORTRAIT_ms. suwan_mssuwannervous
+    
     MS. SUWAN: "I remember talks about certain <i>banned</i> novels, back in China. I was young."
+    
+    &PORTRAIT_nour_nournervous
     
     NOUR: "What kind of talk?"
     
     &PORTRAIT_ms. suwan_mssuwanneutral  
     
     MS. SUWAN: "Opposition to Western ideology and its extreme individualism."
-
+    
+    &PORTRAIT_ms. suwan_mssuwannervous
+    
     MS. SUWAN: "Which this book promotes."
+    
+    &PORTRAIT_nour_nourrealization
     
     NOUR: "...You know, Egyptian and Chinese cultures have that in common."
     
+    &PORTRAIT_nour_noursad
+    
     NOUR: "There's a natural aversion to Western ideas, and a... <i>Family First</i> attitude."
+    
+    &PORTRAIT_nour_nournervous
+    
+    NOUR: "Generally, it's valid."
+    
+    &PORTRAIT_nour_nourshadow
+    
+    NOUR: "And sometimes, it's not."
     
     &PORTRAIT_nour_noursad
     
-    NOUR: "Generally, it's valid. Sometimes it's not."
+    NOUR: "So..."
     
     &PORTRAIT_nour_nourneutral
-    
-    NOUR: "So..."
     
     NOUR: "May I ask why you never read the book?"
     
@@ -88,11 +102,15 @@
     
     MS. SUWAN: "I was not ready to embrace myself as an individual."
     
+    &PORTRAIT_ms. suwan_mssuwannervous
+    
     MS. SUWAN: "...I can't say things have changed."
     
     &PORTRAIT_nour_nournervous
     
     NOUR: "I don't completely understand what's going on..."
+    
+    &PORTRAIT_nour_noursad
     
     NOUR: "But I know it can be hard to shake those feelings."
     

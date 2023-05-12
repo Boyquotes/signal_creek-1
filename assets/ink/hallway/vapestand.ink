@@ -24,7 +24,7 @@
     
     * "I don't think I trust you with these."
     
-        &PORTRAIT_nick_nickangry
+        &PORTRAIT_nick_nicknervous
     
         NICK: "Dude, I'm chill. I swear."
         
@@ -32,11 +32,11 @@
         
         NOUR: "No way."
         
-        &PORTRAIT_nick_nickangry
-    
-        NICK: "... Dang it."
-    
         &PORTRAIT_nick_nicksad
+    
+        NICK: "...Dang it."
+    
+        &PORTRAIT_nick_nickpleading
         
         NICK: "Ms. Suwan? <i>Please</i>, I'll pay you back—"
         
@@ -44,7 +44,7 @@
         
         MS. SUWAN: "Absolutely not."
         
-        &PORTRAIT_nick_nickangry
+        &PORTRAIT_nick_nicknervous
         
         NICK: "It was worth a shot."
     
@@ -62,11 +62,13 @@
         
         NOUR: "They barely taste like anything, Nick."
         
+        &PORTRAIT_nour_nourpondering
+        
         NOUR: "You'd be way better off chewing a real piece of bubblegum."
         
         &PORTRAIT_nick_nickshocked
         
-        NICK: "... Wait, really?"
+        NICK: "...Wait, really?"
         
         &PORTRAIT_nick_nicknervous
         
@@ -75,10 +77,18 @@
         &PORTRAIT_nour_nourneutral
         
         NOUR: "Less appealing to you now, huh?"
-        
-        &PORTRAIT_nick_nickangry
     
-    - NICK: "... Fine, whatever. I don't need this crap."
+    - &PORTRAIT_nick_nicksad
+    
+    NICK: "...Fine, whatever."
+    
+    &PORTRAIT_nour_nourneutral
+    
+    NOUR: "Let's check something else out. Okay?"
+    
+    &PORTRAIT_nick_nickneutral
+    
+    NICK: "Yeah... Okay."
     
     -> END
     

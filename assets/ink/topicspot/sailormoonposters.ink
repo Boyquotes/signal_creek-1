@@ -8,7 +8,7 @@
 }
     &PORTRAIT_nour_noursmile
     
-    NOUR: "Maybe once we get out of here I should revisit Marine Star Girls." 
+    NOUR: "Maybe once we get out of here I should rewatch Marine Star Girls." 
     
     &PORTRAIT_nour_noursmile
     
@@ -24,7 +24,7 @@
     
     &PORTRAIT_nick_nickshocked
     
-    NICK: "Whoa, you know them? I figured they were... y'know, kinda too girly for you."
+    NICK: "Whoa, you know them?! I figured they were... y'know, kinda too girly for you."
     
     &PORTRAIT_nour_nourrealization
     
@@ -32,11 +32,11 @@
     
     &PORTRAIT_nick_nickpondering
     
-    NICK: "... You know what, fair. They're pretty iconic, I guess."
+    NICK: "...You know what, fair. They're pretty iconic, I guess."
     
     &PORTRAIT_nick_nickshocked
-    NICK: "Even my <i>dude</i> friends kinda know them, even though they don't have any sisters."
     
+    NICK: "Even my <i>dude</i> friends kinda know them, even though they don't have any sisters."
     
     &PORTRAIT_nour_nourneutral
     

@@ -14,7 +14,11 @@
     
     &PORTRAIT_nick_nickbigsmile
     
-    NICK: "Hey, I used to play with these things all the time! My go to was the '20 Dodge Charger Hellcat!" // EXCITED
+    NICK: "Hey, I used to play with these things all the time!"
+    
+    &PORTRAIT_nick_nicksmallsmile
+    
+    NICK: "My go-to was the '20 Dodge Charger Hellcat!" // EXCITED
     
     &PORTRAIT_ms. suwan_mssuwannervous
     
@@ -22,7 +26,9 @@
     
     &PORTRAIT_nick_nickshocked
     
-    NICK: "You had Hot Wheels, too?!" // SHOCKED
+    NICK: "You had Cool Motors, too?!" // SHOCKED
+    
+    &PORTRAIT_ms. suwan_mssuwanneutral
     
     MS. SUWAN: "They were everywhere in my neighborhood street markets."
     
@@ -34,62 +40,113 @@
     
     MS. SUWAN: "...Though I never asked for them." // FROWNING
     
+    &PORTRAIT_ms. suwan_mssuwanneutral
+    
     MS. SUWAN: "Those were the only toys I had for most of my childhood."
     
-    &PORTRAIT_nick_nickworried
+    &PORTRAIT_nick_nicknervous
     
     NICK: "Sounds like you didn't really like 'em all that much."
     
-    NICK: "Did you ever play with things you actually liked? Like planes? Monster trucks? Or—"
+    &PORTRAIT_nick_nickpondering
+    
+    NICK: "What did you actually like? Planes? Monster trucks?"
     
     &PORTRAIT_ms. suwan_mssuwansmile
     
-    MS. SUWAN: "Yes. I had a small stuffed doll once."
+    MS. SUWAN: "Dolls. My favorite was a small, stuffed one."
+    
+    &PORTRAIT_ms. suwan_mssuwanpondering
     
     MS. SUWAN: "...It was my older cousin's before she gave it to me."
     
+    &PORTRAIT_ms. suwan_mssuwannervous
+    
     MS. SUWAN: "I had a hard time sleeping without it and took it with me everywhere."
     
-    &PORTRAIT_ms. suwan_mssuwansmile
+    &PORTRAIT_ms. suwan_mssuwanneutral
     
-    MS. SUWAN: "It was probably my equivalent of your...'20 Dodge Charger Hellcat, was it?" // SMILING
+    MS. SUWAN: "It was probably my equivalent of your..."
+    
+    &PORTRAIT_ms. suwan_mssuwanpondering
+    
+    MS. SUWAN: "'20 Dodge Charger Hellcat, was it?" // SMILING
     
     &PORTRAIT_nick_nickbigsmile
     
     NICK: "You remembered?!" // HAPPY
     
+    &PORTRAIT_ms. suwan_mssuwansmile
+    
     MS. SUWAN: "It's not exactly hard to remember something as ridiculous like that."
+    
+    &PORTRAIT_ms. suwan_mssuwanpondering
     
     MS. SUWAN: "Especially if you just mentioned it moments ago."
     
+    &PORTRAIT_nour_noursmile
+    
         * ["What was the stuffed doll?"]
+        
+            &PORTRAIT_nour_nourneutral
         
             NOUR: "What was the stuffed doll?" 
             
+            &PORTRAIT_nour_nourpondering
+            
             NOUR: "A girl? Or some animal?"
+            
+            &PORTRAIT_ms. suwan_mssuwanneutral
             
             MS. SUWAN: "It was a rabbit."
             
+            &PORTRAIT_nick_nickshocked
+            
             NICK: "Ooo! What color?"
+            
+            &PORTRAIT_ms. suwan_mssuwansmile
             
             MS. SUWAN: "Pink." // SMILING
             
+            &PORTRAIT_nour_noursmile
+            
             NOUR: "I used to have a doll like that too. It was a dragon." // SMILING
             
-            NICK: "Dragons? I love dragons! Do you think they have any dragons here—" // EXCITED
+            &PORTRAIT_nick_nickbigsmile
+            
+            NICK: "Dragons? I love dragons!" // EXCITED
             
         * ["What was Thailand like?"]
+        
+            &PORTRAIT_nour_nourpondering
+            
             NOUR: "The weather must've been different from here."
             
-            &PORTRAIT_nour_nourpondering
+            &PORTRAIT_nour_nourneutral
             
             NOUR: "...I mean, everything must've been."
             
-            MS. SUWAN: "Humid and hot in the summers. Winters I enjoyed, it never got as cold as it does here."
+            &PORTRAIT_ms. suwan_mssuwanpondering
             
-            MS. SUWAN: "Lots of nature. Lots of people. Winding paths, crossing from one place to the next."
+            MS. SUWAN: "It was humid and hot in the summers."
+            
+            &PORTRAIT_ms. suwan_mssuwanneutral
+            
+            MS. SUWAN: "I especially miss the winters there. It never gets as cold as it does here."
+            
+            &PORTRAIT_ms. suwan_mssuwannervous
+            
+            MS. SUWAN: "Lots of nature. Lots of people."
+            
+            &PORTRAIT_ms. suwan_mssuwanneutral
+            
+            MS. SUWAN: "Winding paths, crossing from one place to the next."
+            
+            &PORTRAIT_ms. suwan_mssuwansmile
             
             MS. SUWAN: "And of course, toy markets. Those were there, too."
+            
+            &PORTRAIT_nour_noursad
             
             NOUR: "Do you miss Thailand?"
             
@@ -97,7 +154,13 @@
             
             MS. SUWAN: "Sometimes I do. Sometimes I don't. Depends on what day you're asking."
             
-            NICK: "I wanna go to a toy market in Thailand! Maybe Ms. Suwan, you could take me and—" // EXCITED
+            &PORTRAIT_nick_nicksmallsmile
+            
+            NICK: "I wanna go to a toy market in Thailand!"
+            
+            &PORTRAIT_nick_nickbigsmile
+            
+            NICK: "Maybe Ms. Suwan, you could take me and—" // EXCITED
         * ["Let's get going."]
     
     

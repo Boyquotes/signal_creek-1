@@ -50,7 +50,7 @@
                 
                     &PORTRAIT_ms. suwan_mssuwansad
                 
-                MS. SUWAN: "... But I also have my personal reasoning."
+                MS. SUWAN: "...But I also have my personal reasoning."
             
             &EMOTE_SUWAN_StepBack
             &PAUSE_0.5
@@ -82,7 +82,7 @@
         
             &PORTRAIT_ms. suwan_mssuwanneutral
         
-        MS. SUWAN: "I will say this: I agree with you."
+        MS. SUWAN: "I will say this—I agree with you."
         
         &PORTRAIT_ms. suwan_mssuwanpondering
         
@@ -101,18 +101,13 @@
         &FOLLOW_NOUR_stop
         
         -> END
-        
-        
-// == beautystand ==
-
-//     It's an Aple Beauty makeover booth.
-    
-//     -> END
     
 
 == directionsign ==
 
     It's a mall directory with a map of the current floor.
+    
+    Ms. Suwan also has a copy that we can look at.
     
     -> END
     
@@ -156,34 +151,71 @@
     
 == cafesign ==
 
-It's a neatly handwritten sign for the Louis George Cafe. But all of the drink's prices have been rubbed off...
+    It's a neatly handwritten sign for the Louis George Cafe.
+    
+    All of the drink's prices have been rubbed off...
 
 
     -> END
     
 == earlearligold ==
 
+    &PORTRAIT_nour_nourpondering
+
     NOUR: "...What's this apple doing on the floor?"
     
-    EARL EARLIGOLD: "As an apple, you are... Okay."
+    EARL EARLIGOLD: "As an apple, you are... Average."
     
     &PORTRAIT_nour_nourshocked
     
-    NOUR: "...??!"
+    NOUR: "...?!"
     
     EARL EARLIGOLD: "I rate you 6/10."
     
     &PORTRAIT_nick_nickbigsmile
     
-    NICK: "Haha! You're not a good apple."
+    NICK: "Haha! How does it feel to be <i>barely</i> above average?"
+    
+    &PORTRAIT_nour_nourannoyed
+    
+    NOUR: "Oh yeah? What about <i>your</i> rating, then?"
+    
+    &PORTRAIT_nick_nicksmallsmile
+    
+    NICK: "Let's find out then!"
+    
+    &PORTRAIT_nick_nickshocked
+    
+    NICK: "Hey! What about me?"
     
     EARL EARLIGOLD: "You are a 10/10! A rare apple you are, young prince!"
     
-    NICK: "...Thanks!"
+    &PORTRAIT_nour_nourrealization
+    
+    NOUR: "..."
+    
+    &PORTRAIT_nick_nickbigsmile
+    
+    NICK: "NICE!!!"
+    
+    &PORTRAIT_nick_nicksmallsmile
+    
+    NICK: "How do you like <i>them</i> apples, Nour?"
+    
+    &PORTRAIT_nick_nickbigsmile
+    
+    NICK: "Huh? HUH???"
+    
+    &PORTRAIT_nour_nourannoyed
+    
+    NOUR: "Okay, okay. Knock it off."
+    
+    &PORTRAIT_ms. suwan_mssuwanannoyed
+    
+    MS. SUWAN: "Yes. Let's stop talking to food that's on the ground, please."
+    
+    &PORTRAIT_nick_nicksmallsmile
+    
+    NICK: "Sure, sure..."
     
     -> END
-// == wertoys == 
-
-//     It's the old toy store, We r Toys.
-    
-//     -> END

@@ -14,16 +14,20 @@
     &EMOTE_SUWAN_UpIdle
     
     
+    &PORTRAIT_nour_nourannoyed
+    
     NOUR: "Look, I said I don't want to look at this right now." // (ANGRY)
+    
+    &PORTRAIT_ms. suwan_mssuwannervous
     
     MS. SUWAN: "Fine, we'll come back later then."
     
     -> END
     
 == polaroid_first_visit ==
-    The camera is surrounded by a bunch of film photographs of two girls. 
+    The camera is surrounded by a bunch of film photographs. 
     
-    One of them sits on the floor outside of the case. 
+    One of them sits on the floor. 
     
     &FOLLOW_NOUR_NourPolaroid
     
@@ -39,27 +43,39 @@
     
     &EMOTE_SUWAN_RightIdle
     
-    &PORTRAIT_nour_nourshocked
+    &PORTRAIT_nour_nournervous
     
     NOUR: "...No way." // (SHOCKED)
     
+    &PORTRAIT_nick_nickneutral
+    
     NICK: "Hm?"
     
-    &PORTRAIT_nour_nourrealization
+    &PORTRAIT_nour_nournervous
     
-    NOUR: "I think that's my dad's old polaroid. Well, <i>my</i> polaroid, technically."
+    NOUR: "I think that's my dad's old polaroid."
+    
+    &PORTRAIT_nour_nourpondering
+    
+    NOUR: "Well, <i>my</i> polaroid, technically."
     
     &PORTRAIT_nick_nickpondering
     
     NICK: "Like... <i>your</i> camera your camera or the same <i>kind</i> of camera, your camera?"
     
+    &PORTRAIT_nour_nourneutral
+    
     NOUR: "I'm not sure, but probably not <i>my</i> camera."
+    
+    &PORTRAIT_nour_nournervous
     
     NOUR: "That would be impossible... Right?"
     
     &PORTRAIT_nick_nickneutral
     
     NICK: "Right. Completely impossible."
+    
+    &PORTRAIT_nick_nicknervous
     
     NICK: "Just like us being trapped here right now is impossible."
     
@@ -95,9 +111,11 @@
     
     MS. SUWAN: "Wait Nour, there are pictures of you in this polaroid."
     
-    &PORTRAIT_nour_nourshocked
+    &PORTRAIT_nour_nourrealization
     
-    NOUR: "Wh- *What?!*"
+    NOUR: "Wh-<i>What?!</i>"
+    
+    &PORTRAIT_nour_nournervous
     
     NOUR: "That's..."
     
@@ -109,6 +127,8 @@
     
     MS. SUWAN: "Do you know something you're not telling us?"
     
+    &PORTRAIT_nour_nournervous
+    
         * "I don't know anything more than you do!" // (NERVOUS)
         
             MS. SUWAN: "Are you sure? Did you put them here?"
@@ -117,13 +137,15 @@
             
             MS. SUWAN: "Are you trying to prank us, young lady?" // (ANGRY)
             
-            &PORTRAIT_nour_nournervous
+            &PORTRAIT_nour_nourpondering
         
             NOUR: "No! I swear I'm not!"
             
-            NOUR: "Seriously, I'm just as shocked as you are." 
+            &PORTRAIT_nour_nourannoyed
             
-            &PORTRAIT_nour_nourshocked
+            NOUR: "Seriously, I'm just as shocked as you are."
+            
+            &PORTRAIT_nour_nournervous
             
             NOUR: "These photos are supposed to be in a shoebox under my bed!" // (SHOCKED)
             
@@ -139,13 +161,15 @@
             
             MS. SUWAN: "Are you setting something up, young lady?" // (ANGRY)
             
-            &PORTRAIT_nour_nournervous
+            &PORTRAIT_nour_nourannoyed
         
-            NOUR: "What? No! I'm not setting anything up!" 
+            NOUR: "What? No! I'm not setting anything up!"
+            
+            &PORTRAIT_nour_nournervous
             
             NOUR: "Seriously, I'm just as shocked as you are." 
             
-            &PORTRAIT_nour_nourshocked
+            &PORTRAIT_nour_nourangry
             
             NOUR: "These photos are supposed to be in a shoebox under my bed!!" // (SHOCKED)
             
@@ -167,25 +191,33 @@
         
             MS. SUWAN: "I want to believe you, but..." // (SQUINTING)
             
+            &PORTRAIT_ms. suwan_mssuwannervous
+            
             MS. SUWAN: "Hmm..."
     
         * "Someone or something <i>has</i> to be messing with us, this is insane!" 
         
-            &PORTRAIT_ms. suwan_mssuwan
+            &PORTRAIT_ms. suwan_mssuwanpondering
     
             MS. SUWAN: "Perhaps it could be the girl we saw earler?"
             
+            &PORTRAIT_ms. suwan_mssuwanneutral
+            
             MS. SUWAN: "She seemed to have some strange knowledge of the goings-on here."
         
-            &PORTRAIT_nour_nourshadow
+            &PORTRAIT_nour_nournervous
             
             NOUR: "I..."
             
-            &PORTRAIT_nour_nournervous
+            &PORTRAIT_nour_nourshadow
             
             NOUR: "..."
     
-    - NOUR: "Look, can we... please just move on for now?" // (NERVOUS)
+    - &PORTRAIT_nour_nournervous
+    
+    NOUR: "Look, can we... please just move on for now?" // (NERVOUS)
+    
+    &PORTRAIT_ms. suwan_mssuwannervous
     
     MS. SUWAN: "..."
     
@@ -201,9 +233,11 @@
     
     &PORTRAIT_ms. suwan_mssuwanpondering
     
-    MS. SUWAN: "And you must admit, it <i>is</i> strange to find photographs of yourself here."
+    MS. SUWAN: "You must admit it <i>is</i> strange to find photos of yourself here."
     
-    MS. SUWAN: "Any and all information we can gather has the chance to be helpful, you've insinuated so yourself."
+    &PORTRAIT_ms. suwan_mssuwansad
+    
+    MS. SUWAN: "Any information we can gather could be helpful. You've insinuated so yourself."
     
     &PORTRAIT_ms. suwan_mssuwanneutral
     
@@ -211,13 +245,25 @@
     
     &PORTRAIT_ms. suwan_mssuwanannoyed
     
-    MS. SUWAN: "I can't quite make out their face, it's rather blurry."
+    MS. SUWAN: "I can't quite make out their face. It's rather blurry."
     
     &PORTRAIT_nick_nickbigsmile
     
     NICK: "Or maybe magic's hiding them! Can I see?" // (HAPPY)
     
-    MS. SUWAN: "No. Nour?" 
+    &PORTRAIT_ms. suwan_mssuwanangry
+    
+    MS. SUWAN: "No."
+    
+    &PORTRAIT_nick_nicksad
+    
+    NICK: "Man..."
+    
+    &PORTRAIT_ms. suwan_mssuwanneutral
+    
+    MS. SUWAN: "Nour?" 
+    
+    &PORTRAIT_nour_nournervous
     
         * "I said we should move on."
         
@@ -231,11 +277,13 @@
             
             &PORTRAIT_ms. suwan_mssuwanangry
     
-            MS. SUWAN: "...Hmph. Fine. We'll move on because we must, <i>for now</i>." 
+            MS. SUWAN: "...Fine. We'll move on because we must, <i>for now</i>."
             
-            MS. SUWAN: "We'll come back to this later, though, don't think I'll forget about it."
+            MS. SUWAN: "We'll come back to this later, though. Don't think I'll forget about it."
         
             Ms. Suwan places the photograph on top of the glass case.
+            
+            &PORTRAIT_ms. suwan_mssuwannervous
         
             MS. SUWAN: "You <i>will</i> have to face up to whatever happened sooner or later."
             
@@ -247,7 +295,7 @@
             
             Nick leans in and whispers to Ms. Suwan. 
             
-            &PORTRAIT_nick_nickworried
+            &PORTRAIT_nick_nicknervous
         
             NICK: "I think she did something she's not happy about." 
             
@@ -260,6 +308,8 @@
             &PORTRAIT_ms. suwan_mssuwanpondering
             
             MS. SUWAN: "That does not mean we should hide from our choices."
+            
+            &PORTRAIT_ms. suwan_mssuwanneutral
             
             MS. SUWAN: "But let's keep looking around for now."
             
@@ -277,13 +327,17 @@
         
             NICK: "No you can't! I'm whispering!" 
             
+            &PORTRAIT_nick_nickangry
+            
             NICK: "It's rude to listen on to someone whispering!" // (ANGRY)
             
         * "...She's an old friend."
         
-            &PORTRAIT_nour_nourshadow
+            &PORTRAIT_nour_noursad
         
             NOUR: "I... cared about her, a lot." 
+            
+            &PORTRAIT_nour_nourshadow
             
             NOUR: "But we don't talk anymore. It doesn't matter." // (SAD)
             
@@ -291,7 +345,11 @@
         
             NICK: "It does though! How did you meet her?"
             
+            &PORTRAIT_nick_nickpondering
+            
             NICK: "Did you know her for a long time? What's her name?"
+            
+            &PORTRAIT_nick_nicksad
             
             NICK: "Why don't you talk anymore?" 
             
@@ -299,9 +357,11 @@
         
             NOUR: "I'm answering none of those, and you're going to stop asking questions." // (ANGRY)
             
-            &PORTRAIT_nick_nicksad
+            &PORTRAIT_nick_nickshocked
         
             NICK: "Aww, but I wanna know! Why don't you wanna talk about her?"
+            
+            &PORTRAIT_nick_nickangry
             
             NICK: "What if <i>I</i> want to be her friend?"
             
@@ -317,7 +377,7 @@
             
             NOUR: "I'm not a <i>child</i>!" // (ANGRY)
             
-            &PORTRAIT_nick_nickannoyed
+            &PORTRAIT_nick_nickangry
         
             NICK: "Neither am I!" // (ANGRY)
             
@@ -343,13 +403,17 @@
             
             &PORTRAIT_mssuwan_mssuwanangry
             
-            MS. SUWAN: "Nick, stop asking Nour questions about something she clearly does not want to talk about it."
+            MS. SUWAN: "Nick, stop asking Nour questions. She clearly does not want to talk about it."
             
             &PORTRAIT_nick_nickpleading
         
             NICK: "Come <i>onnnn</i>." // (POUTING) 
             
+            &PORTRAIT_nick_nicksad
+            
             NICK: <i>Sigh.</i>
+            
+            &PORTRAIT_nick_nickangry
         
             NICK: "Fine. <i>For now</i>."
             
@@ -358,8 +422,12 @@
             NOUR: "..." // (ANGRY)
             
             &EMOTE_SUWAN_DownIdle
+            
+            &PORTRAIT_ms. suwan_mssuwanneutral
         
             MS. SUWAN: "And Nour? We'll come back to this later."
+            
+            &PORTRAIT_ms. suwan_mssuwannervous
             
             MS. SUWAN: "Whatever happened, you're going to have to face up to it at some point."
             
@@ -381,13 +449,92 @@
             
         &PAUSE_0.5
         
-        &PORTRAIT_nour_nourshocked
+        &PORTRAIT_nour_nournervous
+        
+        NOUR: <i>What the—Rina?!</i>
         
         NOUR: <i>She's... here? Again?</i> // (SHOCKED)
         
+        &PORTRAIT_nour_nournervous
+        
+        NOUR: "There's... There's no way she could be here!"
+        
+        &PORTRAIT_nick_nickshocked
+        
+        NICK: "WOAH!!! Weren't we <i>just</i> talking about her?"
+        
+        &PORTRAIT_ms. suwan_mssuwannervous
+        
+        MS. SUWAN: "...We were. How did she get in here without us noticing?"
+        
+        &PORTRAIT_nick_nickpondering
+        
+        NICK: "I'm telling you guys. Magic!"
+        
+        &PORTRAIT_nick_nickshocked
+        
+        NICK: "Magic elevator, magic girl that Nour knows but doesn't wanna talk about, and magic mall!"
+        
+        &PORTRAIT_ms. suwan_mssuwanannoyed
+        
+        MS. SUWAN: "Enough with the magic, please."
+        
+        &PORTRAIT_nour_nournervous
+        
+        NOUR: "But she didn't come with us in the elevator. She can't be real!"
+        
+        &PORTRAIT_nour_noursad
+        
+        NOUR: "She can't be real. She can't be real..."
+        
+        &PORTRAIT_nick_nicknervous
+        
+        NICK: "...?"
+        
+        &PORTRAIT_ms. suwan_mssuwannervous
+        
+        MS. SUWAN: "...Take a deep breath, Nour."
+        
+        &PORTRAIT_nick_nicksad
+        
+        NICK: "Are you okay, Nour?"
+        
+        &PORTRAIT_nour_nournervous
+        
+        NOUR: <i>Just looking at her makes me feel sick. I feel like I'm spiraling...</i>
+        
         &PORTRAIT_nour_nourannoyed
         
+        NOUR: <i>What is this place? Why is it showing me her?</i>
+        
+        &PORTRAIT_nour_nourshadow
+        
+        NOUR: <i>I already hate the way things ended with her.</i>
+        
+        &PORTRAIT_nour_nourangry
+        
+        NOUR: <i>Do I really need a reminder? Of all the mistakes I made with her?</i>
+        
+        &PORTRAIT_nour_noursad
+        
+        NOUR: <i>...Of all the ways I could've saved our friendship?</i>
+        
+        &PORTRAIT_nick_nicknervous
+        
+        NICK: "N-Nour?"
+        
+        &PORTRAIT_ms. suwan_mssuwannervous
+        
+        MS. SUWAN: "Nour, try to calm down..."
+        
+        &PORTRAIT_nour_nourannoyed
+        
+        NOUR: "..."
+        
+        &PORTRAIT_nour_nourshadow
+        
         NOUR: <i>I better tell her to get out of our way.</i> // (ANGRY)
+        
         
          &FOLLOW_NOUR_stop
         
