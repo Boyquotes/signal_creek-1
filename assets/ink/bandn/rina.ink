@@ -446,6 +446,9 @@
             {
                 - rina_final:
                     -> rina_elevator
+                    
+                - rina_hallway && rina_topicspot && rina_bandn:
+                    -> rina_final
             }
     
         //this choice always works, and Rina tells Nour to help the people they're with now (Nick and Suwan)

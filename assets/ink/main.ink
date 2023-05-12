@@ -175,6 +175,15 @@ INCLUDE bandn/computerdesk.ink
     
     -> END
     
+== light_on_nofirst ==
+
+    An elevator ding is heard from the hallway.
+    
+    &SOUND_spookychime
+    
+    Sounds like another elevator light turned on.
+    
+    -> END
     
 == explored_everything ==
 

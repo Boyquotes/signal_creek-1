@@ -77,7 +77,7 @@ extents = Vector2( 152, 202 )
 [sub_resource type="RectangleShape2D" id=24]
 extents = Vector2( 43, 40.5 )
 
-[node name="Room" type="Node2D"]
+[node name="Room2" type="Node2D"]
 script = ExtResource( 2 )
 __meta__ = {
 "_edit_horizontal_guides_": [  ],
