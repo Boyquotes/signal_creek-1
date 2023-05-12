@@ -22,11 +22,11 @@
     
     NOUR: "These eyeshadow palettes were both a blessing and a curse."
     
-    NOUR: "My first brand of punk makeup."
+    NOUR: "The quality isn't great, but they were my first brands of alternative makeup."
     
     &PORTRAIT_nour_noursad
     
-    NOUR: "Funny, there's one here that's the exact same that I used."
+    NOUR: "Funny, there's one here that's the exact same one I used to use."
     
     NOUR: "It was discontinued ages ago." // (FROWNING)
     
@@ -36,7 +36,7 @@
     
     &PORTRAIT_nour_nourneutral
     
-    NOUR: "I mean... I used one of these palettes for four years and my skin's turned out fine."
+    NOUR: "I mean... I used one of these palettes for six years and my skin seems fine."
     
     &PORTRAIT_nour_noursad
     
@@ -44,11 +44,11 @@
     
     NOUR: "I'd put it on in the school bathroom and would take it off before I went home."
     
-    NOUR: "Kept it hidden in my car, too."
+    NOUR: "Kept it hidden in my car, too, once I got one."
     
     &PORTRAIT_nick_nicksmallsmile
     
-    NICK: "I always thought makeup was cool...: // (SMILING)
+    NICK: "I always thought makeup was cool." // (SMILING)
     
     &PORTRAIT_nick_nicksad
     
@@ -58,9 +58,9 @@
     
     NOUR: "She shouldn't have."
     
-    NOUR: "Makeup's cool for everyone, punk and goth makeup especially."
+    NOUR: "Makeup's cool for everyone, alt and goth makeup especially."
     
-    NOUR: "It's been worn by all kinds of people since like, the seventies."
+    NOUR: "Those styles have been worn by all kinds of people since, like, the seventies."
     
     &PORTRAIT_nick_nickpondering
     
@@ -70,7 +70,9 @@
     
     NOUR: "Oh, sure! I'm not very good at it, but black eyeshadow can be a little messy."
     
-    NOUR: "You can rub it on with your finger if we can't find a brush."
+    NOUR: "That's kind of how it's meant to look, sometimes."
+    
+    NOUR: "You can just rub it on with your finger if you can't find a brush."
     
     &PORTRAIT_ms. suwan_mssuwannervous
     

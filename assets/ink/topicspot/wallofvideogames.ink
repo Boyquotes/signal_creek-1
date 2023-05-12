@@ -38,7 +38,7 @@
     
     &PORTRAIT_nick_nicksad
     
-    NICK: "It doesn't matter if had won extra fancy awards or Game of the Year."
+    NICK: "It doesn't matter if they'd won extra fancy awards or Game of the Year."
     
     &PORTRAIT_nick_nickshocked
     
@@ -58,7 +58,7 @@
             
     &PORTRAIT_nick_nicksad
         
-    NICK: "Oh... yeah. I guess there's no point in looking at games we can't even play..."
+    NICK: "Oh... Yeah. I guess there's no point in looking at games we can't even play..."
     
     &PORTRAIT_nour_noursad
     
@@ -75,7 +75,7 @@
     
     &PORTRAIT_nour_nournervous
     
-    NOUR: "<i>Residential Villain</i> huh? That's a famous one, right."
+    NOUR: "<i>Residential Villain,</i> huh. That's a famous one, righ?."
     
     &PORTRAIT_ms. suwan_mssuwanpondering
     
@@ -95,7 +95,9 @@
     
         &PORTRAIT_nour_nourpondering
     
-    NOUR: <i>Right, looking at the prices on these things... sixty bucks a game? </i>
+    NOUR: <i>Right, looking at the prices on these things... sixty bucks per game? </i>
+    
+    NOUR: <i>Yikes.</i>
     
         &PORTRAIT_nour_nournervous
     
@@ -170,7 +172,9 @@
             
                 &PORTRAIT_nour_nourpondering
             
-            NOUR: "Why do we need like eleven of those, anyway?"
+            NOUR: "Why do we need like, eleven of those, anyway?"
+            
+            NOUR: "Aren't they all the same..?"
             
                 &PORTRAIT_nick_nicksmallsmile
             
@@ -178,7 +182,7 @@
             
             &PORTRAIT_nick_nickbigsmile
             
-            NICK: "And they keep making the guns and tanks feel better and better to shoot!"
+            NICK: "And they keep making all the weapons feel better to use!"
             
                 &PORTRAIT_nour_nourannoyed
             
