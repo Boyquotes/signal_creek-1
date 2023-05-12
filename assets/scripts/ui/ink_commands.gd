@@ -235,6 +235,7 @@ func parse_commands(currentLine):
 	elif "&ENDGAME" in currentLine:
 		Globals.SoundManager.smooth_decrease_music_volume()
 		Globals.GameOverlay.start_fade_out()
+		yield(get_tree().create_timer(1.5), "timeout")
 		Globals.GameState = Globals.GameStates.END
 		Globals.EndScreen.set_visible(true)
 		Globals.EndScreen.end_screen_fade_in()

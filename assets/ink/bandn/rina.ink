@@ -428,6 +428,11 @@
 
 == rina_branches ==
 
+    {
+       - rina_hallway && rina_topicspot && rina_bandn && !rina_final:
+        -> rina_final
+    }
+
     &PORTRAIT_rina_rinadeadeye
     
     RINA: "..."
@@ -447,8 +452,6 @@
                 - rina_final:
                     -> rina_elevator
                     
-                - rina_hallway && rina_topicspot && rina_bandn:
-                    -> rina_final
             }
     
         //this choice always works, and Rina tells Nour to help the people they're with now (Nick and Suwan)
@@ -1252,7 +1255,7 @@
     
         &LIGHT_Nour0
     
-        -> light_on
+        -> light_on_nofirst
 
 //---------------- HALLWAY ----------------
 //At the end of Ms. Suwan's route, Ms. Suwan is able to apologize for her past behavior and let go.
@@ -1463,18 +1466,18 @@
         
         NOUR: <i>...Looks like this wasn't the right way to handle what happened.</i>
         
-        { - !neverknowlight:
-                -> neverknowlight
+        { - !neverknowlight2:
+                -> neverknowlight2
             
             - else: 
                 -> END
         }
         
-    = neverknowlight
+    = neverknowlight2
         
         &LIGHT_Nour1
 
-        -> light_on
+        -> light_on_nofirst
 
 
 //---------------- ELEVATOR ----------------
@@ -1783,7 +1786,7 @@
         
         *   "With or without you..."
         
-        &PORTRAIT_nour_noursmile
+        -&PORTRAIT_nour_noursmile
         
         NOUR: "I'm ready to move on."
         
@@ -1906,6 +1909,10 @@
         NOUR: "Yeah. Let's go."
         
         &FOLLOW_NOUR_EndingElevatorPos
+        
+        This is the end of the Demo. Thank you for playing!
+        
+        &ENDGAME
         
         -> END
 
