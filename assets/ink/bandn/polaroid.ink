@@ -22,6 +22,8 @@
     
     MS. SUWAN: "Fine, we'll come back later then."
     
+    &FOLLOW_NOUR_stop
+    
     -> END
     
 == polaroid_first_visit ==
