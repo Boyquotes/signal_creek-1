@@ -183,6 +183,11 @@ INCLUDE bandn/computerdesk.ink
     
     Sounds like another elevator light turned on.
     
+    {
+        - rina_hallway && rina_topicspot && rina_bandn:
+            -> rina_final
+    }
+    
     -> END
     
 == explored_everything ==
