@@ -49,25 +49,28 @@
     &PORTRAIT_nour_nourangry
     
         * "We have to get out of here!"
+        
+            &PORTRAIT_nick_nickshocked
     
             NICK: "No way! Then, she's gonna—"
             
             &FOLLOW_SUWAN_NOUR
             
         * "This is what I get for listening to a stupid kid!"
-        
-            &PORTRAIT_nour_nourangry
             
-            &PORTRAIT_nick_nickangry
+            &PORTRAIT_nick_nickshocked
     
             NICK: "Hey! You listening to me is technically <i>YOUR</i> fault, not mine."
             
             NICK: "I didn't <i>FORCE</i> you to follow me in here!"
     
+            &PORTRAIT_nick_nickangry
+            
             NICK: "And I'm NOT stupid—"
             
-            
         * "Shhh! Shut up, Nick!"
+        
+            &PORTRAIT_nick_nickangry
     
             NICK: "NO, <i>YOU</i> SHUT UP!"
             
@@ -120,7 +123,7 @@
     
     MS. SUWAN: <i>"Nour?!"</i>
     
-    &PORTRAIT_nour_nourshocked
+    &PORTRAIT_nour_nournervous
     
     NOUR: "Uhh... Hi, Ms. Suwan."
     
