@@ -617,7 +617,7 @@ It's a game console that seems to be rather outdated.
     
         &PORTRAIT_nour_noursmile
     
-    NOUR: "Sounds good. Guess we should head out to the hallway and start looking."
+    NOUR: "Guess we should head out to the hallway and start looking."
     
     &EMOTE_SUWAN_DownIdle
     

@@ -55,7 +55,7 @@
     
     &PORTRAIT_ms. suwan_mssuwanannoyed
     
-    MS. SUWAN: "A floppy <i>disk</i>. I do not believe there are any here, which is very strange."
+    MS. SUWAN: "A <i>floppy disk</i>. I do not believe there are any here, which is very strange."
     
     &PORTRAIT_nick_nickshocked
     

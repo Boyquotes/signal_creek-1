@@ -54,7 +54,11 @@
     
     &PORTRAIT_nick_nickneutral
     
-    NICK: "I'm still gonna tell him. We always wondered where you went, and he deserves the truth, too!" 
+    NICK: "I'm still gonna tell him." 
+    
+    &PORTRAIT_nick_nickshocked
+    
+    NICK: "We always wondered where you went, and he deserves the truth, too!" 
     
     &PORTRAIT_nick_nickpondering 
     
@@ -64,9 +68,13 @@
     
     NOUR: "It's, uh... It's a queer book. So I didn't want anyone to see me reading it."
     
-    &PORTRAIT_nour_nourpondering
+    &PORTRAIT_nour_noursmile
 
-    NOUR: "I don't care anymore, though. Obviously, or I wouldn't be telling you all this."
+    NOUR: "I don't care anymore, though.
+    
+    &PORTRAIT_nour_nourpondering
+    
+    NOUR: "Obviously, or I wouldn't be telling you all this."
     
     &PORTRAIT_nick_nickneutral
     
