@@ -166,6 +166,8 @@
     
     <i>Rustle rustle...</i> //ALSO SFX
     
+    &PAUSE_1.0
+    
     &PORTRAIT_ms. suwan_mssuwanangry
     
     {shake: 
@@ -188,11 +190,11 @@
     
     &PORTRAIT_nour_noursad
     
-    NOUR: "I tried my best... But I couldn't do it."
+    NOUR: "I tried my best... But I think I'm out of my element here."
     
     &PORTRAIT_nour_nournervous
     
-    NOUR: "What now? I think I'm out of my element here."
+    NOUR: "What now? I probably shouldn't try again since I'm bad at it."
     
     &PORTRAIT_ms. suwan_mssuwanneutral
     
@@ -335,6 +337,16 @@
     &PORTRAIT_nick_nicksmallsmile
     
     NICK: "..."
+    
+    &PORTRAIT_ms. suwan_mssuwanannoyed
+    
+    MS. SUWAN: "Taking pleasure in seeing the adults get scolded for once, Nick?"
+    
+    &PORTRAIT_nick_nickbigsmile
+    
+    NICK: "..."
+    
+    Nick shrugs, but clearly he's enjoying himself.
     
     &PORTRAIT_grand duchess granny_grannyneutral
     

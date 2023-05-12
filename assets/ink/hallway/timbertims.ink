@@ -147,6 +147,8 @@
     
     NOUR: "...I don't exactly have time for new shoes right now."
     
+    &PORTRAIT_nour_nournervous
+    
     NOUR: "I just need to know how to leave."
     
     &PORTRAIT_tim_timneutral
@@ -165,7 +167,7 @@
     
     &PORTRAIT_nour_nourpondering
     
-    NOUR: "Um... okay, I'm happy for you, but that doesn't help us at all."
+    NOUR: "Um... okay? I'm happy for you, but that doesn't help us at all."
     
     &PORTRAIT_tim_timneutral
     

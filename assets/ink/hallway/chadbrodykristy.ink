@@ -625,11 +625,11 @@ Three people stand idly. They look almost <i>too</i> still.
     
     Ms. Suwan shows them the album in her hands. Chad, Brody, and Kristy stare...
     
-    ...And then smile sadly at her.
-    
     &PAUSE_1.0
 
-    &MUSIC_ApleQuestEmoMusic
+    &MUSIC_HallwayEmo
+    
+    ...And then smile sadly at her.
     
     &PORTRAIT_chad_chadsad
     

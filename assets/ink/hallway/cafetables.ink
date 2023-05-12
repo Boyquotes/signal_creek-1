@@ -211,6 +211,30 @@
 
 == cafetables2_5 ==
 
+    &PORTRAIT_ms. suwan_mssuwannervous
+    
+    MS. SUWAN: "..."
+
+    &PORTRAIT_nour_noursad
+    
+    NOUR: <i>Ms. Suwan's been avoiding her past and reflecting on it the moment we got here.</i>
+    
+    &PORTRAIT_nour_nourneutral
+    
+    NOUR: <i>But back at the beauty booth, she seemed to have a change of heart.</i>
+    
+    &PORTRAIT_nour_noursmile
+    
+    NOUR: <i>Especially thanks to Nick.</i>
+    
+    &PORTRAIT_nour_nournervous
+    
+    NOUR: <i>Now, she might still resist talking about everything that happened...</i>
+    
+    &PORTRAIT_nour_nourneutral
+    
+    NOUR: <i>But I think she's more ready to open up to us.</i>
+
     &PORTRAIT_nour_nournervous
 
     NOUR: "Did you come here with them? Those three from before?" 
@@ -309,7 +333,7 @@
         
         &PORTRAIT_nour_nourangry
         
-        NOUR: "Having a conversation about what happened could actually help us get out of here!"
+        NOUR: "Talking about what happened could actually help us get out of here!"
         
         &PORTRAIT_ms. suwan_mssuwanannoyed
         
@@ -333,7 +357,7 @@
         
         &PORTRAIT_ms. suwan_mssuwanfurious
         
-        MS. SUWAN: "I don't need the opinions of someone who just watched me go through a humiliating ordeal."
+        MS. SUWAN: "I don't need the opinions of an <i>outsider.</i>"
         
         &PORTRAIT_ms. suwan_mssuwanshadow
         

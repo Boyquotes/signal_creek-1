@@ -339,7 +339,7 @@
     
     &PORTRAIT_duke delicious_dukedelicioussmile
     
-    DUKE DELICIOUS: "I hope that you may continue in my stead and bear the fruits of success, HAR HAR!"
+    DUKE DELICIOUS: "But you all must continue in my stead! Bear the fruits of success, HAR HAR!"
     
     &PORTRAIT_duke delicious_dukedeliciouspreach
     

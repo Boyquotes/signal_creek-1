@@ -35,13 +35,25 @@
     
     &PORTRAIT_ms. suwan_mssuwanpondering
     
-    MS. SUWAN: "Femininity is so strange when it's commodified and sold to us in this... particular form."
+    MS. SUWAN: "Femininity is strange when it's commodified and sold to us in this..."
+    
+    &PORTRAIT_ms. suwan_mssuwannervous
+    
+    MS. SUWAN: "Particular form."
+    
+    &PORTRAIT_nour_nourneutral
+    
+    NOUR: "I agree."
     
     &PORTRAIT_nour_nourpondering
     
-    NOUR: "I agree. I used to think it's all part of a lace-covered box that society pushes women into."
+    NOUR: "I used to think femininity was a lace-covered box that society pushed women into."
+    
+    &PORTRAIT_nour_nourrealization
     
     NOUR: "But I realized it can make a lot of people feel really powerful."
+    
+    &PORTRAIT_nour_nournervous
     
     NOUR: "That shouldn't be forgotten, y'know?"
     
@@ -53,11 +65,15 @@
     
     MS. SUWAN: "All very well and fair."
     
+    &PORTRAIT_ms. suwan_mssuwanneutral
+    
     MS. SUWAN: "I leaned into femininity very strongly when I was younger..."
+    
+    &PORTRAIT_ms. suwan_mssuwansad
     
     MS. SUWAN: "To put it plainly, it was the safest way for me to exist as a woman."
     
-    &PORTRAIT_ms. suwan_mssuwansad
+    &PORTRAIT_ms. suwan_mssuwannervous
     
     MS. SUWAN: "At least, that's how I felt at the time."
     
