@@ -910,4 +910,4 @@ Three people stand idly. They look almost <i>too</i> still.
     &FOLLOW_SUWAN_NICK
     &FOLLOW_NICK_NOUR
     
-        -> light_on
+    -> rina_hallway

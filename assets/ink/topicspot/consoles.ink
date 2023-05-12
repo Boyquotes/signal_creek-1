@@ -1411,7 +1411,7 @@ It's a game console that seems to be rather outdated.
     
     &LIGHT_Nick2
 
-    -> light_on
+    -> rina_topicspot
 
 === consoles_afternickroute ===
 
