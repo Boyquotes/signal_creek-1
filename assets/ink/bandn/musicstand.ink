@@ -96,11 +96,11 @@
     
     &PORTRAIT_ms. suwan_mssuwannervous
     
-    MS. SUWAN: "Well... used to."
+    MS. SUWAN: "Well... Used to."
     
-    &PORTRAIT_nour_nourrealization
+    &PORTRAIT_nour_nournervous
     
-    NOUR: "Oh... that's, wow!"
+    NOUR: "Oh... That's, wow!"
     
     &PORTRAIT_ms. suwan_mssuwanangry
     
@@ -118,7 +118,7 @@
         
             &PORTRAIT_nour_nourpondering
             
-            NOUR: "You don't really seem like the type - no offense." 
+            NOUR: "You don't really seem like the type... No offense." 
             
             &PORTRAIT_ms. suwan_mssuwansad
             
@@ -139,8 +139,6 @@
         * "It's nothing. I wasn't going to say anything—"
             
             &PORTRAIT_ms. suwan_mssuwanneutral
-        
-            &PORTRAIT_ms. suwan_mssuwanannoyed
         
             MS. SUWAN: "You were going to say that I don't seem like the type, right?"
             
@@ -182,8 +180,6 @@
             
             MS. SUWAN: "I'm fine. Paradise just reminds me of hard times. That's all."
             
-            &PORTRAIT_ms. suwan_mssuwansad
-            
             &PORTRAIT_nick_nicksmallsmile
             
             NICK: "Kind of ironic, given the name." // (HAPPY)
@@ -210,7 +206,7 @@
             
             &PORTRAIT_nour_nourpondering
             
-            NOUR: "Yeah... we didn't go into it that much, though."
+            NOUR: "Yeah... We didn't go into it that much, though."
             
             &PORTRAIT_nour_noursmile
             
@@ -289,6 +285,8 @@
     &PORTRAIT_ms. suwan_mssuwanannoyed
     
     MS. SUWAN: "I don't think that would be a good use of our time."
+    
+    &PORTRAIT_nour_noursmile
     
         * "Do you mind if I play this album? I'd like to listen to it."
             
@@ -384,7 +382,7 @@
     
     MS. SUWAN: "..."
     
-    &PORTRAIT_nour_nourrealization
+    &PORTRAIT_nour_nournervous
     
     NOUR: <i>She seems... relaxed, listening to the music.</i>
     
@@ -436,13 +434,13 @@
     
     MS. SUWAN: "...You really want to know?"
     
-    &PORTRAIT_ms. suwan_mssuwanfurious
+    &PORTRAIT_ms. suwan_mssuwanangry
     
     MS. SUWAN: "Fine. I'll tell you."
     
     &PORTRAIT_nick_nicknervous
     
-    NICK: "Oh... uh..."
+    NICK: "Oh... Uh..."
     
     &PORTRAIT_nour_nournervous
     
@@ -450,11 +448,11 @@
     
     NOUR: "Um, go ahead..."
     
-    &PORTRAIT_ms. suwan_mssuwanangry
+    &PORTRAIT_ms. suwan_mssuwansad
 
     MS. SUWAN: "Listening to music doubled the time it took me to complete my assignments."
     
-    &PORTRAIT_ms. suwan_mssuwansad
+    &PORTRAIT_ms. suwan_mssuwanangry
     
     MS. SUWAN: "I struggled to catch up to my friends because I was still learning English at the time."
     
@@ -542,7 +540,7 @@
             
             &PAUSE_1.0
             
-            &PORTRAIT_ms. suwan_mssuwansad
+            &PORTRAIT_ms. suwan_mssuwanangry
 
             MS. SUWAN: "Finally."
             
@@ -578,15 +576,13 @@
         
             &PORTRAIT_ms. suwan_mssuwanangry
             
-            &PORTRAIT_ms. suwan_mssuwanannoyed
-            
             MS. SUWAN: "...Nour. Did you hear what I just said?" // (ANGRY)
             
             &PORTRAIT_nour_nourannoyed
             
                 ** "Yeah, and I'm choosing to ignore you!" // (ANGRY)
                     
-                    &PORTRAIT_ms. suwan_mssuwanrealization
+                    &PORTRAIT_ms. suwan_mssuwanshadow
                     
                     MS. SUWAN: "..." // (SHOCKED)
                     
@@ -643,7 +639,7 @@
     
     &EMOTE_NICK_RightIdle
     
-    &PORTRAIT_ms. suwan_mssuwanrealization
+    &PORTRAIT_ms. suwan_mssuwanshadow
     
     MS. SUWAN: "..." // (SHOCKED)
     
@@ -687,7 +683,7 @@
     
     NOUR: "Did you though?"
     
-    &PORTRAIT_ms. suwan_mssuwanfurious
+    &PORTRAIT_ms. suwan_mssuwanangry
     
     MS. SUWAN: "Did I <i>what</i>?"
     
@@ -695,9 +691,9 @@
     
     NOUR: "Did you forget about it? Did you move on?"
     
-    &PORTRAIT_ms. suwan_mssuwanangry
+    &PORTRAIT_ms. suwan_mssuwanfurious
     
-    MS. SUWAN: "How dare you!"
+    MS. SUWAN: "How <i>dare</i> you!"
     
     &PORTRAIT_ms. suwan_mssuwanrealization
     
@@ -773,16 +769,26 @@
 
 //figure out how to implement intervals for when other items are not collected
 == musicstand1_repeat ==
+
+    &PORTRAIT_nour_nourneutral
     
     NOUR: <i>It'd be nice for Ms. Suwan to get back into her old hobby.</i>
     
+    &PORTRAIT_nour_noursad
+    
     NOUR: <i>But I don't think she's quite ready yet.</i>
+    
+    &PORTRAIT_nour_nourneutral
     
     NOUR: <i>I can come back to this later.</i>
     
+    &PORTRAIT_nour_nourpondering
+    
     NOUR: <i>For now, we should go to Chad, Brody, and Kristy...</i>
     
-    NOUR: <i>before she changes her mind about talking to them.</i>
+    &PORTRAIT_nour_nournervous
+    
+    NOUR: <i>Before she changes her mind about talking to them.</i>
     
     -> END
 
@@ -792,13 +798,13 @@
 
     MS. SUWAN: "..."
     
-    &PORTRAIT_ms. suwan_mssuwanfurious
+    &PORTRAIT_ms. suwan_mssuwanannoyed
     
     MS. SUWAN: "Why are we here again?" // (ANGRY)
     
     &PORTRAIT_nour_nournervous
     
-    NOUR: "You know, I used to listen to Paradise with my ex-friend, too."
+    NOUR: "You know, I used to listen to <i>Paradise</i> with my ex-friend, too."
     
     &PORTRAIT_nour_noursad
     
@@ -864,13 +870,9 @@
     
     NOUR: "But that doesn't mean you should avoid it entirely."
     
-    &PORTRAIT_nour_nourrealization
+    &PORTRAIT_nour_nournervous
     
-    NOUR: "Plus, you have the opportunity to do that anyway."
-    
-    &PORTRAIT_nour_noursmile
-    
-    NOUR: "Thanks to this weird mall."
+    NOUR: "Plus, you have the opportunity to do that anyway, thanks to this weird mall."
     
     &PORTRAIT_nour_nourpondering
     
@@ -898,7 +900,7 @@
     
     &PORTRAIT_ms. suwan_mssuwannervous
     
-    MS. SUWAN: "... I'd rather not take something without paying for it."
+    MS. SUWAN: "...I'd rather not take something without paying for it."
     
     &PORTRAIT_nour_nournervous
     
@@ -914,7 +916,7 @@
     
     &PORTRAIT_ms. suwan_mssuwansad
     
-    MS. SUWAN: "... Alright."
+    MS. SUWAN: "...Alright."
     
     &PORTRAIT_ms. suwan_mssuwannervous
     
@@ -963,6 +965,8 @@
 
 == musicstand2_repeat ==
 
+    &PORTRAIT_nour_nourneutral
+
     NOUR: <i>Ms. Suwan's ready to apologize to Chad, Brody and Kristy. We should go to them now.</i>
     
     -> END
@@ -975,7 +979,7 @@
     
     &PORTRAIT_ms. suwan_mssuwansad
     
-    MS. SUWAN: "It was. Nothing like the digital recordings. 
+    MS. SUWAN: "It was. Nothing like the digital recordings."
     
     &PORTRAIT_ms. suwan_mssuwannervous
     
@@ -984,9 +988,16 @@
     &PORTRAIT_ms. suwan_mssuwansad
     
     MS. SUWAN: "I should've gone to more concerts when I had the chance." // (SAD)
+    
+    &PORTRAIT_nour_nourneutral
+    
         * "It's not too late."
         
+            &PORTRAIT_nour_nourrealization
+        
             NOUR: "If you discover newer rock bands you like, you could go to their concerts."
+            
+            &PORTRAIT_nour_nourpondering
             
             NOUR: "And older bands do reunion concerts, too." 
             
@@ -999,10 +1010,13 @@
             &PORTRAIT_nour_noursmile
         
             NOUR: Nothing like having some vinyls to really get into the music."
+            &PORTRAIT_nour_nourrealization
             
             NOUR: "I bet you could even find live recordings, too."
 
-    - MS. SUWAN: "I'll keep that in mind."
+    - &PORTRAIT_ms. suwan_mssuwanpondering
+    
+    MS. SUWAN: "I'll keep that in mind."
     
     &PORTRAIT_ms. suwan_mssuwansmile
     

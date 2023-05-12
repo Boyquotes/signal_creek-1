@@ -14,7 +14,7 @@
     
     &PORTRAIT_nick_nickbigsmile
     
-    NICK: "<i>So Eggs-citing...</i> Pfft! A pun!"
+    NICK: "<i>'So Eggs-citing...'</i> Pfft! A pun!"
     
     &PORTRAIT_nick_nickpondering
     
@@ -54,11 +54,11 @@
     
     &PORTRAIT_nick_nickpondering
     
-    NICK: "That's the type of shirt that my friends like. Maybe my Mom could..."
+    NICK: "That's the type of shirt that my friends like. Maybe my mom could..."
     
     &PORTRAIT_nour_nourneutral
     
-    NOUR: "Wait, so you'd be willing to talk to your Mom about the shirt your <i>friends</i> like..."
+    NOUR: "Wait, so you'd be willing to talk to your mom about the shirt your <i>friends</i> like..."
     
     &PORTRAIT_nour_nourpondering
     
@@ -66,7 +66,7 @@
     
     &PORTRAIT_nick_nickpondering
     
-    NICK: "Well, the wolf design is like... sick, or something."
+    NICK: "I mean, the wolf design is like... sick, or something."
     
     &PORTRAIT_ms. suwan_mssuwannervous
     
@@ -74,11 +74,11 @@
     
     &PORTRAIT_nick_nickangry
     
-    NICK: "Ugh... fine. I guess I liked the other one better."
+    NICK: "Ugh... Fine. I guess I liked the other one better."
     
     &PORTRAIT_nick_nicknervous
 
-    NICK: "But my friends make a big deal about what's cool and not cool."
+    NICK: "Just... My friends make a big deal about what's cool and not cool."
     
     &PORTRAIT_nick_nicksad
     
@@ -86,7 +86,7 @@
     
     &PORTRAIT_ms. suwan_mssuwanrealization
     
-    MS. SUWAN: "You'll feel much better if you let yourself enjoy things."
+    MS. SUWAN: "You'll feel much better if you let yourself enjoy the things you enjoy."
     
     MS. SUWAN: "You shouldn't care so much what other people think about you." 
     
@@ -107,16 +107,17 @@
     &PORTRAIT_nour_nourneutral
     
     NOUR: "Yeah. If you feel like you have to hide things about yourself from your friends..."
+    
     &PORTRAIT_nour_noursad
     
     NOUR: "That's not friendship."
     
     &PORTRAIT_nick_nickpondering
     
-    NICK: "I'll think about that."
+    NICK: "I'll... think about that."
     
     &PORTRAIT_nick_nickneutral
     
-    NICK: "... Maybe when I get outta here, I'll ask my Mom for a bird shirt after all."
+    NICK: "...Maybe when I get outta here, I'll ask my mom for a bird shirt after all."
     
     -> END

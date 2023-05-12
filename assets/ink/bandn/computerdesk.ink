@@ -15,11 +15,15 @@
     
     NOUR: "Here's a computer, but uh-"
     
+    &PORTRAIT_ms. suwan_mssuwanangry
+    
     MS. SUWAN: "I expected something more... <i>operable</i>."
     
-    &PORTRAIT_nick_nickworried
+    &PORTRAIT_nick_nicknervous
     
     NICK: "Does it even, like, <i>do stuff</i>?"
+    
+    &PORTRAIT_nour_nournervous
     
     NOUR: "There's no operating system loaded on it. Looks like it's missing a floppy disk."
     
@@ -31,9 +35,13 @@
     
     NOUR: "A small card you had to put into old computers to get them to work."
     
-    NOUR: "It's like a CD, before those were used."
+    NOUR: "It's like a CD before those were used."
+    
+    &PORTRAIT_ms. suwan_mssuwanrealization
     
     MS. SUWAN: "I didn't think people your age knew about floppy disks."
+    
+    &PORTRAIT_nour_noursmile
     
     NOUR: "My family was into old tech. <i>Really</i> old tech."
     
@@ -43,7 +51,7 @@
     
     &PORTRAIT_nick_nickworried
     
-    NICK: "Where do we get a <i>'floppy dip'</i>?"
+    NICK: "Where do we get a <i>'flippy dip'</i>?"
     
     &PORTRAIT_ms. suwan_mssuwanannoyed
     
@@ -61,5 +69,6 @@
 ==computerdesk_repeat==
 
     &PORTRAIT_nour_nourannoyed
-    NOUR: <i> Stupid computer doesn't work. I should find another way to get out of here. </i>
+    
+    NOUR: <i>The computer doesn't work. I should find another way to get out of here.</i>
     -> END

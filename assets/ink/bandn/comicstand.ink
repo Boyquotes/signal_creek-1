@@ -21,11 +21,11 @@
     
     &PORTRAIT_nour_nourpondering
     
-    NOUR: "<i>Blood Titan Online</i>? Wasn't that super famous a couple years ago?"
+    NOUR: "Wasn't that series super famous a couple years ago?"
     
     &PORTRAIT_nick_nickbigsmile
     
-    NICK: "Yeah! I've been looking for this series ever since I watched the anime!" 
+    NICK: "Yeah! I've been looking for the manga ever since I watched the anime!" 
     
     &PORTRAIT_nick_nickpondering
     
@@ -41,7 +41,7 @@
     
     &PORTRAIT_nour_noursmile
     
-    NOUR: "A legal memo probably has more words in it than that entire series."
+    NOUR: "Especially since a legal memo probably has more words in it than the entire series."
     
     &PORTRAIT_ms. suwan_mssuwanpondering
     
@@ -63,9 +63,9 @@
     
     NICK: "To escape back to reality, they have to defeat the Blood Titan."
     
-    &PORTRAIT_nick_nickbigsmile
+    &PORTRAIT_nick_nicksmallsmile
     
-    NICK: "But first they have to find who the Blood Titan is... and it's, like, a total plot twist!"
+    NICK: "But first they have to find who the Blood Titan is... and it's a total plot twist!"
     
     &PORTRAIT_nick_nickbigsmile
     
@@ -105,7 +105,7 @@
     
     &PORTRAIT_nick_nicksmallsmile
     
-    NICK: "This would be the closest thing to a Book Club I'd <i>actually</i> consider going to!" 
+    NICK: "That'd be a Book Club I'd <i>actually</i> consider going to!" 
     
     &PORTRAIT_ms. suwan_mssuwanpondering
     

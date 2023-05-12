@@ -12,7 +12,7 @@
 
 == emberpointposter == 
 
-    A poster from the video game Ember Point 
+    A poster from the video game 'Ember Point'.
     
     &PORTRAIT_nour_noursmile
     
@@ -24,19 +24,23 @@
     
     &PORTRAIT_nick_nickbigsmile
     
-    NICK: "Cause I knew right away, I'm just that good."
+    NICK: "'Cause I knew right away. Got those gamer instincts, y'know?"
     
     &PORTRAIT_nour_nourpondering
     
-    NOUR: "Yeah...sure."
+    NOUR: "Yeah... Sure."
+    
+    &PORTRAIT_nick_nickshocked
+    
+    NICK: "It's true!"
     
     &PORTRAIT_nick_nickangry
     
-    NICK: "IT'S TRUE, I KNEW IT THE SECOND THEY GOT OFF THE SPACESHIP!"
+    NICK: "I KNEW IT THE SECOND THEY GOT OFF THE SPACESHIP!"
     
     &PORTRAIT_nour_noursmile
     
-    NOUR: "I'm just teasing, I bet you did."
+    NOUR: "I'm just teasing. I bet you did."
     
     &PORTRAIT_nick_nicksmallsmile
     
@@ -156,7 +160,7 @@
     
     &PORTRAIT_nour_nourannoyed
     
-    NOUR: <i>... This is giving me a headache.</i>
+    NOUR: <i>...This is giving me a headache.</i>
     
     NOUR: <i>Since when did B&N sell this stuff, anyway?</i>
     
@@ -188,7 +192,7 @@
     
 == volitioncomputer ==
 
-    The flesh and wire are one within the Motherboard. 
+    The flesh and wire melt into the Motherboard. 
     
     &PORTRAIT_nour_nournervous
 
@@ -206,7 +210,7 @@
     
     &PORTRAIT_nour_nourpondering
 
-    NOUR: <i>... That is, bestsellers from well over a decade ago.</i>
+    NOUR: <i>...That is, bestsellers from well over a decade ago.</i>
     
     -> END
 
@@ -216,6 +220,6 @@
     
     &PORTRAIT_nour_nourpondering
     
-    NOUR: <i>... I'll try not to judge them by their covers.</i>
+    NOUR: <i>...I'll try not to judge them by their covers.</i>
     
     -> END

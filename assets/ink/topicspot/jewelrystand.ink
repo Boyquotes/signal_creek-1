@@ -1,6 +1,6 @@
 == jewelrystand ==
 
-    It's a display rack for jewelry. The edgy accessories give everyone nostalgic feelings.
+    It's a display rack for jewelry. The edgy accessories make everyone feel nostalgic.
     {
         - !jewelrystandconvo:
             -> jewelrystandconvo
@@ -31,6 +31,7 @@
     &PORTRAIT_nour_noursmile
     
     NOUR: "I would have <i>loved</i> to be able to wear this kind of thing in high school."
+    
     &PORTRAIT_mssuwan_mssuwansmile
     
     MS. SUWAN: "..." 
@@ -53,7 +54,7 @@
     
     &PORTRAIT_nick_nickshocked
     
-    NICK: "Hah, I can't imagine what you were like that once!"
+    NICK: "Haha, I can't imagine that <i>you</i> were like that once!"
 
     &PORTRAIT_nick_nickpondering
     
