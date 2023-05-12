@@ -114,7 +114,7 @@
     
     &PORTRAIT_ms. suwan_mssuwanpondering
     
-    MS. SUWAN: "... Wait."
+    MS. SUWAN: "...Wait."
     
     &PORTRAIT_ms. suwan_mssuwannervous
     
@@ -153,7 +153,7 @@
     
     &PORTRAIT_nick_nicknervous
     
-    NICK: "OH GOD— I'm so sorry! Please don't tell my Mom!"
+    NICK: "OH GOD—I'm so sorry! Please don't tell my Mom!"
     
     &PORTRAIT_ms. suwan_mssuwanneutral
     
@@ -171,11 +171,11 @@
     
     &PORTRAIT_nour_nourannoyed
     
-    NOUR: "I-I, it— Look, it's none of your business, okay!"
+    NOUR: "I-I, it—Look, it's none of your business, okay!"
     
     &PORTRAIT_nour_nournervous
 
-    NOUR: "I <i>told</i> you— if I came, it would just be to take some photos for my project!"
+    NOUR: "I <i>told</i> you—if I came, it would just be to take some photos for my project!"
     
     &PORTRAIT_nour_noursad
     
@@ -193,7 +193,7 @@
     
     &PORTRAIT_ms. suwan_mssuwanangry
     
-    MS. SUWAN: "... I will have to report <i>both</i> of you to law enforcement."
+    MS. SUWAN: "...I will have to report <i>both</i> of you to law enforcement."
     
     &EMOTE_NICK_ButtonPress
     
