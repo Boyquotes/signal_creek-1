@@ -53,7 +53,7 @@
     
     After an exchange of encouraging words, the Prince left the store.
     
-    Perhaps, the Aple Prince left Earth...
+    Perhaps, the Apple Prince left Earth...
     
     -> END
 
@@ -109,7 +109,7 @@
     
     &PORTRAIT_prince pendragon_princependragonneutral
     
-    PRINCE PENDRAGON: "I am the fallen prince... <i>Prince Pendragon</i>."
+    PRINCE PENDRAGON: "I am the fallen Prince... <i>Prince Pendragon</i>."
     
     &PORTRAIT_nour_nourpondering
     
@@ -227,7 +227,7 @@
     
     &PORTRAIT_prince pendragon_princependragontears
     
-    PRINCE PENDRAGON: "I am simply unfit to be a prince."
+    PRINCE PENDRAGON: "I am simply unfit to be a Prince."
     
     &PORTRAIT_nick_nicknervous
     
@@ -475,7 +475,7 @@
     
     &SOUND_princependragonlaugh
     
-    PRINCE PENDRAGON: "HOO HOO! I can feel the juices FLOWING... !"
+    PRINCE PENDRAGON: "HOO HOO! I can feel the juices FLOWING...!"
     
     &PORTRAIT_prince pendragon_princependragonneutral
     
@@ -483,7 +483,7 @@
     
     &PORTRAIT_prince pendragon_princependragonbashful
     
-    PRINCE PENDRAGON: "...but it will be different this time."
+    PRINCE PENDRAGON: "...But it will be different this time."
     
     &PORTRAIT_prince pendragon_princependragonneutral
     

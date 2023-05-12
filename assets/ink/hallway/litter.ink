@@ -28,7 +28,7 @@
     
     MS. SUWAN: "<i>Nick</i>."
     
-    NOUR: "You're not gonna play basketball with <i>trash</i>, are you...?"
+    NOUR: "You're not gonna play basketball with <i>trash</i>, are you?"
     
     &PORTRAIT_nick_nickworried
     
@@ -36,6 +36,6 @@
     
     &PORTRAIT_nick_nickshadow
     
-    Nick grumbles something under his breath and stops.
+    Nick mumbles something under his breath and stops.
 
     -> END

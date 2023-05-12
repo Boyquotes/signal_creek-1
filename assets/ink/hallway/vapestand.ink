@@ -34,7 +34,7 @@
         
         &PORTRAIT_nick_nickangry
     
-        NICK: "... Dang it."
+        NICK: "...Dang it."
     
         &PORTRAIT_nick_nicksad
         
@@ -66,7 +66,7 @@
         
         &PORTRAIT_nick_nickshocked
         
-        NICK: "... Wait, really?"
+        NICK: "...Wait, really?"
         
         &PORTRAIT_nick_nicknervous
         
@@ -78,7 +78,7 @@
         
         &PORTRAIT_nick_nickangry
     
-    - NICK: "... Fine, whatever. I don't need this crap."
+    - NICK: "...Fine, whatever. I don't need this crap."
     
     -> END
     

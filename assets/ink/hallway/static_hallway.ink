@@ -50,7 +50,7 @@
                 
                     &PORTRAIT_ms. suwan_mssuwansad
                 
-                MS. SUWAN: "... But I also have my personal reasoning."
+                MS. SUWAN: "...But I also have my personal reasoning."
             
             &EMOTE_SUWAN_StepBack
             &PAUSE_0.5
@@ -82,7 +82,7 @@
         
             &PORTRAIT_ms. suwan_mssuwanneutral
         
-        MS. SUWAN: "I will say this: I agree with you."
+        MS. SUWAN: "I will say this/: I agree with you."
         
         &PORTRAIT_ms. suwan_mssuwanpondering
         
@@ -101,18 +101,13 @@
         &FOLLOW_NOUR_stop
         
         -> END
-        
-        
-// == beautystand ==
-
-//     It's an Aple Beauty makeover booth.
-    
-//     -> END
     
 
 == directionsign ==
 
     It's a mall directory with a map of the current floor.
+    
+    Ms. Suwan also has a copy that we can look at.
     
     -> END
     
@@ -156,7 +151,9 @@
     
 == cafesign ==
 
-It's a neatly handwritten sign for the Louis George Cafe. But all of the drink's prices have been rubbed off...
+    It's a neatly handwritten sign for the Louis George Cafe.
+    
+    All of the drink's prices have been rubbed off...
 
 
     -> END
@@ -165,7 +162,7 @@ It's a neatly handwritten sign for the Louis George Cafe. But all of the drink's
 
     NOUR: "...What's this apple doing on the floor?"
     
-    EARL EARLIGOLD: "As an apple, you are... Okay."
+    EARL EARLIGOLD: "As an apple, you are... Average."
     
     &PORTRAIT_nour_nourshocked
     
@@ -182,8 +179,3 @@ It's a neatly handwritten sign for the Louis George Cafe. But all of the drink's
     NICK: "...Thanks!"
     
     -> END
-// == wertoys == 
-
-//     It's the old toy store, We r Toys.
-    
-//     -> END

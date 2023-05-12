@@ -92,7 +92,7 @@
 
     &PORTRAIT_nour_noursmile
     
-    NOUR: "... You know what I'm thinking?"
+    NOUR: "...You know what I'm thinking?"
     
     &PAUSE_0.05
     
@@ -186,7 +186,7 @@
     
     &PORTRAIT_nour_noursad
     
-    NOUR: "I tried my best... but I couldn't do it."
+    NOUR: "I tried my best... But I couldn't do it."
     
     &PORTRAIT_nour_nournervous
     
@@ -328,7 +328,7 @@
     
     &PORTRAIT_ms. suwan_mssuwanrealization
     
-    MS. SUWAN: "... Indeed. She isn't wrong."
+    MS. SUWAN: "...Indeed. She isn't wrong."
     
     &PORTRAIT_nick_nicksmallsmile
     
@@ -390,7 +390,7 @@
     
     GRAND DUCHESS GRANNY: "I pray that your time spent Between the Planes..."
     
-    GRAND DUCHESS GRANNY: "... will unravel your haunted past."
+    GRAND DUCHESS GRANNY: "...will unravel your haunted past."
     
     &PORTRAIT_grand duchess granny_grannysmile
     
@@ -412,7 +412,7 @@
     
     &PORTRAIT_nour_nourneutral
     
-    NOUR: "... We've been sent by the Emperor to retrieve the Prince's search council."
+    NOUR: "...We've been sent by the Emperor to retrieve the Prince's search council."
     
     &PORTRAIT_grand duchess granny_grannyneutral
     
@@ -446,7 +446,7 @@
     
     &PORTRAIT_grand duchess granny_grannykiss
     
-    GRAND DUCHESS GRANNY: "... And don't forget a kiss from Granny, too! KEKEKE!"
+    GRAND DUCHESS GRANNY: "...And don't forget a kiss from Granny, too! KEKEKE!"
     
     &PORTRAIT_grand duchess granny_grannykiss
     

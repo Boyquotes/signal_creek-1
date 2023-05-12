@@ -60,18 +60,20 @@ INCLUDE bandn/computerdesk.ink
     Hello. This is an Abstract Object. Thank you for coming.
 
     -> END
-    
+
+
 == missing_path ==
 
     This object's name does not match any path in the master ink. Please disable the object's ActiveArea or create a knot with the object's name.
     
     -> END
-    
+
+
 == first_light ==
 
     &PORTRAIT_nour_nourpondering
 
-    NOUR: "... What was that noise?"
+    NOUR: "...What was that noise?"
     
     &PORTRAIT_ms. suwan_mssuwanpondering
     
@@ -145,7 +147,7 @@ INCLUDE bandn/computerdesk.ink
     
     &PORTRAIT_nour_noursad
     
-    NOUR: <i>... and it's up to us to move on.</i>
+    NOUR: <i>...and it's up to us to move on.</i>
     
     &PORTRAIT_nour_nourrealization
     
@@ -156,7 +158,8 @@ INCLUDE bandn/computerdesk.ink
     NOUR: "We should keep an eye on this elevator and the lights as we keep exploring."
     
     -> END
-    
+
+
 == light_on ==
 
     An elevator ding is heard from the hallway.
@@ -173,7 +176,7 @@ INCLUDE bandn/computerdesk.ink
     -> END
     
     
-== explored_everything
+== explored_everything ==
 
     &PORTRAIT_nour_nourneutral
 

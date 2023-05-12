@@ -255,7 +255,7 @@
     
     &PORTRAIT_nick_nicknervous
     
-    NICK: "Ms. Suwan..?"
+    NICK: "Ms. Suwan...?"
     
     &PORTRAIT_ms. suwan_mssuwanshadow
 
@@ -307,7 +307,7 @@
         
         &PORTRAIT_nour_nourannoyed
         
-        NOUR: "You clearly did <i>something</i> — you're just not telling us the whole story."
+        NOUR: "You clearly did <i>something</i>. You're just not telling us the whole story."
         
         &PORTRAIT_nour_noursad
         
@@ -467,7 +467,7 @@
         
         &PORTRAIT_ms. suwan_mssuwanpondering
         
-        MS. SUWAN: "175 on my LSAT, a stacked resume, and a promising career."
+        MS. SUWAN: "One-seventy-five on my LSAT, a stacked resume, and a promising career."
         
         &PORTRAIT_nour_nournervous
         
@@ -511,7 +511,7 @@
         
         &PORTRAIT_ms. suwan_mssuwannervous
         
-        MS. SUWAN: "I... I don't. I just go to sleep to wake up early the next day."
+        MS. SUWAN: "I... I don't do anything. I just go to sleep early, and wake up early the next day."
         
         &PORTRAIT_ms. suwan_mssuwansad
         
@@ -543,7 +543,7 @@
         
         &PORTRAIT_nour_noursad
         
-        NOUR: <i>Seems like she was shaken up by Nick asking what she did for fun....</i>
+        NOUR: <i>Seems like she was shaken up by Nick asking what she did for fun...</i>
         
         &PORTRAIT_nour_nournervous
         
@@ -551,7 +551,7 @@
         
         &PORTRAIT_nour_noursad
         
-        NOUR: <i>They still could.</i>
+        NOUR: <i>They could still make her happy.</i>
         
         &PORTRAIT_nour_nourpondering
         
@@ -568,7 +568,8 @@
         &PORTRAIT_nour_noursmile
         
         NOUR: <i>...Because I think she's ready to hear it again.</i>
-            -> END
+            
+        -> END
     
     * "So... Do you like going to cafes?"
     
@@ -610,9 +611,7 @@
             
         -> cafetables_getsuwantotalk
     
-    // + [I have nothing to say] I'll try to get her to talk later.
-        
-    //     -> END
+
 == cafetables2_5_repeat ==
 
     &PORTRAIT_nour_nourneutral
@@ -633,14 +632,15 @@
     
     -> END
 
+
 == cafetables3_5 ==
-    // MS. SUWAN: "Let's not stop here. I'm ready to talk to the three of them."
-    
+
     &PORTRAIT_nour_nourneutral
     
     NOUR: <i>I should go find Chad, Kristy, and Brody.</i>
        
-        -> END
+    -> END
+
 
 == cafetables3 ==
 

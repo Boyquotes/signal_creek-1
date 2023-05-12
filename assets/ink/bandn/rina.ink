@@ -1487,6 +1487,10 @@
     
     The elevator engine is whirring back to life.
     
+    There's a new energy in Rina's eyes.
+    
+    More familiar. More <i>real</i>.
+    
     &FOLLOW_NICK_NickEndingStartPos
     &FOLLOW_SUWAN_SuwanEndingStartPos
     &FOLLOW_NOUR_NourEndingStartPos
@@ -1499,9 +1503,7 @@
     &EMOTE_NICK_UpIdle
     &EMOTE_SUWAN_UpIdle
     
-    There's... a new energy in Rina's eyes.
     
-    More familiar. More <i>real</i>.
     
     &PORTRAIT_ms. suwan_mssuwannervous
     
@@ -1728,7 +1730,7 @@
                 
                 &PORTRAIT_nour_nourshadow
                 
-                NOUR: "Maybe even more than I was mad at you, Rina."
+                NOUR: "Maybe even more than I was mad at you."
             
         - &PORTRAIT_nour_noursad
         
@@ -1901,16 +1903,6 @@
         NOUR: "Yeah. Let's go."
         
         &FOLLOW_NOUR_EndingElevatorPos
-        
-        &SPEED_NOUR_40.0
-        
-        &PAUSE_0.2
-        // &SLOWFADE
-        // &PAUSE_0.5
-        
-        &ENDGAME
-        
-        Bye!
         
         -> END
 

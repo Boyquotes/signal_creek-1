@@ -1,8 +1,8 @@
 == pretzelstand ==
 
-    {- !pretzelstand_convo: -> pretzelstand_convo}
-    
     It's a Pretzo's pretzel stand. 
+
+    {- !pretzelstand_convo: -> pretzelstand_convo}
     
     The cashier is strangely still. He doesn't seem real, and he <i>certainly</i> doesn't know a way out of here.
     
@@ -19,7 +19,7 @@
     
     NOUR: "I always wanted the cinnamon sugar bites as a kid."
     
-    NOUR: "... I was only allowed a regular pretzel, though."
+    NOUR: "...I was only allowed a regular pretzel, though."
     
     &PORTRAIT_nick_nicksmallsmile
     

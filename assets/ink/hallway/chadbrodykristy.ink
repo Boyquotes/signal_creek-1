@@ -116,7 +116,7 @@ Three people stand idly. They look almost <i>too</i> still.
     
     &PORTRAIT_nour_nourpondering
     
-    NOUR: <i>Why does she seem so confused all of a sudden..?</i>
+    NOUR: <i>Why does she seem so confused all of a sudden...?</i>
     
     NOUR: <i>And why do I get the feeling she might know those three?</i>
     
@@ -133,7 +133,7 @@ Three people stand idly. They look almost <i>too</i> still.
     &EMOTE_NOUR_UpIdle
     
     NOUR: "Look, we're sorry to bother you, but we really need help right now."
-    
+
     ...
     
     &PORTRAIT_nour_nourannoyed
@@ -282,7 +282,7 @@ Three people stand idly. They look almost <i>too</i> still.
     
     &PORTRAIT_nour_nourannoyed
     
-    NOUR: <i>She really doesn't want to talk to these people... but why?</i>
+    NOUR: <i>She really doesn't want to talk to these people... But why?</i>
     
     &PORTRAIT_nour_nourneutral
     
@@ -304,7 +304,7 @@ Three people stand idly. They look almost <i>too</i> still.
     
     &PORTRAIT_nour_nourpondering
     
-    NOUR: <i>Maybe the B&N has something that could help her open up about her open her up more about her past.</i>
+    NOUR: <i>Maybe the B&N has something that could help her open up more about her past.</i>
     
     -> END
 
@@ -412,7 +412,7 @@ Three people stand idly. They look almost <i>too</i> still.
     
     &PORTRAIT_chad_chadsad
     
-    CHAD: "Kannika, you did better than all of us. Never below a 90 on exams."
+    CHAD: "Kannika, you did better than all of us. Never below a ninety on exams."
     
     &PORTRAIT_kannika_mssuwanfurious
     
@@ -613,7 +613,7 @@ Three people stand idly. They look almost <i>too</i> still.
     
     &PORTRAIT_kannika_mssuwanneutral
     
-    KANNIKA: "We were shouting the words to our favorite songs alongside who knows how many strangers."
+    KANNIKA: "We were shouting the words to our favorite songs alongside who <i>knows</i> how many strangers."
     
     &PORTRAIT_kannika_mssuwanrealization
     
@@ -860,12 +860,11 @@ Three people stand idly. They look almost <i>too</i> still.
     
     &PORTRAIT_nour_noursad
     
-    NOUR: <i>Could I ever feel that way about</i> my <i>past?</i>
+    NOUR: <i>Could I ever feel that way about my past?</i>
     
     &LIGHT_Suwan2
     
     &FOLLOW_NOUR_stop
-
     
     &PAUSE_1.5
     

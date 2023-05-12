@@ -2,7 +2,7 @@
     
     The vending machine is full of coffee, sparkling water, and diet sodas.
     
-    The last row in the vending machine is a row of Specialty Drinks— Japanese sodas and canned boba. 
+    The last row in the vending machine is a row of specialty drinks— Japanese sodas and canned boba. 
     
     {
         - bobatea_find_dukedelicious:
@@ -88,6 +88,7 @@
     
         -> END
 
+
 === bobatea_beforeaplequest_repeat ===
 
     &PORTRAIT_nour_nourneutral
@@ -126,7 +127,7 @@
     
     &PORTRAIT_nour_nourrealization
 
-    NOUR: "It looks kinda round... like an <i>apple?!</i>"
+    NOUR: "It looks kinda round... Like an <i>apple?!</i>"
     
     &PORTRAIT_nour_nourpondering
     
@@ -166,7 +167,7 @@
             
             &PORTRAIT_nour_nourpondering
             
-            NOUR: "It could be time for a little B&E on this machine. What do you say?"
+            NOUR: "It could be time for a little B-and-E on this machine. What do you say?"
             
             &PORTRAIT_nour_noursmile
             
@@ -190,7 +191,7 @@
     
     &PORTRAIT_nick_nicknervous
     
-    NICK: "...50 cents each?"
+    NICK: "...Fifty cents each?"
     
     &PORTRAIT_ms. suwan_mssuwanneutral
         
@@ -227,10 +228,6 @@
         * "I'll crack it open."
         
         * "Ms. Suwan, could you open this?"
-            
-            &PORTRAIT_nour_noursmile
-            
-            NOUR: "I trust you the most."
             
             &PORTRAIT_ms. suwan_mssuwansmile
             
@@ -280,7 +277,7 @@
     &EMOTE_SUWAN_UpIdle
     &EMOTE_NOUR_UpIdle
     
-    ...and an apple squeezes out!
+    ...And an apple squeezes out!
     
     &SHLORP_APPLE_DukeDelicious_in
     
@@ -360,7 +357,7 @@
     
     &SOUND_dukedeliciouslaugh
     
-    DUKE DELICIOUS: "<i>So show MERCY to the BERRY BEAST!</i>
+    DUKE DELICIOUS: "<i>So show MERCY to the BERRY BEAST!</i>"
     
     &PORTRAIT_nour_nourpondering
     
@@ -390,7 +387,7 @@
     
     &PORTRAIT_ms. suwan_mssuwanneutral
     
-    MS. SUWAN: "Very well.
+    MS. SUWAN: "Very well."
     
     &PORTRAIT_nick_nickneutral
     
