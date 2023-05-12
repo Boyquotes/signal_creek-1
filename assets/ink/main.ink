@@ -135,7 +135,11 @@ INCLUDE bandn/computerdesk.ink
     
     &PORTRAIT_nick_nicksmallsmile
     
-    NICK: "But think it'd be so cool... The mall is our friend!"
+    NICK: "I think it'd be so cool if it did." 
+    
+    &PORTRAIT_nick_nickbigsmile
+    
+    NICK: "The mall is our friend!"
     
     &PORTRAIT_nour_nourpondering
     
