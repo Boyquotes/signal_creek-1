@@ -1,6 +1,6 @@
 == polaroid ==
 
-    A Polaroid One Step camera sits inside a glass case.
+    A Polaroid One Step camera sits on a table.
     
     { -!polaroid_first_visit:
         -> polaroid_first_visit
@@ -27,7 +27,7 @@
 == polaroid_first_visit ==
     The camera is surrounded by a bunch of film photographs. 
     
-    One of them sits on the floor. 
+    One of them is on the floor. 
     
     &FOLLOW_NOUR_NourPolaroid
     
@@ -281,7 +281,7 @@
             
             MS. SUWAN: "We'll come back to this later, though. Don't think I'll forget about it."
         
-            Ms. Suwan places the photograph on top of the glass case.
+            Ms. Suwan places the photograph on the table.
             
             &PORTRAIT_ms. suwan_mssuwannervous
         
