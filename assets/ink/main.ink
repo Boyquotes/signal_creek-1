@@ -95,7 +95,7 @@ INCLUDE bandn/computerdesk.ink
     
     NICK: "Woah, look at that! One of the weird lights turned back on!"
     
-    &PORTRAIT_ms. suwan_mssuwanrealization
+    &PORTRAIT_ms. suwan_mssuwannervous
     
     MS. SUWAN: "This is becoming stranger and stranger..."
     
@@ -107,7 +107,7 @@ INCLUDE bandn/computerdesk.ink
     
     NICK: "I dunno, but we must've done <i>something</i> to make the elevator work again."
     
-    &PORTRAIT_nick_nickworried
+    &PORTRAIT_nick_nicknervous
     
     NICK: "Er, maybe not work <i>completely</i> though."
     
@@ -149,7 +149,7 @@ INCLUDE bandn/computerdesk.ink
     
     NOUR: <i>...and it's up to us to move on.</i>
     
-    &PORTRAIT_nour_nourrealization
+    &PORTRAIT_nour_nourpondering
     
     NOUR: <i>When we were talking earlier, did {firstLightCharacter} reveal something {firstLightPronoun} hung up on?</i>
     
