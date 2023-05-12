@@ -1,0 +1,23 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/hallwayemo.wav-1dc6999a3f3d1e3f8952fc54c2d480cf.sample"
+
+[deps]
+
+source_file="res://assets/sounds/music/looping tracks/hallwayemo.wav"
+dest_files=[ "res://.import/hallwayemo.wav-1dc6999a3f3d1e3f8952fc54c2d480cf.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0
