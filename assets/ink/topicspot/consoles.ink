@@ -401,15 +401,31 @@ It's a game console that seems to be rather outdated.
     
     &PORTRAIT_emperor evercrisp_emperorevercrispneutral
     
-    EMPEROR EVERCRISP: "Our <i>Prince</i> went to Earth in search of..."
-    
-    &PORTRAIT_emperor evercrisp_emperorevercrisppreach
-    
-    EMPEROR EVERCRISP: "The <b>four</b> missing members of the Council to restore order!"
+    EMPEROR EVERCRISP: "I sent our <i>Prince</i> to Earth for his safety..."
     
     &PORTRAIT_emperor evercrisp_emperorevercrispsad
     
     EMPEROR EVERCRISP: "...But we've lost all communication with him."
+    
+    &PORTRAIT_emperor evercrisp_emperorevercrispneutral
+    
+    EMPEROR EVERCRISP: "Thus, I sent a search party to Earth, looking for him. Specifically..."
+    
+    &PORTRAIT_emperor evercrisp_emperorevercrisppreach
+    
+    EMPEROR EVERCRISP: "The <b>four</b> missing members of the Apple Council!"
+    
+    &PORTRAIT_emperor evercrisp_emperorevercrispsad
+    
+    EMPEROR EVERCRISP: "But then..."
+    
+    &PORTRAIT_emperor evercrisp_emperorevercrisppreach
+    
+    EMPEROR EVERCRISP: "THEY WENT MISSING,TOO!"
+    
+    &PORTRAIT_nour_nourpondering
+    
+    NOUR: "Some search party you guys are..."
     
     &PORTRAIT_emperor evercrisp_emperorevercrisppreach
     
