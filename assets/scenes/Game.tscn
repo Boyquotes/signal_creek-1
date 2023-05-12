@@ -1,4 +1,4 @@
-[gd_scene load_steps=34 format=2]
+[gd_scene load_steps=35 format=2]
 
 [ext_resource path="res://assets/scenes/rooms/room_abstract.tscn" type="PackedScene" id=1]
 [ext_resource path="res://assets/scripts/globals/game_root.gd" type="Script" id=2]
@@ -19,6 +19,7 @@
 [ext_resource path="res://assets/sounds/music/looping tracks/bandn.wav" type="AudioStream" id=17]
 [ext_resource path="res://assets/sounds/music/looping tracks/hallway.wav" type="AudioStream" id=18]
 [ext_resource path="res://assets/sounds/music/looping tracks/topicspot.wav" type="AudioStream" id=19]
+[ext_resource path="res://assets/sounds/music/looping tracks/hallwayemo.wav" type="AudioStream" id=20]
 
 [sub_resource type="Environment" id=3]
 background_mode = 4
@@ -299,6 +300,7 @@ anims/Off = SubResource( 6 )
 script = ExtResource( 4 )
 music_bandn = ExtResource( 17 )
 music_hallway = ExtResource( 18 )
+music_hallwayemo = ExtResource( 20 )
 music_topicspot = ExtResource( 19 )
 music_elevator = ExtResource( 8 )
 music_starter = ExtResource( 11 )
