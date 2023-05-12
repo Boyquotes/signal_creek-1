@@ -108,7 +108,7 @@
     
     &PORTRAIT_nour_noursad
     
-    NOUR: "Sometimes the least obvious answers are the most obvious ones..."
+    NOUR: "An apple could be hidden in plain sight..."
     
     &PORTRAIT_ms. suwan_mssuwanangry
 
@@ -720,11 +720,23 @@
     
     &PORTRAIT_nour_nourpondering
     
-    NOUR: "Sometimes we have to keep a critical, open-mind about others... And about ourselves."
+    NOUR: "Sometimes we have to keep a critical, open-mind about others..." 
     
-    &PORTRAIT_nick_nicksmallsmile
+    &PORTRAIT_nour_noursmile
+    
+    NOUR: "And about <i>ourselves</i>, too."
+    
+    &PORTRAIT_nick_nicknervous
     
     NICK: "..."
+    
+    &PORTRAIT_ms. suwan_mssuwanneutral
+    
+    MS. SUWAN: "Stop staring, Nick."
+    
+    &PORTRAIT_ms. suwan_mssuwannervous
+    
+    MS. SUWAN: "...Please."
     
     &PORTRAIT_nour_nourrealization
     
@@ -736,7 +748,7 @@
     
     &PORTRAIT_nour_nourpondering
     
-    NOUR: <i>Maybe she could be more open to talking about those three...</i>
+    NOUR: <i>I could help her more this way.</i>
     
     &PORTRAIT_nour_nourneutral
     
@@ -757,6 +769,12 @@
     &PAUSE_1.0
     
     &MUSIC_STOP
+    
+    &PORTRAIT_nour_nourrealization
+    
+    NOUR: <i>Nick smiled!</i>
+    
+    &PORTRAIT_nour_noursmile
     
     NOUR: <i>Looks like the Princess really helped him feel better.</i>
     

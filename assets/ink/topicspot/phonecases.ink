@@ -63,7 +63,7 @@
     
     &PORTRAIT_nick_nickshocked
     
-    NICK: "IS THAT... A FROG??"
+    NICK: "IS THAT... A FROG???"
     
     He picks the frog phone case up and smiles, admiring the cute design.
     

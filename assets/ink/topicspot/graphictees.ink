@@ -36,7 +36,7 @@
     
     &PORTRAIT_nick_nickbigsmile
     
-    NICK: "Y'know, I think they're kinda cool! They make a <i>statement</i>."
+    NICK: "Y'know, I think they're kinda cool! They make a <i>statement.</i>"
     
     &PORTRAIT_ms. suwan_mssuwanpondering
     

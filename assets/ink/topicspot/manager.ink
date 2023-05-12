@@ -111,15 +111,25 @@
     
     MS. SUWAN: "I don't think this conversation is a productive use of our time."
     
+    &PORTRAIT_nour_nourpondering
+    
     * "Why are you saying those... symbols?"
+    
+        &PORTRAIT_nour_nournervous
     
         NOUR: "You said... asterisk, hyphen, one, question mark, question mark, slash."
         
-        &PORTRAIT_nour_nournervous
+        &PORTRAIT_nour_nourneutral
          
-        NOUR: "But with the actual symbols, not their names. How are we even understanding this right now?"
+        NOUR: "But with the actual symbols, not their names."
         
-        MANAGER: "That's just how I learned to talk! I'm special like that owo"
+        &PORTRAIT_nour_nourpondering
+        
+        NOUR: "How are we even understanding this right now?"
+        
+        &PORTRAIT_manager_manageruwu
+        
+        MANAGER: "That's just how I learned to talk! I'm special like that... owo"
         
         &PORTRAIT_nour_nourannoyed
         
@@ -135,11 +145,15 @@
         
         NICK: "Sheesh, fine."
     
-    - MANAGER: "Well, let me know if you need help finding anything. XD"
+    - &PORTRAIT_manager_managerneutral
+    
+    MANAGER: "Well, let me know if you need help finding anything! XD"
     
     &PORTRAIT_nick_nickshocked
     
     NICK: "Whoa, you just did it again... Seriously, how are you doing that?"
+    
+    &PORTRAIT_manager_manageruwu
     
     MANAGER: "I don't know what you're talking about!"
     

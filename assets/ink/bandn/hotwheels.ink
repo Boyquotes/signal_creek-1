@@ -14,7 +14,11 @@
     
     &PORTRAIT_nick_nickbigsmile
     
-    NICK: "Hey, I used to play with these things all the time! My go-to was the '20 Dodge Charger Hellcat!" // EXCITED
+    NICK: "Hey, I used to play with these things all the time!"
+    
+    &PORTRAIT_nick_nicksmallsmile
+    
+    NICK: "My go-to was the '20 Dodge Charger Hellcat!" // EXCITED
     
     &PORTRAIT_ms. suwan_mssuwannervous
     
@@ -60,15 +64,23 @@
     
     MS. SUWAN: "I had a hard time sleeping without it and took it with me everywhere."
     
-    &PORTRAIT_ms. suwan_mssuwansmile
+    &PORTRAIT_ms. suwan_mssuwanneutral
     
-    MS. SUWAN: "It was probably my equivalent of your...'20 Dodge Charger Hellcat, was it?" // SMILING
+    MS. SUWAN: "It was probably my equivalent of your..."
+    
+    &PORTRAIT_ms. suwan_mssuwanpondering
+    
+    MS. SUWAN: "'20 Dodge Charger Hellcat, was it?" // SMILING
     
     &PORTRAIT_nick_nickbigsmile
     
     NICK: "You remembered?!" // HAPPY
     
+    &PORTRAIT_ms. suwan_mssuwansmile
+    
     MS. SUWAN: "It's not exactly hard to remember something as ridiculous like that."
+    
+    &PORTRAIT_ms. suwan_mssuwanpondering
     
     MS. SUWAN: "Especially if you just mentioned it moments ago."
     
@@ -124,7 +136,11 @@
             
             &PORTRAIT_ms. suwan_mssuwannervous
             
-            MS. SUWAN: "Lots of nature. Lots of people. Winding paths, crossing from one place to the next."
+            MS. SUWAN: "Lots of nature. Lots of people."
+            
+            &PORTRAIT_ms. suwan_mssuwanneutral
+            
+            MS. SUWAN: "Winding paths, crossing from one place to the next."
             
             &PORTRAIT_ms. suwan_mssuwansmile
             

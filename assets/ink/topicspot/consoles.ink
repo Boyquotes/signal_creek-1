@@ -401,15 +401,51 @@ It's a game console that seems to be rather outdated.
     
     &PORTRAIT_emperor evercrisp_emperorevercrispneutral
     
-    EMPEROR EVERCRISP: "Our <i>Prince</i> went to Earth in search of the <b>four</b> missing members of the Council to restore order..."
+    EMPEROR EVERCRISP: "I sent our <i>Prince</i> to Earth for his safety..."
     
     &PORTRAIT_emperor evercrisp_emperorevercrispsad
     
     EMPEROR EVERCRISP: "...But we've lost all communication with him."
     
+    &PORTRAIT_emperor evercrisp_emperorevercrispneutral
+    
+    EMPEROR EVERCRISP: "Thus, I sent a search party to Earth, looking for him. Specifically..."
+    
     &PORTRAIT_emperor evercrisp_emperorevercrisppreach
     
-    EMPEROR EVERCRISP: "Please, Plane Walkers! Bring me the Prince and all the Apple Council members!"
+    EMPEROR EVERCRISP: "The <b>four</b> members of the Apple Council!"
+    
+    &PORTRAIT_emperor evercrisp_emperorevercrispsad
+    
+    EMPEROR EVERCRISP: "But then..."
+    
+    &PORTRAIT_emperor evercrisp_emperorevercrisppreach
+    
+    EMPEROR EVERCRISP: "THEY WENT MISSING,TOO!"
+    
+    &PORTRAIT_nour_nourpondering
+    
+    NOUR: "You guys need to work on your navigation skills..."
+    
+    &PORTRAIT_emperor evercrisp_emperorevercrispsad
+    
+    EMPEROR EVERCRISP: "We're trying our best."
+    
+    &PORTRAIT_emperor evercrisp_emperorevercrisppreach
+    
+    EMPEROR EVERCRISP: "ANYWHO!"
+    
+    &PORTRAIT_emperor evercrisp_emperorevercrispneutral
+    
+    EMPEROR EVERCRISP: "Now I must prepare a search party..."
+    
+    &PORTRAIT_emperor evercrisp_emperorevercrisppreach
+    
+    EMPEROR EVERCRISP: "FOR MY SEARCH PARTY...!"
+    
+    &PORTRAIT_emperor evercrisp_emperorevercrispsad
+    
+    EMPEROR EVERCRISP: "Please, Plane Walkers! Find the Prince and all the Apple Council members!"
     
     &PORTRAIT_emperor evercrisp_emperorevercrispsmile
     
@@ -1083,7 +1119,7 @@ It's a game console that seems to be rather outdated.
     
     &PAUSE_1.0
 
-    &MUSIC_ApleQuestEmoMusic
+    &MUSIC_HallwayEmo
     
     &PORTRAIT_nour_noursad
     

@@ -62,10 +62,10 @@
     &PAUSE_1.0
     
     &AUDIO_FADEOUT
+    
+    &PORTRAIT_nour_nourpondering
 
     NOUR: "..."
-
-    PORTRAIT_nour_nourpondering
     
     &FOLLOW_NICK_NickToyPos
     &FOLLOW_SUWAN_SuwanToyPos
@@ -79,7 +79,11 @@
     
     There's a small groaning sound coming from below the gate.
     
+    &PORTRAIT_nour_nournervous
+    
     NOUR: "..."
+    
+    &PORTRAIT_ms. suwan_mssuwannervous
     
     MS. SUWAN: "What... is that <i>noise</i>?"
     
@@ -87,9 +91,11 @@
     
     ???: "I feel... so... useless..."
     
-    &PORTRAIT_nour_nourrealization
+    &PORTRAIT_nour_nourpondering
     
     NOUR: "What the..." 
+    
+    &PORTRAIT_nour_nournervous
     
     NOUR: "Hello?"
     
@@ -331,13 +337,17 @@
     
     &PORTRAIT_nick_nickshocked
     
-    NICK: "Remember when you used your observation skills to figure out the Cornling's battle strategy?"
+    NICK: "Remember when you used your observation skills on your infiltration mission?"
+    
+    &PORTRAIT_nick_nickbigsmile
+    
+    NICK: "You figured out the Cornling's battle strategy all by yourself!"
     
     &PORTRAIT_prince pendragon_princependragonneutral
     
     PRINCE PENDRAGON: "Ah, yes... I studied Cornlings for <i>months</i>..."
     
-    &PORTRAIT_nick_nickbigsmile
+    &PORTRAIT_nick_nickpleading
     
     NICK: "And you were able to help the Bean Boys get their town back from the Cornling army."
     
@@ -607,11 +617,11 @@
     
     NICK: "Maybe..."
     
-    NOUR: <i>Looks like he's finally ready to talk!</i>
+    NOUR: <i>Looks like he's finally ready to talk about games!</i>
     
     &PORTRAIT_nour_nourneutral
     
-    NOUR: <i>All that's left is to go back to TopicSpot and play the game now...</i>
+    NOUR: <i>All that's left is to go TopicSpot and play that secret ending...</i>
     
     &MUSIC_HallwayMusic
     

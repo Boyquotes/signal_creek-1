@@ -160,7 +160,7 @@
     
     &PORTRAIT_father fuji_fatherfujineutral
     
-    FATHER FUJI: "...Head priest of the Aple Council."
+    FATHER FUJI: "...Head priest of the Apple Council."
     
     &PORTRAIT_father fuji_fatherfujipreach
     
@@ -240,7 +240,7 @@
     
     &PORTRAIT_nour_noursad
     
-    NOUR: <i>How do I get him to care?...</i>
+    NOUR: <i>How do I get him to care...?</i>
     
     &PORTRAIT_father fuji_fatherfujineutral
     
@@ -260,7 +260,7 @@
     
     &PORTRAIT_nick_nickshocked
     
-    NICK: "...Information? 
+    NICK: "...Information?"
     
     &PORTRAIT_nick_nicknervous
     
@@ -354,7 +354,7 @@
     
     &PORTRAIT_father fuji_fatherfujineutral
 
-    FATHER FUJI: "Hoping this majesty's unripness would abate."
+    FATHER FUJI: "Hoping this majesty's unripeness would abate."
     
     &PORTRAIT_father fuji_fatherfujipreach
     
