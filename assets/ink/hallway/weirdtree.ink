@@ -54,6 +54,8 @@
     
     &PORTRAIT_ms. suwan_mssuwanangry
     
+    &AUDIO_FADEIN
+    
     MS. SUWAN: "No. We have better things to do."
     
     &PORTRAIT_nick_nickangry
