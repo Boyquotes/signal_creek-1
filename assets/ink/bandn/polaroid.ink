@@ -109,7 +109,7 @@
     
     &PORTRAIT_ms. suwan_mssuwanpondering
     
-    MS. SUWAN: "Wait Nour, there are pictures of you in this polaroid."
+    MS. SUWAN: "Wait Nour. I think you're in this photograph."
     
     &PORTRAIT_nour_nourrealization
     
