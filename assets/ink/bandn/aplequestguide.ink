@@ -193,7 +193,7 @@ A tutorial guide to an old fantasy videogame called <i>"Aple Quest/: The Space P
     
     - &PORTRAIT_nour_nourrealization
     
-    NOUR: "Huh... looks like you know a lot about this game after all."
+    NOUR: "Huh... Looks like you know a lot about this game after all."
     
     &PORTRAIT_nick_nicknervous
     

@@ -54,14 +54,6 @@
     
     NOUR: "Looks like you're familiar with it."
     
-    &PORTRAIT_ms. suwan_mssuwannervous 
-    
-    MS. SUWAN: "...Maybe."
-    
-    &PORTRAIT_nour_nourpondering
-    
-    NOUR: "You've had your eye on it for a while."
-    
     &PORTRAIT_ms. suwan_mssuwanneutral
 
     MS. SUWAN: "Well, the name sounds familiar, but I know nothing of it."

@@ -25,9 +25,9 @@
     -> END
     
 == polaroid_first_visit ==
-    The camera is surrounded by a bunch of film photographs of two girls. 
+    The camera is surrounded by a bunch of film photographs. 
     
-    One of them sits on the floor outside of the case. 
+    One of them sits on the floor. 
     
     &FOLLOW_NOUR_NourPolaroid
     
@@ -137,15 +137,15 @@
             
             MS. SUWAN: "Are you trying to prank us, young lady?" // (ANGRY)
             
-            &PORTRAIT_nour_nourannoyed
+            &PORTRAIT_nour_nourpondering
         
             NOUR: "No! I swear I'm not!"
             
+            &PORTRAIT_nour_nourannoyed
+            
+            NOUR: "Seriously, I'm just as shocked as you are."
+            
             &PORTRAIT_nour_nournervous
-            
-            NOUR: "Seriously, I'm just as shocked as you are." 
-            
-            &PORTRAIT_nour_nourshocked
             
             NOUR: "These photos are supposed to be in a shoebox under my bed!" // (SHOCKED)
             
@@ -451,11 +451,90 @@
         
         &PORTRAIT_nour_nournervous
         
+        NOUR: <i>What the—Rina?!</i>
+        
         NOUR: <i>She's... here? Again?</i> // (SHOCKED)
+        
+        &PORTRAIT_nour_nournervous
+        
+        NOUR: "There's... There's no way she could be here!"
+        
+        &PORTRAIT_nick_nickshocked
+        
+        NICK: "WOAH!!! Weren't we <i>just</i> talking about her?"
+        
+        &PORTRAIT_ms. suwan_mssuwannervous
+        
+        MS. SUWAN: "...We were. How did she get in here without us noticing?"
+        
+        &PORTRAIT_nick_nickpondering
+        
+        NICK: "I'm telling you guys. Magic!"
+        
+        &PORTRAIT_nick_nickshocked
+        
+        NICK: "Magic elevator, magic girl that Nour knows but doesn't wanna talk about, and magic mall!"
+        
+        &PORTRAIT_ms. suwan_mssuwanannoyed
+        
+        MS. SUWAN: "Enough with the magic, please."
+        
+        &PORTRAIT_nour_nournervous
+        
+        NOUR: "But she didn't come with us in the elevator. She can't be real!"
+        
+        &PORTRAIT_nour_noursad
+        
+        NOUR: "She can't be real. She can't be real..."
+        
+        &PORTRAIT_nick_nicknervous
+        
+        NICK: "...?"
+        
+        &PORTRAIT_ms. suwan_mssuwannervous
+        
+        MS. SUWAN: "...Take a deep breath, Nour."
+        
+        &PORTRAIT_nick_nicksad
+        
+        NICK: "Are you okay, Nour?"
+        
+        &PORTRAIT_nour_nournervous
+        
+        NOUR: <i>Just looking at her makes me feel sick. I feel like I'm spiraling...</i>
         
         &PORTRAIT_nour_nourannoyed
         
+        NOUR: <i>What is this place? Why is it showing me her?</i>
+        
+        &PORTRAIT_nour_nourshadow
+        
+        NOUR: <i>I already hate the way things ended with her.</i>
+        
+        &PORTRAIT_nour_nourangry
+        
+        NOUR: <i>Do I really need a reminder? Of all the mistakes I made with her?</i>
+        
+        &PORTRAIT_nour_noursad
+        
+        NOUR: <i>...Of all the ways I could've saved our friendship?</i>
+        
+        &PORTRAIT_nick_nicknervous
+        
+        NICK: "N-Nour?"
+        
+        &PORTRAIT_ms. suwan_mssuwannervous
+        
+        MS. SUWAN: "Nour, try to calm down..."
+        
+        &PORTRAIT_nour_nourannoyed
+        
+        NOUR: "..."
+        
+        &PORTRAIT_nour_nourshadow
+        
         NOUR: <i>I better tell her to get out of our way.</i> // (ANGRY)
+        
         
          &FOLLOW_NOUR_stop
         
