@@ -435,7 +435,7 @@
     
     &PORTRAIT_nour_nourneutral
     
-    NOUR: <i>I'm sure if I look around this bookstore, I'm bound to find something related to it.</i>
+    NOUR: <i>If I look around this bookstore, I'm bound to find something related to it.</i>
     
     &FOLLOW_NOUR_stop
         -> END
@@ -519,9 +519,11 @@
     MS. SUWAN: "I would be happy to learn more about it."
     
     &EMOTE_NICK_Jump
-    &PORTRAIT_nick_nickbigsmile
+    &PORTRAIT_nick_nicksmallsmile
     
     NICK: "I'd <i>love</i> to tell you about it!" 
+    
+    &PORTRAIT_nick_nickbigsmile
     
     NICK: "I have so many favorite series..."
 

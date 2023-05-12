@@ -35,7 +35,7 @@
     
     &FOLLOW_SUWAN_SuwanOutElevatorPos
     
-    &PORTRAIT_nour_nournervous
+    &PORTRAIT_nour_noursad
     
     NOUR: "Ugh... I feel sick."
     
@@ -47,13 +47,13 @@
     
     NICK: "Woah, this is crazy! Are you seeing what I'm seeing?"
     
-    &PORTRAIT_nour_nourrealization
+    &PORTRAIT_nour_nournervous
     
     NOUR: "This... this is one of the floors of the mall, isn't it? The top floor?"
     
     &PORTRAIT_nour_noursad
     
-    NOUR: "But it feels... something feels off."
+    NOUR: "But it feels... Something feels off."
     
     &EMOTE_NICK_UpIdle
     
@@ -105,7 +105,7 @@
     
     &PORTRAIT_ms. suwan_mssuwannervous
     
-    MS. SUWAN: "Hmm. No signal and no WiFi."
+    MS. SUWAN: "...No signal and no WiFi."
     
     Nick pulls out his phone, then frantically taps on the screen.
     
@@ -145,7 +145,7 @@
     
     MS. SUWAN: "Enough with your fooling around."
     
-    &PORTRAIT_nour_nourrealization
+    &PORTRAIT_nour_nournervous
     
     NOUR: <i>...Rina?!</i>
     
@@ -347,9 +347,13 @@
     
     &PORTRAIT_nour_nourpondering
     
-    NOUR: "Honestly it's a start. Who knows, maybe we'll be able to ask someone for help there."
+    NOUR: "Honestly? It's a start. Maybe we'll be able to ask someone for help there..."
     
-    Nour hesitates. Nick and Ms. Suwan look at her, expectedly.
+    &PORTRAIT_nour_nournervous
+    
+    NOUR: "..."
+    
+    Nick and Ms. Suwan look at her, expectedly.
     
     &PORTRAIT_nick_nickpondering
     
@@ -856,7 +860,7 @@
             
             &PORTRAIT_rina_rinaangry
             
-            RINA: "Make everyone suddenly unlearn what our parents taught us?"
+            RINA: "Make everyone suddenly unlearn what we were taught? How we were raised?"
             
             &PORTRAIT_rina_rinaannoyed
             
@@ -1134,11 +1138,11 @@
         
         &PORTRAIT_rina_rinaneutral
         
-        RINA: "You want our homophobic friends to know their place."
+        RINA: "You want our homophobic friends to know their places."
         
         &PORTRAIT_rina_rinaannoyed
         
-        RINA: "You closed yourself to any possiblity for me to support you."
+        RINA: "But you closed yourself to any possiblity for me to support you."
         
         &PORTRAIT_rina_rinaneutral
         
@@ -1160,7 +1164,7 @@
         
         &PORTRAIT_nour_nournervous
         
-        NOUR: "N-no! I..."
+        NOUR: "N-No! I..."
         
         &PORTRAIT_nour_noursad
         
@@ -1399,7 +1403,7 @@
         
         &PORTRAIT_rina_rinasad
         
-        RINA: "You couldn't <i>possibly</i> think forgetting everything would be a realistic solution, right..?"
+        RINA: "You couldn't <i>possibly</i> think forgetting everything would be a realistic solution?"
         
         &PORTRAIT_rina_rinaneutral
         
@@ -1419,7 +1423,7 @@
         
         &PORTRAIT_nour_nournervous
         
-        NOUR: "I-I..!"
+        NOUR: "I-I...!"
         
         &PORTRAIT_nour_nourshadow
         
@@ -1549,7 +1553,7 @@
         
         &PORTRAIT_ms. suwan_mssuwanneutral
         
-        MS. SUWAN: "You need to face the past... with Rina, with <i>everything.</i>"
+        MS. SUWAN: "You need to face the past... with Rina. With <i>everything.</i>"
         
         &PORTRAIT_ms. suwan_mssuwanpondering
         
@@ -1559,13 +1563,11 @@
         
         &EMOTE_NICK_RightIdle
         
-        NICK: "You've helped us. Now it's our turn to help <i>you</i>."
-        
         &PORTRAIT_nick_nickshocked
         
-        NICK: "Ms. Suwan's right, Nour!"
+        NICK: "You've helped us. Now it's our turn to help <i>you</i>."
         
-        &PORTRAIT_nick_nicknervous
+        &PORTRAIT_nick_nicksmallsmile
         
         NICK: "We'll be behind you every step of the way, too."
         
@@ -1676,7 +1678,7 @@
             
                 &PORTRAIT_nour_nournervous
             
-                NOUR: "I guess I... already knew what it was to be bullied and picked on."
+                NOUR: "I guess I... already knew what it was like to be picked on."
                 
                 &PORTRAIT_nour_nourshadow
                 
@@ -1750,7 +1752,7 @@
         
         &PORTRAIT_nick_nicksad
         
-        NICK: "And we're here now, whether you like it or not."
+        NICK: "And we're here with you, now..."
         
         &PORTRAIT_nick_nickbigsmile
         
@@ -1995,9 +1997,11 @@
         
         &PORTRAIT_nour_nourneutral
         
-        NOUR: <i>With the polaroid camera that my dad got...</i>
+        NOUR: <i>With the polaroid camera that my dad got... from this mall.</i>
         
-        NOUR: <i>...from this mall.</i>
+        &PORTRAIT_nour_nournervous
+        
+        NOUR: <i>I wonder if I could find it around here.</i>
         
         -> END
     

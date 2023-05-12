@@ -6,7 +6,7 @@
     
     &PORTRAIT_nour_noursad
     
-    NOUR: <i>Poof the Friendly Dragon... that's a hell of a throwback.</i>
+    NOUR: <i>'Poof the Friendly Dragon'... that's a hell of a throwback.</i>
     
     -> END
     
@@ -15,7 +15,7 @@
     
     &PORTRAIT_nour_nourrealization
     
-    NOUR: "Poof the Friendly Dragon!?"
+    NOUR: "'Poof the Friendly Dragon'!?"
     
     &PORTRAIT_nick_nickshocked
     
@@ -55,13 +55,13 @@
     
     NOUR: "...It was actually pretty dark for a children's book, now that I think about it."
     
-    &PORTRAIT_nick_nickworried
+    &PORTRAIT_nick_nicknervous
     
     NICK: "..."
     
     &PORTRAIT_nour_nourneutral
     
-    * "I never stopped asking Baba to sing that song to me...["] at least, not until high school."
+    * "I never stopped asking baba to sing that song to me...["] at least, not until high school."
     
         NOUR: "I used to be unafraid to ask baba for things."
         
