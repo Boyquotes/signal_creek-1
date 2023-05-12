@@ -35,7 +35,7 @@
     
     &PORTRAIT_ms. suwan_mssuwannervous
     
-    MS. SUWAN: "... I wanted a doll like this as a child."
+    MS. SUWAN: "...I wanted a doll like this as a child."
     
     &PORTRAIT_nick_nickpondering
         

@@ -1,5 +1,7 @@
-    == partyposter ==
+== partyposter ==
 
+    It's a poster advertising a party.
+    
     {
         - partyposter2:
             -> partypostervisited
@@ -35,7 +37,7 @@
     
     &PORTRAIT_nick_nickbigsmile
     
-    NICK: "Whoa, free food and drinks...! Hey, we should all go together!"
+    NICK: "Woah, free food and drinks! Hey, we should all go together!"
     
     &PORTRAIT_ms. suwan_mssuwanannoyed
     
@@ -47,7 +49,7 @@
     
     &PORTRAIT_nick_nickpondering
     
-    NICK: "Well... okay, you're right, but --"
+    NICK: "Well... okay, you're right, but-"
     
     &PORTRAIT_nour_nourannoyed
     
@@ -59,7 +61,7 @@
     
     &PORTRAIT_nick_nickpondering
     
-    NICK: "That... was sarcasm... right...?"
+    NICK: "That... was sarcasm... right?"
     
     &PORTRAIT_nour_nourneutral
     
@@ -83,7 +85,7 @@
     
     &PORTRAIT_ms. suwan_mssuwanneutral
     
-    MS. SUWAN: "... Unless they're able to help us leave."
+    MS. SUWAN: "...Unless they're able to help us leave."
     
     &PORTRAIT_nick_nicksad
     
@@ -127,9 +129,9 @@
     
     &PORTRAIT_nick_nickbigsmile
     
-    NICK: "F@&%?$!"
+    NICK: "F**K!"
     
-    'F@&%?$! is now displayed on the poster!'
+    'F**K! is now displayed on the poster!'
     
     &PORTRAIT_nour_nourannoyed
     

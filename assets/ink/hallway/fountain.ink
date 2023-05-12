@@ -27,6 +27,8 @@
         - else:
             -> fountain_before_aplequest
     }
+    
+    -> END
 
 == fountain_before_aplequest ==
 
@@ -246,7 +248,7 @@
     
     &PORTRAIT_father fuji_fatherfujipreach
     
-    FATHER FUJI: "I will impart aple wisdom before you go."
+    FATHER FUJI: "I will impart Apple wisdom before you go."
     
     &PORTRAIT_nour_nourneutral
     
@@ -272,7 +274,7 @@
     
     &PORTRAIT_nour_nourpondering
     
-    NOUR: <i>I should encourage him to talk more... but how?</i>
+    NOUR: <i>I should encourage him to talk more... But how?</i>
     
     &PORTRAIT_nour_nourneutral
     

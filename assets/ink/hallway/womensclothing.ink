@@ -15,11 +15,11 @@
     
     &PORTRAIT_nick_nickpondering
     
-    NICK: "I see, uh... mannequins all over the floor, papers everywhere..."
+    NICK: "I see, uh... Mannequins all over the floor, papers everywhere..."
     
     &PORTRAIT_nick_nickshocked
     
-    NICK: "Oh, what the frick? The mannequins just looked over at me, I think..!?"
+    NICK: "Oh, what the frick? The mannequins just looked over at me, I think!?"
     
     &PORTRAIT_ms. suwan_mssuwanannoyed
     
@@ -33,7 +33,7 @@
     
     &PORTRAIT_nick_nicksmile
     
-    NICK: "... Okay, now they're just chilling. One of them is reading a magazine."
+    NICK: "...Okay, now they're just chilling. One of them is reading a magazine."
     
     MS. SUWAN: "Enough." // Frowning
     

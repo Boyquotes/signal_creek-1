@@ -39,7 +39,7 @@
     
     &PORTRAIT_nour_nourpondering
     
-    NOUR: "I agree. I used to think it's all part of a lace-covered box society pushes women into."
+    NOUR: "I agree. I used to think it's all part of a lace-covered box that society pushes women into."
     
     NOUR: "But I realized it can make a lot of people feel really powerful."
     
@@ -47,7 +47,7 @@
     
     &PORTRAIT_nour_nourshadow
     
-    NOUR: "... Not me, though. I was pushed into being feminine a little <i>too</i> much to enjoy it."
+    NOUR: "...Not me, though. I was pushed into being feminine a little <i>too</i> much to enjoy it."
     
     &PORTRAIT_ms. suwan_mssuwanpondering
     

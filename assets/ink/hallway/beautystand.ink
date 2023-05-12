@@ -70,7 +70,7 @@
 
     &PORTRAIT_nour_noursmile
 
-    NOUR: <i>But seeing that apple lady (?) somehow makes me feel better.</i>
+    NOUR: <i>But seeing that apple lady somehow makes me feel better.</i>
     
     -> END
 
@@ -104,7 +104,7 @@
     
     &PORTRAIT_ms. suwan_mssuwanannoyed
     
-    MS. SUWAN: "Are we here because there is literally an apple poster on the booth—"
+    MS. SUWAN: "Are we here because there is literally an apple poster on the booth?"
     
     &PORTRAIT_nour_noursad
     
@@ -392,7 +392,7 @@
     
     NOUR: "...!"
     
-    &PORTRAIT_nour_noursmile
+    &PORTRAIT_nour_noursmile                                                                                                                                                                                                                                                                                1111111111111111111111111111111
     
     NOUR: <i>I'm so glad Nick seems to be enjoying himself.</i>
     
@@ -544,7 +544,7 @@
     
     &EMOTE_NICK_UpIdle
     
-    ???: "You remind me of my beloved prince..."
+    ???: "You remind me of my beloved Prince..."
     
     &PORTRAIT_???_pinkladysmile
     
@@ -568,11 +568,11 @@
     
     ???: "If you look down on different kinds of problem-solving..."
     
-    ???: "...serious <i>or</i> not..." 
+    ???: "...Serious <i>or</i> not..." 
     
     &PORTRAIT_???_pinkladybashful
     
-    ???: "...you lock more doors than you open!"
+    ???: "...You lock more doors than you open!"
     
     &PORTRAIT_nour_nourpondering
     
@@ -580,7 +580,7 @@
     
     &PORTRAIT_nour_nournervous
     
-    NOUR: "Including the prince."
+    NOUR: "Including the Prince."
     
     &PORTRAIT_???_pinkladysmile
     
@@ -628,7 +628,7 @@
     
     PRINCESS PINK LADY: "Before I depart, let me tell you something that might come in handy..."
      
-    PRINCESS PINK LADY: "<i>Walk the opposite way from the Prince of Corn's dungeon!</i>"
+    PRINCESS PINK LADY: "<i>Walk off-screen when you enter the Prince of Corn's dungeon!</i>"
     
     &PORTRAIT_nour_nourpondering
     
@@ -704,7 +704,7 @@
     
     &PORTRAIT_ms. suwan_mssuwanshadow
     
-    MS. SUWAN: "... I will stop here."
+    MS. SUWAN: "...I will stop here."
     
     &PORTRAIT_nick_nickshocked
 
@@ -720,7 +720,7 @@
     
     &PORTRAIT_nour_nourpondering
     
-    NOUR: "Sometimes we have to keep a critical, open-mind about others... and ourselves."
+    NOUR: "Sometimes we have to keep a critical, open-mind about others... And about ourselves."
     
     &PORTRAIT_nick_nicksmallsmile
     
