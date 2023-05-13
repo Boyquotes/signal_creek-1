@@ -104,7 +104,7 @@ _global_script_classes=[ {
 "language": "GDScript",
 "path": "res://assets/scripts/character/npc_kristy.gd"
 }, {
-"base": "Area2D",
+"base": "Interactive",
 "class": "LocationTrigger",
 "language": "GDScript",
 "path": "res://assets/scripts/environment/location_trigger.gd"
@@ -232,7 +232,7 @@ boot_splash/image="res://assets/alpha/sprites_alpha/os/splash_3x.png"
 boot_splash/fullsize=false
 boot_splash/use_filter=false
 boot_splash/bg_color=Color( 0.0745098, 0.0784314, 0.121569, 0.901961 )
-config/icon="res://assets/alpha/sprites_alpha/os/icon.png"
+config/icon="res://assets/sprites/SignalCreekIcon.png"
 
 [audio]
 
