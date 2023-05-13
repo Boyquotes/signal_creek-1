@@ -2,9 +2,21 @@
 
     It's a display of comic books.
     
-    {- !comicstand_convo: -> comicstand_convo}
+    {   
+        - nourplaysaplequest:
+            -> comicstand_end
     
-    One of Nick's favorite series, <i>Blood Titan Online</i>, takes up most of the display.
+        - comicstand_afterbookshelf:
+            -> comicstand_afterbookshelf_repeat
+    
+        - nour_suggests_hobbies:
+            -> comicstand_afterbookshelf
+    
+        - !comicstand_convo: 
+            -> comicstand_convo
+    }
+    
+    A manga series called 'Blood Titan Online' takes up most of the display.
     
     -> END
     
@@ -13,7 +25,7 @@
 
     &PORTRAIT_nick_nickshocked
     
-    NICK: "Whoa! It's the first twenty volumes of <i>Blood Titan Online</i>!" 
+    NICK: "Whoa! It's the first twenty volumes of 'Blood Titan Online'!" 
     
     &PORTRAIT_nick_nickbigsmile
     
@@ -25,7 +37,7 @@
     
     &PORTRAIT_nick_nickbigsmile
     
-    NICK: "Yeah! I've been looking for the manga ever since I watched the anime!" 
+    NICK: "Yeah! I've been looking for the manga ever since I watched the anime!"
     
     &PORTRAIT_nick_nickpondering
     
@@ -45,7 +57,7 @@
     
     &PORTRAIT_ms. suwan_mssuwanpondering
     
-    MS. SUWAN: "What's this Blood... <i>Blood Titan Online</i> about?"
+    MS. SUWAN: "What's this Blood... 'Blood Titan Online' about?"
     
     &PORTRAIT_nick_nickbigsmile
     
@@ -117,3 +129,67 @@
     
     -> END
     
+=== comicstand_afterbookshelf ===
+
+    &PORTRAIT_nour_nourpondering
+
+    NOUR: "Um, Nick. What about these comic books?"
+    
+    &PORTRAIT_nick_nickneutral
+    
+    NICK: "..."
+
+    &PORTRAIT_ms. suwan_mssuwanangry
+    
+    MS. SUWAN: "Really? <i>These?</i>"
+    
+    &PORTRAIT_nour_nourneutral
+    
+    NOUR: "Well, people like to collect things, and—"
+    
+    &PORTRAIT_nick_nickangry
+    
+    NICK: "Guess these are too dumb to enjoy."
+    
+    &PORTRAIT_nick_nickshadow
+    
+    NICK: "Right, Ms. Suwan?"
+    
+    &PORTRAIT_ms. suwan_mssuwanpondering
+
+    MS. SUWAN: "There are far better things to look at in a bookstore."
+    
+    &PORTRAIT_nick_nickangry
+    
+    NICK: "<i>Of course</i> you would see that."
+    
+    &PORTRAIT_nour_nourannoyed
+    
+    NOUR: <i>Ms. Suwan is definitely NOT helping right now.</i>
+
+    &PORTRAIT_nour_noursad
+    
+    NOUR: <i>I should check something else in here...</i>
+    
+    &PORTRAIT_nour_nourpondering
+    
+    NOUR: <i>Maybe something more informational? But still fun?</i>
+
+    -> END
+    
+    
+=== comicstand_afterbookshelf_repeat ===
+
+    &PORTRAIT_nour_nourneutral
+    
+    NOUR: <i>I already checked this.</i>
+
+    -> END
+    
+=== comicstand_end ===
+
+    &PORTRAIT_nick_nickpleading
+    
+    NICK: "One day... I'll collect you ALL!"
+    
+    -> END

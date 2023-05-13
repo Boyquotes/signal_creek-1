@@ -731,7 +731,7 @@ It's a game console that seems to be rather outdated.
     
     &PORTRAIT_nour_nournervous
     
-    NOUR: "Anway, here goes nothing..."
+    NOUR: "Anyway, here goes nothing..."
     
     &PAUSE_1.0
     

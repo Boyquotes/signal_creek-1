@@ -425,7 +425,7 @@
     
     &PORTRAIT_nour_nourrealization
     
-    NOUR: <i>Maybe something less... studious.</i>
+    NOUR: <i>Maybe something less... studious. No more books.</i>
     
     NOUR: <i>Like that videogame from earlier he wanted to see.</i>
     

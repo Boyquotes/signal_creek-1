@@ -497,7 +497,7 @@
     
     &PORTRAIT_prince pendragon_princependragonneutral
     
-    PRINCE PENDRAGON: "For the those who have always believed in me..."
+    PRINCE PENDRAGON: "For those who have always believed in me..."
     
     &PORTRAIT_prince pendragon_princependragonbashful
     

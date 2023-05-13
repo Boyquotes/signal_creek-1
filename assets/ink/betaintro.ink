@@ -79,7 +79,9 @@
             NOUR: "If you keep making so much noise, she's going to <i>find us</i>, you idiot—"
             
             
-    - MS. SUWAN: "Stop right there."
+    - &PORTRAIT_ms. suwan_mssuwanangry
+    
+    MS. SUWAN: "Stop right there."
     
     &FOLLOW_SUWAN_SuwanElevatorPos
     
